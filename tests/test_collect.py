@@ -38,6 +38,17 @@ class CollectionTests(unittest.TestCase):
         raw=b'<feed xmlns="http://www.w3.org/2005/Atom"><entry><title>&lt;b&gt;A &amp; B&lt;/b&gt;</title><link href="https://example.com/a"/><updated>2026-10-19T10:00:00Z</updated></entry></feed>'
         self.assertEqual(c.parse_feed(raw,SOURCE,NOW)[0]["title"],"A & B")
 
+    def test_rdf_feed_dates_and_opinion_exclusion(self):
+        raw=b'<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:dc="http://purl.org/dc/elements/1.1/"><item><title>A reported event</title><link>https://example.com/en/event/a-123</link><dc:date>2026-10-19T10:00:00Z</dc:date><dc:subject>News</dc:subject></item></rdf:RDF>'
+        self.assertEqual(c.parse_feed(raw,SOURCE,NOW)[0]["publishedAt"],"2026-10-19T10:00:00Z")
+        self.assertEqual(c.parse_feed(raw.replace(b'News',b'Opinion'),SOURCE,NOW),[])
+
+    def test_article_path_pattern_excludes_video_and_live_pages(self):
+        source={**SOURCE,"articlePathPattern":r"/a-\d+$"}
+        self.assertEqual(len(c.parse_feed(feed(url="https://example.com/en/event/a-123"),source,NOW)),1)
+        for path in ("/en/event/av-123","/en/event/live-123","/en/top-stories/s-123"):
+            self.assertEqual(c.parse_feed(feed(url="https://example.com"+path),source,NOW),[])
+
     def test_rejects_entities_and_nonfeed_responses(self):
         for raw in (b'<!DOCTYPE rss [<!ENTITY x "test">]><rss/>', b'<html/>'):
             with self.assertRaises(ValueError):

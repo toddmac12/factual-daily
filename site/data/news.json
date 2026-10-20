@@ -1,7 +1,20 @@
 {
   "schemaVersion": 1,
-  "collectedAt": "2026-10-20T03:46:10Z",
+  "collectedAt": "2026-10-20T03:51:21Z",
   "articles": [
+    {
+      "id": "d72b300418b2e9a3",
+      "title": "Christiane Amanpour to leave CNN after 43 years",
+      "url": "https://www.dw.com/en/christiane-amanpour-to-leave-cnn-after-43-years/a-79708034",
+      "publishedAt": "2026-10-20T03:45:00Z",
+      "sourceId": "dw",
+      "source": "DW",
+      "sourceUrl": "https://www.dw.com/en/top-stories/s-9097",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-10-20T03:51:21Z"
+    },
     {
       "id": "62c5c6c612ef04c0",
       "title": "‘Deliberate’ car ramming of Australian MP an isolated incident, police say",
@@ -13,7 +26,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-10-20T03:46:10Z"
+      "accessCheckedAt": "2026-10-20T03:51:21Z"
     },
     {
       "id": "11163c114c3f4fcc",
@@ -26,7 +39,20 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-10-20T03:46:10Z"
+      "accessCheckedAt": "2026-10-20T03:51:21Z"
+    },
+    {
+      "id": "89d78b10e7ef46b7",
+      "title": "Zelenskyy accuses US of delaying Patriot missile shipment",
+      "url": "https://www.dw.com/en/zelenskyy-accuses-us-of-delaying-patriot-missile-shipment/a-79707951",
+      "publishedAt": "2026-10-20T02:15:00Z",
+      "sourceId": "dw",
+      "source": "DW",
+      "sourceUrl": "https://www.dw.com/en/top-stories/s-9097",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-10-20T03:51:21Z"
     },
     {
       "id": "74f26b910597b32e",
@@ -39,7 +65,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-10-20T03:46:10Z"
+      "accessCheckedAt": "2026-10-20T03:51:21Z"
     },
     {
       "id": "ac6e71ef61d1db77",
@@ -52,7 +78,20 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-10-20T03:46:10Z"
+      "accessCheckedAt": "2026-10-20T03:51:21Z"
+    },
+    {
+      "id": "614c93a32fdc818e",
+      "title": "At least four dead after flooding in eastern Spain",
+      "url": "https://www.dw.com/en/at-least-four-dead-after-flooding-in-eastern-spain/a-79707781",
+      "publishedAt": "2026-10-20T00:32:00Z",
+      "sourceId": "dw",
+      "source": "DW",
+      "sourceUrl": "https://www.dw.com/en/top-stories/s-9097",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-10-20T03:51:21Z"
     },
     {
       "id": "9a0354a81d4fbb10",
@@ -65,7 +104,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-10-20T03:46:10Z"
+      "accessCheckedAt": "2026-10-20T03:51:21Z"
     },
     {
       "id": "0b0f5d8d8b8e89c6",
@@ -78,7 +117,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-10-20T03:46:10Z"
+      "accessCheckedAt": "2026-10-20T03:51:21Z"
     },
     {
       "id": "564f84a2dee30758",
@@ -91,7 +130,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-10-20T03:46:10Z"
+      "accessCheckedAt": "2026-10-20T03:51:21Z"
     },
     {
       "id": "c84f1393f0124d81",
@@ -104,7 +143,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-10-20T03:46:10Z"
+      "accessCheckedAt": "2026-10-20T03:51:21Z"
     },
     {
       "id": "065ad51d0b28794b",
@@ -117,7 +156,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-10-20T03:46:10Z"
+      "accessCheckedAt": "2026-10-20T03:51:21Z"
     },
     {
       "id": "42b942ff87f7f69d",
@@ -130,7 +169,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-10-20T03:46:10Z"
+      "accessCheckedAt": "2026-10-20T03:51:21Z"
     },
     {
       "id": "ba0c422e552eb84c",
@@ -143,7 +182,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-10-20T03:46:10Z"
+      "accessCheckedAt": "2026-10-20T03:51:21Z"
     },
     {
       "id": "9ef1b79b9657201e",
@@ -156,7 +195,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-10-20T03:46:10Z"
+      "accessCheckedAt": "2026-10-20T03:51:21Z"
     },
     {
       "id": "785bae0f1b15f0e8",
@@ -169,7 +208,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-10-20T03:46:10Z"
+      "accessCheckedAt": "2026-10-20T03:51:21Z"
     },
     {
       "id": "2d8ac4057bf82d6d",
@@ -182,7 +221,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-10-20T03:46:10Z"
+      "accessCheckedAt": "2026-10-20T03:51:21Z"
     },
     {
       "id": "c7ebfbfc950969c3",
@@ -195,7 +234,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-10-20T03:46:10Z"
+      "accessCheckedAt": "2026-10-20T03:51:21Z"
     },
     {
       "id": "757388949320bca5",
@@ -208,7 +247,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-10-20T03:46:10Z"
+      "accessCheckedAt": "2026-10-20T03:51:21Z"
     },
     {
       "id": "c6682d4b2b17e7a4",
@@ -221,7 +260,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-10-20T03:46:10Z"
+      "accessCheckedAt": "2026-10-20T03:51:21Z"
     },
     {
       "id": "388fcb5083007592",
@@ -234,7 +273,7 @@
       "topic": "Science",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-10-20T03:46:10Z"
+      "accessCheckedAt": "2026-10-20T03:51:21Z"
     },
     {
       "id": "f96bbba95e18bc46",
@@ -247,7 +286,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-10-20T03:46:10Z"
+      "accessCheckedAt": "2026-10-20T03:51:21Z"
     },
     {
       "id": "16dd4353cc96656f",
@@ -260,7 +299,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-10-20T03:46:10Z"
+      "accessCheckedAt": "2026-10-20T03:51:21Z"
     },
     {
       "id": "57be22f856194ddf",
@@ -273,7 +312,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-10-20T03:46:10Z"
+      "accessCheckedAt": "2026-10-20T03:51:21Z"
     },
     {
       "id": "b2515996751acbb2",
@@ -286,7 +325,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-10-20T03:46:10Z"
+      "accessCheckedAt": "2026-10-20T03:51:21Z"
     },
     {
       "id": "0459b96f975bb93a",
@@ -299,7 +338,20 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-10-20T03:46:10Z"
+      "accessCheckedAt": "2026-10-20T03:51:21Z"
+    },
+    {
+      "id": "f6977fb08de12e18",
+      "title": "DOJ charges 28 in California with voting crimes as election tensions escalate",
+      "url": "https://www.npr.org/2026/10/19/nx-s1-6007908/election-tensions-escalate-in-california-as-doj-charges-28-people-with-voting-crimes",
+      "publishedAt": "2026-10-19T22:10:06Z",
+      "sourceId": "npr",
+      "source": "NPR",
+      "sourceUrl": "https://www.npr.org/sections/news/",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-10-20T03:51:21Z"
     },
     {
       "id": "727890fbb1d6547b",
@@ -312,7 +364,20 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-10-20T03:46:10Z"
+      "accessCheckedAt": "2026-10-20T03:51:21Z"
+    },
+    {
+      "id": "8ced3e09efe9b781",
+      "title": "Judge chastises Trump administration plan to push ahead overhaul of DC golf course",
+      "url": "https://www.npr.org/2026/10/19/nx-s1-6007746/golf-course-potomac-white-house-tree-removal",
+      "publishedAt": "2026-10-19T21:56:37Z",
+      "sourceId": "npr",
+      "source": "NPR",
+      "sourceUrl": "https://www.npr.org/sections/news/",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-10-20T03:51:21Z"
     },
     {
       "id": "6eb3365f5d46dd51",
@@ -325,7 +390,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-10-20T03:46:10Z"
+      "accessCheckedAt": "2026-10-20T03:51:21Z"
     },
     {
       "id": "3ea075331dec88e3",
@@ -338,7 +403,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-10-20T03:46:10Z"
+      "accessCheckedAt": "2026-10-20T03:51:21Z"
     },
     {
       "id": "c053605bed703b5d",
@@ -351,7 +416,20 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-10-20T03:46:10Z"
+      "accessCheckedAt": "2026-10-20T03:51:21Z"
+    },
+    {
+      "id": "f921c1ff7f18345c",
+      "title": "Schools struggle to measure how much AI experiments are helping",
+      "url": "https://www.npr.org/2026/10/19/nx-s1-5991881/schools-struggle-to-measure-how-much-ai-experiments-are-helping",
+      "publishedAt": "2026-10-19T20:59:57Z",
+      "sourceId": "npr",
+      "source": "NPR",
+      "sourceUrl": "https://www.npr.org/sections/news/",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-10-20T03:51:21Z"
     },
     {
       "id": "55b30679ff650add",
@@ -364,7 +442,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-10-20T03:46:10Z"
+      "accessCheckedAt": "2026-10-20T03:51:21Z"
     },
     {
       "id": "9a77d0408a69543d",
@@ -377,7 +455,7 @@
       "topic": "Science",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-10-20T03:46:10Z"
+      "accessCheckedAt": "2026-10-20T03:51:21Z"
     },
     {
       "id": "64bf265d060159eb",
@@ -390,7 +468,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-10-20T03:46:10Z"
+      "accessCheckedAt": "2026-10-20T03:51:21Z"
     },
     {
       "id": "b206e58fde36653c",
@@ -403,7 +481,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-10-20T03:46:10Z"
+      "accessCheckedAt": "2026-10-20T03:51:21Z"
     },
     {
       "id": "4c8d6a3dd024a405",
@@ -416,7 +494,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-10-20T03:46:10Z"
+      "accessCheckedAt": "2026-10-20T03:51:21Z"
     },
     {
       "id": "44414403d3d6921e",
@@ -429,7 +507,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-10-20T03:46:10Z"
+      "accessCheckedAt": "2026-10-20T03:51:21Z"
     },
     {
       "id": "a6169a6416152596",
@@ -442,7 +520,358 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-10-20T03:46:10Z"
+      "accessCheckedAt": "2026-10-20T03:51:21Z"
+    },
+    {
+      "id": "e11bc2352fd6a5ee",
+      "title": "Bulgaria seeks suspects in Germany after Starlink sabotage",
+      "url": "https://www.dw.com/en/bulgaria-seeks-suspects-in-germany-after-starlink-sabotage/a-79706745",
+      "publishedAt": "2026-10-19T18:45:00Z",
+      "sourceId": "dw",
+      "source": "DW",
+      "sourceUrl": "https://www.dw.com/en/top-stories/s-9097",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-10-20T03:51:21Z"
+    },
+    {
+      "id": "f2f58ea97f8bbb56",
+      "title": "Kenya: Cult leader guilty of murdering 190 children, 1 adult",
+      "url": "https://www.dw.com/en/kenya-cult-leader-guilty-of-murdering-190-children-1-adult/a-79706279",
+      "publishedAt": "2026-10-19T15:49:00Z",
+      "sourceId": "dw",
+      "source": "DW",
+      "sourceUrl": "https://www.dw.com/en/top-stories/s-9097",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-10-20T03:51:21Z"
+    },
+    {
+      "id": "4cfaa44e1aaa6782",
+      "title": "Canada: Alberta votes on holding independence referendum",
+      "url": "https://www.dw.com/en/canada-alberta-votes-on-holding-independence-referendum/a-79700283",
+      "publishedAt": "2026-10-19T15:09:00Z",
+      "sourceId": "dw",
+      "source": "DW",
+      "sourceUrl": "https://www.dw.com/en/top-stories/s-9097",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-10-20T03:51:21Z"
+    },
+    {
+      "id": "d01e5a08fc374183",
+      "title": "Houthi strike on Yemen government military camp kills at least 50",
+      "url": "https://www.dw.com/en/houthi-strike-on-yemen-government-military-camp-kills-at-least-50/a-79702163",
+      "publishedAt": "2026-10-19T14:39:00Z",
+      "sourceId": "dw",
+      "source": "DW",
+      "sourceUrl": "https://www.dw.com/en/top-stories/s-9097",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-10-20T03:51:21Z"
+    },
+    {
+      "id": "572ae4634b5b4460",
+      "title": "Myanmar refugees find hope in Thailand's work program",
+      "url": "https://www.dw.com/en/myanmar-refugees-find-hope-in-thailand-s-work-program/a-79697921",
+      "publishedAt": "2026-10-19T12:31:00Z",
+      "sourceId": "dw",
+      "source": "DW",
+      "sourceUrl": "https://www.dw.com/en/top-stories/s-9097",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-10-20T03:51:21Z"
+    },
+    {
+      "id": "dd280f73407c2564",
+      "title": "Rubio visits India with a trip to the world's largest oil refinery topping the agenda",
+      "url": "https://www.dw.com/en/rubio-visits-india-with-a-trip-to-the-world-s-largest-oil-refinery-topping-the-agenda/a-79699826",
+      "publishedAt": "2026-10-19T12:31:00Z",
+      "sourceId": "dw",
+      "source": "DW",
+      "sourceUrl": "https://www.dw.com/en/top-stories/s-9097",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-10-20T03:51:21Z"
+    },
+    {
+      "id": "5a5f72f6f26cfacd",
+      "title": "UN food program cuts aid to 500,000 Palestinians in Gaza",
+      "url": "https://www.dw.com/en/un-food-program-cuts-aid-to-500-000-palestinians-in-gaza/a-79699408",
+      "publishedAt": "2026-10-19T11:41:00Z",
+      "sourceId": "dw",
+      "source": "DW",
+      "sourceUrl": "https://www.dw.com/en/top-stories/s-9097",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-10-20T03:51:21Z"
+    },
+    {
+      "id": "2a0deb6236661875",
+      "title": "Australian prime minister says lawmaker critically injured by car is 'no accident'",
+      "url": "https://www.npr.org/2026/10/19/g-s1-148737/australia-lawmaker-critically-injured",
+      "publishedAt": "2026-10-19T11:38:43Z",
+      "sourceId": "npr",
+      "source": "NPR",
+      "sourceUrl": "https://www.npr.org/sections/news/",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-10-20T03:51:21Z"
+    },
+    {
+      "id": "ebe44b85612d8b12",
+      "title": "2026 midterms could be the most expensive on record. And, Macron condemns protests",
+      "url": "https://www.npr.org/2026/10/19/g-s1-148733/up-first-newsletter-ukraine-russia-campaign-finances-france-protests",
+      "publishedAt": "2026-10-19T11:15:43Z",
+      "sourceId": "npr",
+      "source": "NPR",
+      "sourceUrl": "https://www.npr.org/sections/news/",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-10-20T03:51:21Z"
+    },
+    {
+      "id": "a579002c20b4250b",
+      "title": "From delivery driver to global fame: A Korean writer's journey",
+      "url": "https://www.dw.com/en/from-delivery-driver-to-global-fame-a-korean-writer-s-journey/a-79672757",
+      "publishedAt": "2026-10-19T10:55:00Z",
+      "sourceId": "dw",
+      "source": "DW",
+      "sourceUrl": "https://www.dw.com/en/top-stories/s-9097",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-10-20T03:51:21Z"
+    },
+    {
+      "id": "903398310f06f2b2",
+      "title": "The homeless man living in front of a London mega-mansion",
+      "url": "https://www.dw.com/en/the-homeless-man-living-in-front-of-a-london-mega-mansion/a-79400925",
+      "publishedAt": "2026-10-19T10:38:00Z",
+      "sourceId": "dw",
+      "source": "DW",
+      "sourceUrl": "https://www.dw.com/en/top-stories/s-9097",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-10-20T03:51:21Z"
+    },
+    {
+      "id": "c57fcdcb2d553a2c",
+      "title": "Greece: At least 12 die in migrant drownings overnight",
+      "url": "https://www.dw.com/en/greece-at-least-12-die-in-migrant-drownings-overnight/a-79697504",
+      "publishedAt": "2026-10-19T10:19:00Z",
+      "sourceId": "dw",
+      "source": "DW",
+      "sourceUrl": "https://www.dw.com/en/top-stories/s-9097",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-10-20T03:51:21Z"
+    },
+    {
+      "id": "8ec3224c2b82f324",
+      "title": "Australian MP seriously hurt in suspected car attack",
+      "url": "https://www.dw.com/en/australian-mp-seriously-hurt-in-suspected-car-attack/a-79697660",
+      "publishedAt": "2026-10-19T10:06:00Z",
+      "sourceId": "dw",
+      "source": "DW",
+      "sourceUrl": "https://www.dw.com/en/top-stories/s-9097",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-10-20T03:51:21Z"
+    },
+    {
+      "id": "5920f765895a3522",
+      "title": "Ukraine got 'no warning' of Russian ballistic strikes, Zelenskyy says",
+      "url": "https://www.dw.com/en/ukraine-got-no-warning-of-russian-ballistic-strikes-zelenskyy-says/a-79697476",
+      "publishedAt": "2026-10-19T10:01:00Z",
+      "sourceId": "dw",
+      "source": "DW",
+      "sourceUrl": "https://www.dw.com/en/top-stories/s-9097",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-10-20T03:51:21Z"
+    },
+    {
+      "id": "f598e99d910210f9",
+      "title": "The real reason it's going to take a while to know who won in some midterm races",
+      "url": "https://www.npr.org/2026/10/19/nx-s1-5982027/california-vote-counting-margins",
+      "publishedAt": "2026-10-19T09:00:00Z",
+      "sourceId": "npr",
+      "source": "NPR",
+      "sourceUrl": "https://www.npr.org/sections/news/",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-10-20T03:51:21Z"
+    },
+    {
+      "id": "526116a2014d181b",
+      "title": "A Kelvin wave raised sea levels on the West Coast. More are coming",
+      "url": "https://www.npr.org/2026/10/19/nx-s1-6001744/el-nino-kelvin-wave-west-coast",
+      "publishedAt": "2026-10-19T09:00:00Z",
+      "sourceId": "npr",
+      "source": "NPR",
+      "sourceUrl": "https://www.npr.org/sections/news/",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-10-20T03:51:21Z"
+    },
+    {
+      "id": "05a7675a729117c8",
+      "title": "Michigan's Democratic Senate candidate Abdul El-Sayed campaigns in GOP stronghold",
+      "url": "https://www.npr.org/2026/10/19/nx-s1-6005195/michigans-democratic-senate-candidate-abdul-el-sayed-campaigns-in-gop-stronghold",
+      "publishedAt": "2026-10-19T08:46:18Z",
+      "sourceId": "npr",
+      "source": "NPR",
+      "sourceUrl": "https://www.npr.org/sections/news/",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-10-20T03:51:21Z"
+    },
+    {
+      "id": "b1e5fc1f0ab8d70b",
+      "title": "Solar power is changing agriculture in Pakistan, but some fear it could cause issues",
+      "url": "https://www.npr.org/2026/10/19/nx-s1-5993523/solar-power-is-changing-agriculture-in-pakistan-but-some-fear-it-could-cause-issues",
+      "publishedAt": "2026-10-19T08:45:58Z",
+      "sourceId": "npr",
+      "source": "NPR",
+      "sourceUrl": "https://www.npr.org/sections/news/",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-10-20T03:51:21Z"
+    },
+    {
+      "id": "0a48dd473819ec75",
+      "title": "West Bank: Israel arrests 10 suspects over settler attacks on US journalist, European diplomats",
+      "url": "https://www.dw.com/en/west-bank-israel-arrests-10-suspects-over-settler-attacks-on-us-journalist-european-diplomats/a-79696514",
+      "publishedAt": "2026-10-19T08:33:00Z",
+      "sourceId": "dw",
+      "source": "DW",
+      "sourceUrl": "https://www.dw.com/en/top-stories/s-9097",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-10-20T03:51:21Z"
+    },
+    {
+      "id": "dfb913004f7f40d2",
+      "title": "Deepfakes, bots and distrust: How AI is shaping Israel's election",
+      "url": "https://www.dw.com/en/deepfakes-bots-and-distrust-how-ai-is-shaping-israel-s-election/a-79657988",
+      "publishedAt": "2026-10-19T08:26:00Z",
+      "sourceId": "dw",
+      "source": "DW",
+      "sourceUrl": "https://www.dw.com/en/top-stories/s-9097",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-10-20T03:51:21Z"
+    },
+    {
+      "id": "0a12d110aea4e083",
+      "title": "What Earth's sixth mass extinction event means for humans",
+      "url": "https://www.dw.com/en/what-earth-s-sixth-mass-extinction-event-means-for-humans/a-79680410",
+      "publishedAt": "2026-10-19T05:48:00Z",
+      "sourceId": "dw",
+      "source": "DW",
+      "sourceUrl": "https://www.dw.com/en/top-stories/s-9097",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-10-20T03:51:21Z"
+    },
+    {
+      "id": "5c98176d41f87fc2",
+      "title": "France: Young voters blase about Glucksmann's Socialists",
+      "url": "https://www.dw.com/en/france-young-voters-blase-about-glucksmann-s-socialists/a-79684159",
+      "publishedAt": "2026-10-18T13:31:00Z",
+      "sourceId": "dw",
+      "source": "DW",
+      "sourceUrl": "https://www.dw.com/en/top-stories/s-9097",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-10-20T03:51:21Z"
+    },
+    {
+      "id": "95037aa1aa2804f5",
+      "title": "Populist Czech PM Babis goes empty-handed in Senate elections",
+      "url": "https://www.dw.com/en/populist-czech-pm-babis-goes-empty-handed-in-senate-elections/a-79690934",
+      "publishedAt": "2026-10-18T07:03:00Z",
+      "sourceId": "dw",
+      "source": "DW",
+      "sourceUrl": "https://www.dw.com/en/top-stories/s-9097",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-10-20T03:51:21Z"
+    },
+    {
+      "id": "447380e7608aad11",
+      "title": "China's influence in the gaming industry is growing",
+      "url": "https://www.dw.com/en/china-s-influence-in-the-gaming-industry-is-growing/a-79484755",
+      "publishedAt": "2026-10-17T14:49:00Z",
+      "sourceId": "dw",
+      "source": "DW",
+      "sourceUrl": "https://www.dw.com/en/top-stories/s-9097",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-10-20T03:51:21Z"
+    },
+    {
+      "id": "c66cb23b1a91d8d3",
+      "title": "Russia wants blackout in Ukraine as winter comes — Zelenskyy",
+      "url": "https://www.dw.com/en/russia-wants-blackout-in-ukraine-as-winter-comes-zelenskyy/a-79686703",
+      "publishedAt": "2026-10-17T11:34:00Z",
+      "sourceId": "dw",
+      "source": "DW",
+      "sourceUrl": "https://www.dw.com/en/top-stories/s-9097",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-10-20T03:51:21Z"
+    },
+    {
+      "id": "b410e6f9b7263ed1",
+      "title": "France: Protesters clash with police in nationwide protests, amid rising social polarization",
+      "url": "https://www.dw.com/en/france-protesters-clash-with-police-in-nationwide-protests-amid-rising-social-polarization/a-79685584",
+      "publishedAt": "2026-10-17T08:02:00Z",
+      "sourceId": "dw",
+      "source": "DW",
+      "sourceUrl": "https://www.dw.com/en/top-stories/s-9097",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-10-20T03:51:21Z"
+    },
+    {
+      "id": "6307cb90b3ba4842",
+      "title": "Ukrainian President Zelenskyy speaks at EU summit amid spat with Donald Trump",
+      "url": "https://www.dw.com/en/ukrainian-president-zelenskyy-speaks-at-eu-summit-amid-spat-with-donald-trump/a-79684340",
+      "publishedAt": "2026-10-16T19:42:00Z",
+      "sourceId": "dw",
+      "source": "DW",
+      "sourceUrl": "https://www.dw.com/en/top-stories/s-9097",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-10-20T03:51:21Z"
     },
     {
       "id": "e2834c74f4065e96",
@@ -455,7 +884,228 @@
       "topic": "Business",
       "kind": "Agency release",
       "access": "free",
-      "accessCheckedAt": "2026-10-20T03:46:10Z"
+      "accessCheckedAt": "2026-10-20T03:51:21Z"
+    },
+    {
+      "id": "699ae649993b4aee",
+      "title": "Albania: Students demand political change and resignation of Prime Minister Edi Rama",
+      "url": "https://www.dw.com/en/albania-students-demand-political-change-and-resignation-of-prime-minister-edi-rama/a-79682217",
+      "publishedAt": "2026-10-16T14:23:00Z",
+      "sourceId": "dw",
+      "source": "DW",
+      "sourceUrl": "https://www.dw.com/en/top-stories/s-9097",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-10-20T03:51:21Z"
+    },
+    {
+      "id": "8d0677d893587d68",
+      "title": "Italy cuts air traffic in half amid data transmission issue",
+      "url": "https://www.dw.com/en/italy-cuts-air-traffic-in-half-amid-data-transmission-issue/a-79678133",
+      "publishedAt": "2026-10-16T10:37:00Z",
+      "sourceId": "dw",
+      "source": "DW",
+      "sourceUrl": "https://www.dw.com/en/top-stories/s-9097",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-10-20T03:51:21Z"
+    },
+    {
+      "id": "286aee32e70ae552",
+      "title": "EU promotes sovereign, trusted AI as it struggles to catch US and China",
+      "url": "https://www.dw.com/en/eu-promotes-sovereign-trusted-ai-as-it-struggles-to-catch-us-and-china/a-79667770",
+      "publishedAt": "2026-10-16T09:07:00Z",
+      "sourceId": "dw",
+      "source": "DW",
+      "sourceUrl": "https://www.dw.com/en/top-stories/s-9097",
+      "topic": "Business",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-10-20T03:51:21Z"
+    },
+    {
+      "id": "59b33a158fd34373",
+      "title": "Formula One in Rwanda: Sportswashing claims vs. hopes for African legacy",
+      "url": "https://www.dw.com/en/formula-one-in-rwanda-sportswashing-claims-vs-hopes-for-african-legacy/a-79650744",
+      "publishedAt": "2026-10-16T08:37:00Z",
+      "sourceId": "dw",
+      "source": "DW",
+      "sourceUrl": "https://www.dw.com/en/top-stories/s-9097",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-10-20T03:51:21Z"
+    },
+    {
+      "id": "402c2b295200bb11",
+      "title": "Police raid the major pro-opposition Halk TV channel in Turkey",
+      "url": "https://www.dw.com/en/police-raid-the-major-pro-opposition-halk-tv-channel-in-turkey/a-79671673",
+      "publishedAt": "2026-10-15T16:48:00Z",
+      "sourceId": "dw",
+      "source": "DW",
+      "sourceUrl": "https://www.dw.com/en/top-stories/s-9097",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-10-20T03:51:21Z"
+    },
+    {
+      "id": "d6856904c84928d9",
+      "title": "EU summit to focus on China, Ukraine and bloc budget",
+      "url": "https://www.dw.com/en/eu-summit-to-focus-on-china-ukraine-and-bloc-budget/a-79665338",
+      "publishedAt": "2026-10-15T14:37:00Z",
+      "sourceId": "dw",
+      "source": "DW",
+      "sourceUrl": "https://www.dw.com/en/top-stories/s-9097",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-10-20T03:51:21Z"
+    },
+    {
+      "id": "b330bc2c57d8c67a",
+      "title": "Romania: 2 ships on fire in Black Sea, 7 crew missing",
+      "url": "https://www.dw.com/en/romania-2-ships-on-fire-in-black-sea-7-crew-missing/a-79667003",
+      "publishedAt": "2026-10-15T14:34:00Z",
+      "sourceId": "dw",
+      "source": "DW",
+      "sourceUrl": "https://www.dw.com/en/top-stories/s-9097",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-10-20T03:51:21Z"
+    },
+    {
+      "id": "bc7691d0e6e181f2",
+      "title": "Thousands of German gamblers could sue for their money back",
+      "url": "https://www.dw.com/en/thousands-of-german-gamblers-could-sue-for-their-money-back/a-79667844",
+      "publishedAt": "2026-10-15T10:50:00Z",
+      "sourceId": "dw",
+      "source": "DW",
+      "sourceUrl": "https://www.dw.com/en/top-stories/s-9097",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-10-20T03:51:21Z"
+    },
+    {
+      "id": "11ae1f17a0ea1332",
+      "title": "Manchester City, the UAE and the UK's OM in a political tangle",
+      "url": "https://www.dw.com/en/manchester-city-the-uae-and-the-uk-s-om-in-a-political-tangle/a-79664729",
+      "publishedAt": "2026-10-15T08:13:00Z",
+      "sourceId": "dw",
+      "source": "DW",
+      "sourceUrl": "https://www.dw.com/en/top-stories/s-9097",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-10-20T03:51:21Z"
+    },
+    {
+      "id": "840b7e9fd75768f6",
+      "title": "Nord Stream trial opens in Germany, defense seeks dismissal",
+      "url": "https://www.dw.com/en/nord-stream-trial-opens-in-germany-defense-seeks-dismissal/a-79662942",
+      "publishedAt": "2026-10-14T18:00:00Z",
+      "sourceId": "dw",
+      "source": "DW",
+      "sourceUrl": "https://www.dw.com/en/top-stories/s-9097",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-10-20T03:51:21Z"
+    },
+    {
+      "id": "9f342390b0ef07b8",
+      "title": "Germany's far-right AfD forges a pro-Russia alliance with the BSW",
+      "url": "https://www.dw.com/en/germany-s-far-right-afd-forges-a-pro-russia-alliance-with-the-bsw/a-79662413",
+      "publishedAt": "2026-10-14T15:13:00Z",
+      "sourceId": "dw",
+      "source": "DW",
+      "sourceUrl": "https://www.dw.com/en/top-stories/s-9097",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-10-20T03:51:21Z"
+    },
+    {
+      "id": "fb85f85aef8b1826",
+      "title": "Albania: Fire at Education Ministry as students protest",
+      "url": "https://www.dw.com/en/albania-fire-at-education-ministry-as-students-protest/a-79661193",
+      "publishedAt": "2026-10-14T14:56:00Z",
+      "sourceId": "dw",
+      "source": "DW",
+      "sourceUrl": "https://www.dw.com/en/top-stories/s-9097",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-10-20T03:51:21Z"
+    },
+    {
+      "id": "8934faa2519e0e5f",
+      "title": "Trump's diesel deal with Russia is unlikely to significantly lower global fuel prices despite expectations of rapid relief",
+      "url": "https://www.dw.com/en/trump-s-diesel-deal-with-russia-is-unlikely-to-significantly-lower-global-fuel-prices-despite-expectations-of-rapid-relief/a-79659601",
+      "publishedAt": "2026-10-14T14:15:00Z",
+      "sourceId": "dw",
+      "source": "DW",
+      "sourceUrl": "https://www.dw.com/en/top-stories/s-9097",
+      "topic": "Business",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-10-20T03:51:21Z"
+    },
+    {
+      "id": "ad974b48960d2dac",
+      "title": "Nord Stream: Germany puts suspected Ukrainian pipeline saboteur on trial",
+      "url": "https://www.dw.com/en/nord-stream-germany-puts-suspected-ukrainian-pipeline-saboteur-on-trial/a-79647617",
+      "publishedAt": "2026-10-14T11:40:00Z",
+      "sourceId": "dw",
+      "source": "DW",
+      "sourceUrl": "https://www.dw.com/en/top-stories/s-9097",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-10-20T03:51:21Z"
+    },
+    {
+      "id": "365fa34aee7bda4d",
+      "title": "FIFPRO report highlights growing pains in women's football",
+      "url": "https://www.dw.com/en/fifpro-report-highlights-growing-pains-in-women-s-football/a-79648013",
+      "publishedAt": "2026-10-14T08:21:00Z",
+      "sourceId": "dw",
+      "source": "DW",
+      "sourceUrl": "https://www.dw.com/en/top-stories/s-9097",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-10-20T03:51:21Z"
+    },
+    {
+      "id": "7010f2eed048c1b6",
+      "title": "The hidden treasure in discarded wearable and fast tech",
+      "url": "https://www.dw.com/en/the-hidden-treasure-in-discarded-wearable-and-fast-tech/a-79649611",
+      "publishedAt": "2026-10-14T06:52:00Z",
+      "sourceId": "dw",
+      "source": "DW",
+      "sourceUrl": "https://www.dw.com/en/top-stories/s-9097",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-10-20T03:51:21Z"
+    },
+    {
+      "id": "c0d0565fa8d8ef35",
+      "title": "Ukraine allies in Poland after Starlink sabotage, Trump diesel deal",
+      "url": "https://www.dw.com/en/ukraine-allies-in-poland-after-starlink-sabotage-trump-diesel-deal/a-79653869",
+      "publishedAt": "2026-10-13T18:52:00Z",
+      "sourceId": "dw",
+      "source": "DW",
+      "sourceUrl": "https://www.dw.com/en/top-stories/s-9097",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-10-20T03:51:21Z"
     },
     {
       "id": "ca688a27006cdc18",
@@ -468,10 +1118,90 @@
       "topic": "Business",
       "kind": "Agency release",
       "access": "free",
-      "accessCheckedAt": "2026-10-20T03:46:10Z"
+      "accessCheckedAt": "2026-10-20T03:51:21Z"
+    },
+    {
+      "id": "99619951a602d9c8",
+      "title": "Critics warn of espionage risks as Slovakia restores military-diplomatic representation with Russia",
+      "url": "https://www.dw.com/en/critics-warn-of-espionage-risks-as-slovakia-restores-military-diplomatic-representation-with-russia/a-79649641",
+      "publishedAt": "2026-10-13T12:04:00Z",
+      "sourceId": "dw",
+      "source": "DW",
+      "sourceUrl": "https://www.dw.com/en/top-stories/s-9097",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-10-20T03:51:21Z"
+    },
+    {
+      "id": "ee284b399c6db55d",
+      "title": "Formula 1: Rwanda to bring sport back to Africa",
+      "url": "https://www.dw.com/en/formula-1-rwanda-to-bring-sport-back-to-africa/a-79649217",
+      "publishedAt": "2026-10-13T11:20:00Z",
+      "sourceId": "dw",
+      "source": "DW",
+      "sourceUrl": "https://www.dw.com/en/top-stories/s-9097",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-10-20T03:51:21Z"
+    },
+    {
+      "id": "c4df7eb8a0624696",
+      "title": "Germany's China calculation shifts as import pressures eclipse export benefits",
+      "url": "https://www.dw.com/en/germany-s-china-calculation-shifts-as-import-pressures-eclipse-export-benefits/a-79571852",
+      "publishedAt": "2026-10-13T08:47:00Z",
+      "sourceId": "dw",
+      "source": "DW",
+      "sourceUrl": "https://www.dw.com/en/top-stories/s-9097",
+      "topic": "Business",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-10-20T03:51:21Z"
+    },
+    {
+      "id": "20da98f1ab2b53d5",
+      "title": "125 years of Thomas Mann's 'Buddenbrooks'",
+      "url": "https://www.dw.com/en/125-years-of-thomas-mann-s-buddenbrooks/a-44107236",
+      "publishedAt": "2026-10-13T08:09:00Z",
+      "sourceId": "dw",
+      "source": "DW",
+      "sourceUrl": "https://www.dw.com/en/top-stories/s-9097",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-10-20T03:51:21Z"
     }
   ],
   "sources": [
+    {
+      "id": "npr",
+      "name": "NPR",
+      "topic": "World",
+      "kind": "Publisher report",
+      "home": "https://www.npr.org/sections/news/",
+      "feed": "https://feeds.npr.org/1001/rss.xml",
+      "checkedAt": "2026-10-20T03:51:21Z",
+      "status": "ok",
+      "lastSuccessAt": "2026-10-20T03:51:21Z",
+      "count": 9,
+      "eligibleCount": 10,
+      "omittedAccessCount": 1
+    },
+    {
+      "id": "dw",
+      "name": "DW",
+      "topic": "World",
+      "kind": "Publisher report",
+      "home": "https://www.dw.com/en/top-stories/s-9097",
+      "feed": "https://rss.dw.com/rdf/rss-en-all",
+      "checkedAt": "2026-10-20T03:51:21Z",
+      "status": "ok",
+      "lastSuccessAt": "2026-10-20T03:51:21Z",
+      "count": 45,
+      "eligibleCount": 46,
+      "omittedAccessCount": 1
+    },
     {
       "id": "pbs",
       "name": "PBS News",
@@ -479,9 +1209,9 @@
       "kind": "Publisher report",
       "home": "https://www.pbs.org/newshour/",
       "feed": "https://www.pbs.org/newshour/feeds/rss/headlines",
-      "checkedAt": "2026-10-20T03:46:10Z",
+      "checkedAt": "2026-10-20T03:51:21Z",
       "status": "ok",
-      "lastSuccessAt": "2026-10-20T03:46:10Z",
+      "lastSuccessAt": "2026-10-20T03:51:21Z",
       "count": 20,
       "eligibleCount": 20,
       "omittedAccessCount": 0
@@ -493,9 +1223,9 @@
       "kind": "Publisher report",
       "home": "https://www.aljazeera.com/",
       "feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "checkedAt": "2026-10-20T03:46:10Z",
+      "checkedAt": "2026-10-20T03:51:21Z",
       "status": "ok",
-      "lastSuccessAt": "2026-10-20T03:46:10Z",
+      "lastSuccessAt": "2026-10-20T03:51:21Z",
       "count": 14,
       "eligibleCount": 14,
       "omittedAccessCount": 0
@@ -507,9 +1237,9 @@
       "kind": "Agency release",
       "home": "https://www.nasa.gov/news/",
       "feed": "https://www.nasa.gov/news-release/feed/",
-      "checkedAt": "2026-10-20T03:46:10Z",
+      "checkedAt": "2026-10-20T03:51:21Z",
       "status": "ok",
-      "lastSuccessAt": "2026-10-20T03:46:10Z",
+      "lastSuccessAt": "2026-10-20T03:51:21Z",
       "count": 0,
       "eligibleCount": 0,
       "omittedAccessCount": 0
@@ -521,9 +1251,9 @@
       "kind": "Agency release",
       "home": "https://www.federalreserve.gov/newsevents/pressreleases.htm",
       "feed": "https://www.federalreserve.gov/feeds/press_all.xml",
-      "checkedAt": "2026-10-20T03:46:10Z",
+      "checkedAt": "2026-10-20T03:51:21Z",
       "status": "ok",
-      "lastSuccessAt": "2026-10-20T03:46:10Z",
+      "lastSuccessAt": "2026-10-20T03:51:21Z",
       "count": 2,
       "eligibleCount": 2,
       "omittedAccessCount": 0

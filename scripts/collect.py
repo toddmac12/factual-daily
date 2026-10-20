@@ -147,8 +147,14 @@ def parse_feed(raw, source, now):
     root = ET.fromstring(raw)
     rows = []
     atom = "{http://www.w3.org/2005/Atom}"
-    entries = root.findall("./channel/item") if root.tag != atom + "feed" else root.findall(atom + "entry")
-    if root.tag not in ("rss", atom + "feed"):
+    rss1 = "{http://purl.org/rss/1.0/}"
+    dc = "{http://purl.org/dc/elements/1.1/}"
+    rdf = "{http://www.w3.org/1999/02/22-rdf-syntax-ns#}RDF"
+    if root.tag == rdf:
+        entries = root.findall(rss1 + "item")
+    else:
+        entries = root.findall("./channel/item") if root.tag != atom + "feed" else root.findall(atom + "entry")
+    if root.tag not in ("rss", atom + "feed", rdf):
         raise ValueError("Response is not an RSS or Atom feed")
     for item in entries:
         if item.tag == atom + "entry":
@@ -158,15 +164,18 @@ def parse_feed(raw, source, now):
             date = parse_date(item.findtext(atom + "published") or item.findtext(atom + "updated"))
             categories = " ".join(x.get("term", "") for x in item.findall(atom + "category"))
         else:
-            title = plain(item.findtext("title"))
-            link = item.findtext("link", "")
-            date = parse_date(item.findtext("pubDate"))
-            categories = " ".join(x.text or "" for x in item.findall("category"))
+            namespace = rss1 if root.tag == rdf else ""
+            title = plain(item.findtext(namespace + "title"))
+            link = item.findtext(namespace + "link", "")
+            date = parse_date(item.findtext("pubDate") or item.findtext(dc + "date"))
+            categories = " ".join(x.text or "" for x in item.findall("category") + item.findall(dc + "subject"))
         url = safe_url(link, source["hosts"])
         if not title or len(title) > 400 or not url or not date:
             continue
         path = urlsplit(url).path
         if source.get("pathPrefixes") and not any(path.startswith(prefix) for prefix in source["pathPrefixes"]):
+            continue
+        if source.get("articlePathPattern") and not re.search(source["articlePathPattern"], path):
             continue
         if not now - timedelta(days=7) <= date <= now:
             continue

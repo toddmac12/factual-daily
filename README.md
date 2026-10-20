@@ -10,7 +10,7 @@ A quiet, responsive news directory with attributed publisher headlines and offic
 - Only use configured open publishers. Check every article’s public HTML for readable article-body content, paywall wording, and structured metadata that marks access as paid. Omit failures, restricted pages, and pages whose free access cannot be confirmed. Recheck every day; hide links after 36 hours without a new check. Never log in, bypass a gate, use an archive proxy, or copy article text to work around access restrictions. Access checks reflect the collector’s region and time, not a guarantee of future worldwide access.
 - Keep only dated articles published in the preceding seven days. Reject unknown dates, future dates, insecure URLs, and URLs outside the configured publisher domains. Deduplicate canonical article URLs and sort by publication time; the lead item is the newest item, not an editorial ranking.
 - Publish no article bodies, descriptions, photos, or logos. Article HTML is inspected transiently for access checks and never saved or republished. Link prominently to each original publisher. No ads or tracking. Review publisher feed terms before commercial reuse; this project does not grant reuse rights.
-- Current coverage is limited to PBS News and Al Jazeera reporting, NASA releases, and Federal Reserve press releases. BBC News has been removed because article access can be restricted. It is not comprehensive or a balance assessment. Edit `sources.json` to change the source selection.
+- Current coverage is limited to NPR, DW, PBS News, and Al Jazeera reporting, NASA releases, and Federal Reserve press releases. BBC News has been removed because article access can be restricted. It is not comprehensive or a balance assessment. Edit `sources.json` to change the source selection.
 
 ## Run locally
 
@@ -34,6 +34,8 @@ Each feed gets three attempts with a timeout and size cap. If one feed fails, it
 
 ## Attribution, corrections, and maintenance
 
-Source feed documentation: [PBS News](https://www.pbs.org/newshour/about/pbs-news-rss-feeds), [Al Jazeera](https://www.aljazeera.com/xml/rss/all.xml), [NASA](https://www.nasa.gov/rss-feeds/), [Federal Reserve](https://www.federalreserve.gov/feeds/feeds.htm). These publishers are not affiliated with or endorsing Factual Daily.
+France 24 was evaluated but is not configured because its public RSS endpoint returned HTTP 403 to the collector. This is a technical access failure, not a determination that its articles are paywalled.
+
+Source feed documentation: [NPR](https://feeds.npr.org/1001/rss.xml), [DW](https://corporate.dw.com/en/rss-feeds/a-68693346), [PBS News](https://www.pbs.org/newshour/about/pbs-news-rss-feeds), [Al Jazeera](https://www.aljazeera.com/xml/rss/all.xml), [NASA](https://www.nasa.gov/rss-feeds/), [Federal Reserve](https://www.federalreserve.gov/feeds/feeds.htm). These publishers are not affiliated with or endorsing Factual Daily.
 
 Report a correction through this repository's Issues tab, including the article URL and issue. Fix the source configuration or filtering code, remove the affected record when appropriate, and run the workflow again. Publication dates are feed timestamps, not verification timestamps. Headlines and sources can change after collection.
