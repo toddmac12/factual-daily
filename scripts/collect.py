@@ -6,8 +6,10 @@ import re
 import sys
 import time
 import xml.etree.ElementTree as ET
+from concurrent.futures import ThreadPoolExecutor
 from datetime import datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
+from html.parser import HTMLParser
 from pathlib import Path
 from urllib.parse import urlsplit, urlunsplit
 from urllib.request import Request, urlopen
@@ -16,6 +18,94 @@ ROOT = Path(__file__).resolve().parents[1]
 OUTPUT = ROOT / "site/data/news.json"
 EXCLUDE = re.compile(r"\b(opinion|editorial|commentary|analysis|perspective|podcast|horoscope|sponsored|advertorial|review|quiz)\b", re.I)
 FORMAT = re.compile(r"^(watch|listen|live|in pictures|explained|fact check|how to)\b|\?|\b(what we know|what to know|why|all you need to know|blogs?)\b", re.I)
+PAYWALL = re.compile(r"\b(subscribe to (?:continue|read|unlock)|subscription required|subscribers?[- ]only|sign in to (?:continue reading|read (?:this|the full))|register to (?:read|continue)|purchase (?:a |an )?(?:subscription|access)|unlock this article|already a subscriber)\b", re.I)
+HEADERS = {"User-Agent": "FactualDaily/1.1 (+https://github.com/toddmac12/factual-daily)"}
+
+
+class AccessPage(HTMLParser):
+    """Inspect public HTML only; never authenticate or circumvent access gates."""
+    def __init__(self, source):
+        super().__init__(convert_charrefs=True)
+        self.source = source
+        self.stack, self.text, self.body, self.schemas = [], [], [], []
+        self.script = None
+
+    def handle_starttag(self, tag, attrs):
+        attrs = dict(attrs)
+        body = bool(set(attrs.get("class", "").split()) & set(self.source.get("bodyClasses", []))) or attrs.get("id") in self.source.get("bodyIds", [])
+        suppressed = tag in ("script", "style", "noscript")
+        if tag == "script" and attrs.get("type", "").lower() == "application/ld+json":
+            self.script = []
+        if tag not in ("area","base","br","col","embed","hr","img","input","link","meta","param","source","track","wbr"):
+            self.stack.append((tag, body, suppressed))
+
+    def handle_endtag(self, tag):
+        if tag == "script" and self.script is not None:
+            try:
+                self.schemas.append(json.loads("".join(self.script)))
+            except (ValueError, TypeError):
+                pass
+            self.script = None
+        for i in range(len(self.stack)-1, -1, -1):
+            if self.stack[i][0] == tag:
+                del self.stack[i:]
+                break
+
+    def handle_data(self, data):
+        if self.script is not None:
+            self.script.append(data)
+        if any(suppressed for _, _, suppressed in self.stack):
+            return
+        self.text.append(data)
+        if any(body for _, body, _ in self.stack):
+            self.body.append(data)
+
+
+def restricted_schema(value):
+    if isinstance(value, dict):
+        if "isAccessibleForFree" in value and str(value["isAccessibleForFree"]).lower() in ("false", "0"):
+            return True
+        return any(restricted_schema(v) for v in value.values())
+    if isinstance(value, list):
+        return any(restricted_schema(v) for v in value)
+    return False
+
+
+def readable_page(raw, source):
+    page = AccessPage(source)
+    page.feed(raw)
+    if any(restricted_schema(schema) for schema in page.schemas):
+        return False
+    if PAYWALL.search(" ".join(page.text)):
+        return False
+    body = " ".join(" ".join(page.body).split())
+    return source.get("accessPolicy") == "open" and len(body) >= 300
+
+
+def check_access(article, source, now):
+    try:
+        with urlopen(Request(article["url"], headers=HEADERS), timeout=20) as response:
+            if not safe_url(response.url, source["hosts"]) or "text/html" not in response.headers.get("Content-Type", "").lower():
+                return None
+            raw = response.read(3_000_001)
+            if len(raw) > 3_000_000:
+                return None
+            text = raw.decode(response.headers.get_content_charset() or "utf-8", errors="replace")
+            if not readable_page(text, source):
+                return None
+        return {**article, "access": "free", "accessCheckedAt": iso(now)}
+    except Exception:
+        return None
+
+
+def article_topic(source, path, categories):
+    if "/economy" in path or re.search(r"\b(economy|business|economics)\b", categories, re.I):
+        return "Business"
+    if "/science" in path or re.search(r"\bscience\b", categories, re.I):
+        return "Science"
+    if re.search(r"\btechnology\b", path + " " + categories, re.I):
+        return "Technology"
+    return source["topic"]
 
 
 def plain(value):
@@ -78,8 +168,6 @@ def parse_feed(raw, source, now):
         path = urlsplit(url).path
         if source.get("pathPrefixes") and not any(path.startswith(prefix) for prefix in source["pathPrefixes"]):
             continue
-        if source["name"] == "BBC News" and not path.startswith("/news/articles/"):
-            continue
         if not now - timedelta(days=7) <= date <= now:
             continue
         if EXCLUDE.search(title + " " + categories + " " + urlsplit(url).path) or FORMAT.search(title):
@@ -87,12 +175,12 @@ def parse_feed(raw, source, now):
         rows.append({"id": hashlib.sha256(url.encode()).hexdigest()[:16], "title": title,
                      "url": url, "publishedAt": iso(date), "sourceId": source["id"],
                      "source": source["name"], "sourceUrl": source["home"],
-                     "topic": source["topic"], "kind": source["kind"]})
+                     "topic": article_topic(source, path, categories), "kind": source["kind"]})
     return rows
 
 
 def fetch(source):
-    request = Request(source["feed"], headers={"User-Agent": "FactualDaily/1.0 (+https://github.com/toddmac12/factual-daily)", "Accept": "application/rss+xml, application/atom+xml, application/xml, text/xml"})
+    request = Request(source["feed"], headers={**HEADERS, "Accept": "application/rss+xml, application/atom+xml, application/xml, text/xml"})
     for attempt in range(3):
         try:
             with urlopen(request, timeout=25) as response:
@@ -135,15 +223,21 @@ def collect():
     if not successes:
         raise RuntimeError("All feeds failed; leaving the last published collection unchanged")
     unique = {a["url"]: a for a in articles}
-    articles = sorted(unique.values(), key=lambda a: a["publishedAt"], reverse=True)[:160]
-    if not articles:
-        raise RuntimeError("No eligible headlines; leaving the last published collection unchanged")
+    candidates = sorted(unique.values(), key=lambda a: a["publishedAt"], reverse=True)[:120]
+    by_id = {s["id"]: s for s in sources}
+    with ThreadPoolExecutor(max_workers=6) as pool:
+        articles = [row for row in pool.map(lambda a: check_access(a, by_id[a["sourceId"]], now), candidates) if row]
+    # Never keep an old deployment just because all current article checks failed.
+    for status in statuses:
+        status["eligibleCount"] = status["count"]
+        status["count"] = sum(a["sourceId"] == status["id"] for a in articles)
+        status["omittedAccessCount"] = sum(a["sourceId"] == status["id"] for a in candidates) - status["count"]
     data = {"schemaVersion": 1, "collectedAt": iso(now), "articles": articles, "sources": statuses}
     OUTPUT.parent.mkdir(parents=True, exist_ok=True)
     temporary = OUTPUT.with_suffix(".tmp")
     temporary.write_text(json.dumps(data, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     temporary.replace(OUTPUT)
-    print(f"Collected {len(articles)} unique headlines from {successes}/{len(sources)} feeds")
+    print(f"Published {len(articles)} free-access headlines; {len(candidates)-len(articles)} inaccessible or restricted links omitted; {successes}/{len(sources)} feeds available")
 
 
 if __name__ == "__main__":

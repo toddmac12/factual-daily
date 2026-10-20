@@ -65,11 +65,31 @@ class CollectionTests(unittest.TestCase):
         with tempfile.TemporaryDirectory() as folder:
             root=Path(folder); (root/"sources.json").write_text(json.dumps([SOURCE,other]))
             output=root/"news.json";output.write_text(json.dumps({"articles":rows,"sources":[]}))
-            with patch.object(c,"ROOT",root),patch.object(c,"OUTPUT",output),patch.object(c,"fetch",side_effect=[OSError(),raw]): c.collect()
+            with patch.object(c,"ROOT",root),patch.object(c,"OUTPUT",output),patch.object(c,"fetch",side_effect=[OSError(),raw]),patch.object(c,"check_access",side_effect=lambda a,s,n: {**a,"access":"free","accessCheckedAt":c.iso(n)}): c.collect()
             data=json.loads(output.read_text())
             self.assertEqual(len(data["articles"]),2)
             self.assertEqual(data["sources"][0]["status"],"unavailable")
             self.assertEqual(data["sources"][1]["status"],"ok")
+
+    def test_paywall_schema_and_visible_gates_are_rejected(self):
+        source={**SOURCE,"accessPolicy":"open","bodyClasses":["article-body"]}
+        body='<div class="article-body">'+'Public reporting with context. '*30+'</div>'
+        self.assertTrue(c.readable_page(body,source))
+        for flag in ('false','"false"'):
+            schema='<script type="application/ld+json">{"@graph":[{"isAccessibleForFree":'+flag+'}]}</script>'
+            self.assertFalse(c.readable_page(schema+body,source))
+        for gate in ('Subscribe to continue reading','Subscription required','Sign in to read this article','Subscribers-only'):
+            self.assertFalse(c.readable_page(body+'<p>'+gate+'</p>',source))
+
+    def test_unknown_or_unreadable_sources_are_rejected(self):
+        self.assertFalse(c.readable_page('<div>Public text</div>',SOURCE))
+        source={**SOURCE,"accessPolicy":"open","bodyClasses":["article-body"]}
+        self.assertFalse(c.readable_page('<div class="article-body">A teaser only.</div>',source))
+        self.assertFalse(c.readable_page('<script>'+('x'*1000)+'</script>',source))
+
+    def test_failed_article_access_check_omits_the_link(self):
+        with patch.object(c,"urlopen",side_effect=OSError("unavailable")):
+            self.assertIsNone(c.check_access({"url":"https://example.com/a"},SOURCE,NOW))
 
 
 if __name__ == "__main__": unittest.main()

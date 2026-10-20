@@ -10,7 +10,7 @@ function render() {
   const query=$('search').value.toLocaleLowerCase().trim(), source=$('source-filter').value;
   // Expire old stories even if scheduled collection has stopped.
   const now=Date.now(), cutoff=now-7*86400000;
-  const visible=articles.filter(a=>Date.parse(a.publishedAt)>=cutoff && Date.parse(a.publishedAt)<=now && (topic==='All'||a.topic===topic) && (source==='All'||a.source===source) && `${a.title} ${a.source}`.toLocaleLowerCase().includes(query));
+  const visible=articles.filter(a=>a.access==='free' && now-Date.parse(a.accessCheckedAt)<=36*3600000 && Date.parse(a.publishedAt)>=cutoff && Date.parse(a.publishedAt)<=now && (topic==='All'||a.topic===topic) && (source==='All'||a.source===source) && `${a.title} ${a.source}`.toLocaleLowerCase().includes(query));
   const fragment=document.createDocumentFragment();
   visible.forEach((a,i)=>{
     const row=element('article','story');
@@ -18,7 +18,7 @@ function render() {
     const body=element('div'); body.append(element('p','story-topic',a.topic));
     const heading=element('h3'); heading.append(link(a.title,a.url)); body.append(heading);
     const meta=element('div','story-meta'); meta.append(link(a.source,a.sourceUrl),element('span',null,'·'));
-    const time=element('time',null,dateText(a.publishedAt)); time.dateTime=a.publishedAt; meta.append(time); body.append(meta); row.append(body);
+    const time=element('time',null,dateText(a.publishedAt)); time.dateTime=a.publishedAt; meta.append(time,element('span',null,'· Free to read')); meta.title=`Free access checked ${dateText(a.accessCheckedAt)}`; body.append(meta); row.append(body);
     const action=element('div','story-action'); action.append(element('span','kind',a.kind)); const read=link('Read at source ↗',a.url); read.setAttribute('aria-label',`Read at ${a.source}: ${a.title} (opens in a new tab)`); action.append(read); row.append(action); fragment.append(row);
   });
   $('stories').replaceChildren(fragment); $('stories').setAttribute('aria-busy','false');
@@ -36,6 +36,7 @@ function showSources(sources) {
     const card=element('article','source-card'), heading=element('h3'); heading.append(link(name,feeds[0].home)); card.append(heading);
     card.append(element('p',null,`${feeds[0].kind} · ${[...new Set(feeds.map(s=>s.topic))].join(', ')}`));
     const failures=feeds.filter(s=>s.status!=='ok').length; card.append(element('p',null,failures?`${failures} of ${feeds.length} feeds unavailable at last attempt`:`${feeds.length} ${feeds.length===1?'feed':'feeds'} collected successfully`));
+    const omitted=feeds.reduce((sum,s)=>sum+(s.omittedAccessCount||0),0); if(omitted)card.append(element('p',null,`${omitted} links omitted: access not confirmed`));
     const details=element('details'); details.append(element('summary',null,'Feed status & links'));
     feeds.forEach(s=>{const row=element('div','feed-status');row.append(link(`${s.topic} RSS`,s.feed),element('span',null,s.status==='ok'?'Available':'Unavailable'));if(s.lastSuccessAt)row.append(element('div',null,`Last success: ${dateText(s.lastSuccessAt)}`));details.append(row);}); card.append(details); fragment.append(card);
   }); $('source-list').replaceChildren(fragment);
@@ -51,7 +52,7 @@ async function load() {
     const stale=!data.collectedAt||Date.now()-Date.parse(data.collectedAt)>36*3600000;
     if(stale||failed){$('freshness').hidden=false;$('freshness').textContent=[stale?'The briefing has not refreshed within the last 36 hours. Check the collection time before relying on its freshness.':'',failed?`${failed} feeds were unavailable at collection. Still-recent headlines from their last successful collection may be shown.`:''].filter(Boolean).join(' ');}
     showSources(data.sources); render();
-    if(!articles.length){$('empty').textContent='The first collection has not been published yet. Please check back after the daily workflow completes.';}
+    if(!articles.length){$('empty').textContent='No articles passed the free-access checks in the latest collection. Please check back after the next daily update.';}
   } catch(error) {
     $('stories').setAttribute('aria-busy','false'); $('updated').textContent='Collection could not be loaded'; $('result-count').textContent='Briefing unavailable'; $('empty').hidden=false; $('empty').textContent='We couldn’t load the briefing. Refresh this page to try again, or check the collection workflow on GitHub.';
   }
