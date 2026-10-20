@@ -1,7 +1,319 @@
 {
   "schemaVersion": 1,
-  "collectedAt": "2026-10-20T03:52:02Z",
+  "collectedAt": "2026-10-20T15:06:04Z",
   "articles": [
+    {
+      "id": "b93235a60fe8a8de",
+      "title": "‘Tinubu Must Go’: Nigeria's northern protests test the limits of political dissent",
+      "url": "https://www.dw.com/en/tinubu-must-go-nigeria-s-northern-protests-test-the-limits-of-political-dissent/a-79713785",
+      "publishedAt": "2026-10-20T14:20:00Z",
+      "sourceId": "dw",
+      "source": "DW",
+      "sourceUrl": "https://www.dw.com/en/top-stories/s-9097",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-10-20T15:06:04Z"
+    },
+    {
+      "id": "8614f5a2000f9930",
+      "title": "JD Vance declines to endorse Netanyahu for reelection, says he's focusing on midterms",
+      "url": "https://www.pbs.org/newshour/politics/jd-vance-declines-to-endorse-netanyahu-for-reelection-says-hes-focusing-on-midterms",
+      "publishedAt": "2026-10-20T14:01:59Z",
+      "sourceId": "pbs",
+      "source": "PBS News",
+      "sourceUrl": "https://www.pbs.org/newshour/",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-10-20T15:06:04Z"
+    },
+    {
+      "id": "553cf41583c13830",
+      "title": "More than 250,000 displaced in Yemen since fighting escalated: UNHCR",
+      "url": "https://www.aljazeera.com/news/2026/10/20/more-than-250000-displaced-in-yemen-since-fighting-escalated-unhcr",
+      "publishedAt": "2026-10-20T13:00:21Z",
+      "sourceId": "aljazeera",
+      "source": "Al Jazeera",
+      "sourceUrl": "https://www.aljazeera.com/",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-10-20T15:06:04Z"
+    },
+    {
+      "id": "05ca991eb7104a7f",
+      "title": "Israeli attacks kill at least four Palestinians in Gaza",
+      "url": "https://www.aljazeera.com/news/2026/10/20/israeli-forces-kill-at-least-four-palestinians-in-gaza-strikes",
+      "publishedAt": "2026-10-20T12:59:58Z",
+      "sourceId": "aljazeera",
+      "source": "Al Jazeera",
+      "sourceUrl": "https://www.aljazeera.com/",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-10-20T15:06:04Z"
+    },
+    {
+      "id": "e24bb9e1da1e52a1",
+      "title": "‘Every day could cost lives’: UK government blocks Gaza families’ reunion",
+      "url": "https://www.aljazeera.com/news/2026/10/20/every-day-could-cost-lives-uk-government-blocks-gaza-families-reunion",
+      "publishedAt": "2026-10-20T12:58:49Z",
+      "sourceId": "aljazeera",
+      "source": "Al Jazeera",
+      "sourceUrl": "https://www.aljazeera.com/",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-10-20T15:06:04Z"
+    },
+    {
+      "id": "ff5544415c4f4885",
+      "title": "Wagner brothers begin new NBA chapter on different paths",
+      "url": "https://www.dw.com/en/wagner-brothers-begin-new-nba-chapter-on-different-paths/a-79712668",
+      "publishedAt": "2026-10-20T12:31:00Z",
+      "sourceId": "dw",
+      "source": "DW",
+      "sourceUrl": "https://www.dw.com/en/top-stories/s-9097",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-10-20T15:06:04Z"
+    },
+    {
+      "id": "4cc5c0d595fb831a",
+      "title": "France PM promises more curfews as authorities seek to regain control",
+      "url": "https://www.aljazeera.com/news/2026/10/20/france-to-impose-new-curfews-where-required-after-calm-night",
+      "publishedAt": "2026-10-20T12:07:46Z",
+      "sourceId": "aljazeera",
+      "source": "Al Jazeera",
+      "sourceUrl": "https://www.aljazeera.com/",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-10-20T15:06:04Z"
+    },
+    {
+      "id": "b4cf382bab01db95",
+      "title": "Yemen: Maps show 10 years of changing control",
+      "url": "https://www.aljazeera.com/news/2026/10/20/yemen-maps-show-10-years-of-changing-control",
+      "publishedAt": "2026-10-20T12:05:21Z",
+      "sourceId": "aljazeera",
+      "source": "Al Jazeera",
+      "sourceUrl": "https://www.aljazeera.com/",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-10-20T15:06:04Z"
+    },
+    {
+      "id": "7cfbdb603d27187a",
+      "title": "Germany: Google must have consent to publish property images",
+      "url": "https://www.dw.com/en/germany-google-must-have-consent-to-publish-property-images/a-79712552",
+      "publishedAt": "2026-10-20T11:46:00Z",
+      "sourceId": "dw",
+      "source": "DW",
+      "sourceUrl": "https://www.dw.com/en/top-stories/s-9097",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-10-20T15:06:04Z"
+    },
+    {
+      "id": "4d3046800a83c86a",
+      "title": "UK to deploy Typhoon jets to help defend Saudi Arabia from Houthi attacks",
+      "url": "https://www.aljazeera.com/news/2026/10/20/uk-to-deploy-raf-fighter-jets-to-defend-saudi-arabia-from-houthi-attacks",
+      "publishedAt": "2026-10-20T11:37:43Z",
+      "sourceId": "aljazeera",
+      "source": "Al Jazeera",
+      "sourceUrl": "https://www.aljazeera.com/",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-10-20T15:06:04Z"
+    },
+    {
+      "id": "a509ee21abbc85c0",
+      "title": "North Korean workers treated as 'slaves' at Russian drone factory, says new report",
+      "url": "https://www.dw.com/en/north-korean-workers-treated-as-slaves-at-russian-drone-factory-says-new-report/a-79710877",
+      "publishedAt": "2026-10-20T11:30:00Z",
+      "sourceId": "dw",
+      "source": "DW",
+      "sourceUrl": "https://www.dw.com/en/top-stories/s-9097",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-10-20T15:06:04Z"
+    },
+    {
+      "id": "7e0985f0f5be6fe1",
+      "title": "Myanmar’s detained ex-leader Suu Kyi receives package from King Charles III",
+      "url": "https://www.aljazeera.com/news/2026/10/20/myanmars-detained-ex-leader-suu-kyi-receives-package-from-king-charles-iii",
+      "publishedAt": "2026-10-20T11:07:55Z",
+      "sourceId": "aljazeera",
+      "source": "Al Jazeera",
+      "sourceUrl": "https://www.aljazeera.com/",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-10-20T15:06:04Z"
+    },
+    {
+      "id": "9d03a78c99d3dcd2",
+      "title": "DOJ charges 28 with voting crimes. And, TikTok ignored staff's child safety concerns",
+      "url": "https://www.npr.org/2026/10/20/g-s1-148877/up-first-newsletter-california-elections-doj-midterms-trump-tiktok",
+      "publishedAt": "2026-10-20T11:04:49Z",
+      "sourceId": "npr",
+      "source": "NPR",
+      "sourceUrl": "https://www.npr.org/sections/news/",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-10-20T15:06:04Z"
+    },
+    {
+      "id": "dace71e3525a7c97",
+      "title": "France’s growing debt woes: How bond markets set countries’ borrowing costs",
+      "url": "https://www.aljazeera.com/economy/2026/10/20/frances-growing-debt-woes-how-bond-markets-set-countries-borrowing-costs",
+      "publishedAt": "2026-10-20T10:53:01Z",
+      "sourceId": "aljazeera",
+      "source": "Al Jazeera",
+      "sourceUrl": "https://www.aljazeera.com/",
+      "topic": "Business",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-10-20T15:06:04Z"
+    },
+    {
+      "id": "6a56b2c29a616cec",
+      "title": "US leaving oil-for-security approach, not Middle East: Envoy Tom Barrack",
+      "url": "https://www.aljazeera.com/news/2026/10/20/us-leaving-oil-for-security-approach-not-middle-east-envoy-tom-barrack",
+      "publishedAt": "2026-10-20T10:36:57Z",
+      "sourceId": "aljazeera",
+      "source": "Al Jazeera",
+      "sourceUrl": "https://www.aljazeera.com/",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-10-20T15:06:04Z"
+    },
+    {
+      "id": "68855340ecb60527",
+      "title": "Zelenskyy to hold talks on Russia-Ukraine war with Witkoff, Europeans",
+      "url": "https://www.aljazeera.com/news/2026/10/20/zelenskyy-to-hold-peace-talks-in-oslo-with-witkoff-kushner-attending",
+      "publishedAt": "2026-10-20T10:24:28Z",
+      "sourceId": "aljazeera",
+      "source": "Al Jazeera",
+      "sourceUrl": "https://www.aljazeera.com/",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-10-20T15:06:04Z"
+    },
+    {
+      "id": "1658f86157786fa3",
+      "title": "Trump’s approval ratings plummet: what that means for the US midterms",
+      "url": "https://www.aljazeera.com/news/2026/10/20/trumps-approval-ratings-plummet-what-that-means-for-the-us-midterms",
+      "publishedAt": "2026-10-20T10:13:19Z",
+      "sourceId": "aljazeera",
+      "source": "Al Jazeera",
+      "sourceUrl": "https://www.aljazeera.com/",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-10-20T15:06:04Z"
+    },
+    {
+      "id": "720b42ad4da2fa01",
+      "title": "TikTok staff raised child safety alarms. Court records show executives failed to act",
+      "url": "https://www.npr.org/2026/10/20/nx-s1-6005809/tiktok-child-safety-money-laundering",
+      "publishedAt": "2026-10-20T09:00:00Z",
+      "sourceId": "npr",
+      "source": "NPR",
+      "sourceUrl": "https://www.npr.org/sections/news/",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-10-20T15:06:04Z"
+    },
+    {
+      "id": "675146225486e81d",
+      "title": "Brutal, revolutionary empire builder: Genghis Khan's legacy",
+      "url": "https://www.dw.com/en/brutal-revolutionary-empire-builder-genghis-khan-s-legacy/a-79697112",
+      "publishedAt": "2026-10-20T08:57:00Z",
+      "sourceId": "dw",
+      "source": "DW",
+      "sourceUrl": "https://www.dw.com/en/top-stories/s-9097",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-10-20T15:06:04Z"
+    },
+    {
+      "id": "8ca3c6616a260dc1",
+      "title": "Japan probe sets course for Mars moon",
+      "url": "https://www.dw.com/en/japan-probe-sets-course-for-mars-moon/a-79708491",
+      "publishedAt": "2026-10-20T07:16:00Z",
+      "sourceId": "dw",
+      "source": "DW",
+      "sourceUrl": "https://www.dw.com/en/top-stories/s-9097",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-10-20T15:06:04Z"
+    },
+    {
+      "id": "5f4ec105e6c165de",
+      "title": "Rays will face Brewers in World Series to produce a first-time champion",
+      "url": "https://www.npr.org/2026/10/20/nx-s1-6008836/rays-brewers-world-series",
+      "publishedAt": "2026-10-20T06:28:10Z",
+      "sourceId": "npr",
+      "source": "NPR",
+      "sourceUrl": "https://www.npr.org/sections/news/",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-10-20T15:06:04Z"
+    },
+    {
+      "id": "59931f2b4e41c772",
+      "title": "Canada: Alberta rejects separation bid, CBC projects",
+      "url": "https://www.dw.com/en/canada-alberta-rejects-separation-bid-cbc-projects/a-79708520",
+      "publishedAt": "2026-10-20T06:13:00Z",
+      "sourceId": "dw",
+      "source": "DW",
+      "sourceUrl": "https://www.dw.com/en/top-stories/s-9097",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-10-20T15:06:04Z"
+    },
+    {
+      "id": "75ee90af8630e0b1",
+      "title": "Alberta voters reject a move toward independence in referendum backing Canadian unity",
+      "url": "https://www.npr.org/2026/10/20/nx-s1-6008832/alberta-referendum-canada",
+      "publishedAt": "2026-10-20T06:02:40Z",
+      "sourceId": "npr",
+      "source": "NPR",
+      "sourceUrl": "https://www.npr.org/sections/news/",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-10-20T15:06:04Z"
+    },
+    {
+      "id": "8ec3224c2b82f324",
+      "title": "Australian MP seriously hurt in suspected car attack",
+      "url": "https://www.dw.com/en/australian-mp-seriously-hurt-in-suspected-car-attack/a-79697660",
+      "publishedAt": "2026-10-20T06:02:00Z",
+      "sourceId": "dw",
+      "source": "DW",
+      "sourceUrl": "https://www.dw.com/en/top-stories/s-9097",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-10-20T15:06:04Z"
+    },
     {
       "id": "d72b300418b2e9a3",
       "title": "Christiane Amanpour to leave CNN after 43 years",
@@ -13,33 +325,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-10-20T03:52:02Z"
-    },
-    {
-      "id": "62c5c6c612ef04c0",
-      "title": "‘Deliberate’ car ramming of Australian MP an isolated incident, police say",
-      "url": "https://www.aljazeera.com/news/2026/10/20/deliberate-car-ramming-of-australian-mp-an-isolated-incident-police-say",
-      "publishedAt": "2026-10-20T03:24:18Z",
-      "sourceId": "aljazeera",
-      "source": "Al Jazeera",
-      "sourceUrl": "https://www.aljazeera.com/",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-10-20T03:52:02Z"
-    },
-    {
-      "id": "11163c114c3f4fcc",
-      "title": "Four dead as torrential rain batters eastern Spain",
-      "url": "https://www.aljazeera.com/news/2026/10/20/four-dead-as-torrential-rain-batters-eastern-spain",
-      "publishedAt": "2026-10-20T02:36:34Z",
-      "sourceId": "aljazeera",
-      "source": "Al Jazeera",
-      "sourceUrl": "https://www.aljazeera.com/",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-10-20T03:52:02Z"
+      "accessCheckedAt": "2026-10-20T15:06:04Z"
     },
     {
       "id": "89d78b10e7ef46b7",
@@ -52,33 +338,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-10-20T03:52:02Z"
-    },
-    {
-      "id": "74f26b910597b32e",
-      "title": "The human cost of surging US air strikes in Somalia",
-      "url": "https://www.aljazeera.com/news/2026/10/20/us-air-strikes-surge-in-somalia-as-families-seek-answers",
-      "publishedAt": "2026-10-20T01:52:32Z",
-      "sourceId": "aljazeera",
-      "source": "Al Jazeera",
-      "sourceUrl": "https://www.aljazeera.com/",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-10-20T03:52:02Z"
-    },
-    {
-      "id": "ac6e71ef61d1db77",
-      "title": "Saudi Arabia cancels 2026 ‘Davos in the Desert’ amid Houthi attacks",
-      "url": "https://www.aljazeera.com/news/2026/10/20/saudi-arabia-cancels-2026-davos-in-the-desert-amid-houthi-attacks",
-      "publishedAt": "2026-10-20T01:05:31Z",
-      "sourceId": "aljazeera",
-      "source": "Al Jazeera",
-      "sourceUrl": "https://www.aljazeera.com/",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-10-20T03:52:02Z"
+      "accessCheckedAt": "2026-10-20T15:06:04Z"
     },
     {
       "id": "614c93a32fdc818e",
@@ -91,98 +351,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-10-20T03:52:02Z"
-    },
-    {
-      "id": "9a0354a81d4fbb10",
-      "title": "Rashida Tlaib demands arrest of Israeli soldier linked to Hind Rajab death",
-      "url": "https://www.aljazeera.com/news/2026/10/20/rashida-tlaib-demands-arrest-of-israeli-soldier-linked-to-hind-rajab-death",
-      "publishedAt": "2026-10-20T00:18:20Z",
-      "sourceId": "aljazeera",
-      "source": "Al Jazeera",
-      "sourceUrl": "https://www.aljazeera.com/",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-10-20T03:52:02Z"
-    },
-    {
-      "id": "0b0f5d8d8b8e89c6",
-      "title": "Hegseth meets Netanyahu in unannounced Israel visit",
-      "url": "https://www.aljazeera.com/news/2026/10/20/hegseth-meets-netanyahu-in-unannounced-israel-visit",
-      "publishedAt": "2026-10-20T00:08:01Z",
-      "sourceId": "aljazeera",
-      "source": "Al Jazeera",
-      "sourceUrl": "https://www.aljazeera.com/",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-10-20T03:52:02Z"
-    },
-    {
-      "id": "564f84a2dee30758",
-      "title": "Exiled critic of Rwandan president found beheaded in Uganda",
-      "url": "https://www.aljazeera.com/news/2026/10/20/exiled-critic-of-rwandan-president-found-beheaded-in-uganda",
-      "publishedAt": "2026-10-20T00:06:00Z",
-      "sourceId": "aljazeera",
-      "source": "Al Jazeera",
-      "sourceUrl": "https://www.aljazeera.com/",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-10-20T03:52:02Z"
-    },
-    {
-      "id": "c84f1393f0124d81",
-      "title": "Iran war live: Trump says US hits Iran hard ‘economically and militarily’",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/10/20/draft-3",
-      "publishedAt": "2026-10-20T00:00:00Z",
-      "sourceId": "aljazeera",
-      "source": "Al Jazeera",
-      "sourceUrl": "https://www.aljazeera.com/",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-10-20T03:52:02Z"
-    },
-    {
-      "id": "065ad51d0b28794b",
-      "title": "Mahmoud Khalil takes deportation fight to the US Supreme Court",
-      "url": "https://www.aljazeera.com/news/2026/10/19/mahmoud-khalil-takes-deportation-fight-to-the-us-supreme-court",
-      "publishedAt": "2026-10-19T23:56:32Z",
-      "sourceId": "aljazeera",
-      "source": "Al Jazeera",
-      "sourceUrl": "https://www.aljazeera.com/",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-10-20T03:52:02Z"
-    },
-    {
-      "id": "42b942ff87f7f69d",
-      "title": "Colombia illegal gold mine collapse kills 14 people",
-      "url": "https://www.aljazeera.com/news/2026/10/19/colombia-illegal-gold-mine-collapse-kills-14-people",
-      "publishedAt": "2026-10-19T23:56:17Z",
-      "sourceId": "aljazeera",
-      "source": "Al Jazeera",
-      "sourceUrl": "https://www.aljazeera.com/",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-10-20T03:52:02Z"
-    },
-    {
-      "id": "ba0c422e552eb84c",
-      "title": "Tehran rejects any role in plot to kill leaders of German Jewish groups",
-      "url": "https://www.aljazeera.com/news/2026/10/19/tehran-rejects-any-role-in-plot-to-kill-leaders-of-jewish-groups",
-      "publishedAt": "2026-10-19T23:16:01Z",
-      "sourceId": "aljazeera",
-      "source": "Al Jazeera",
-      "sourceUrl": "https://www.aljazeera.com/",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-10-20T03:52:02Z"
+      "accessCheckedAt": "2026-10-20T15:06:04Z"
     },
     {
       "id": "9ef1b79b9657201e",
@@ -195,7 +364,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-10-20T03:52:02Z"
+      "accessCheckedAt": "2026-10-20T15:06:04Z"
     },
     {
       "id": "785bae0f1b15f0e8",
@@ -208,7 +377,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-10-20T03:52:02Z"
+      "accessCheckedAt": "2026-10-20T15:06:04Z"
     },
     {
       "id": "2d8ac4057bf82d6d",
@@ -221,7 +390,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-10-20T03:52:02Z"
+      "accessCheckedAt": "2026-10-20T15:06:04Z"
     },
     {
       "id": "c7ebfbfc950969c3",
@@ -234,7 +403,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-10-20T03:52:02Z"
+      "accessCheckedAt": "2026-10-20T15:06:04Z"
     },
     {
       "id": "757388949320bca5",
@@ -247,7 +416,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-10-20T03:52:02Z"
+      "accessCheckedAt": "2026-10-20T15:06:04Z"
     },
     {
       "id": "c6682d4b2b17e7a4",
@@ -260,7 +429,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-10-20T03:52:02Z"
+      "accessCheckedAt": "2026-10-20T15:06:04Z"
     },
     {
       "id": "388fcb5083007592",
@@ -273,7 +442,7 @@
       "topic": "Science",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-10-20T03:52:02Z"
+      "accessCheckedAt": "2026-10-20T15:06:04Z"
     },
     {
       "id": "f96bbba95e18bc46",
@@ -286,7 +455,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-10-20T03:52:02Z"
+      "accessCheckedAt": "2026-10-20T15:06:04Z"
     },
     {
       "id": "16dd4353cc96656f",
@@ -299,7 +468,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-10-20T03:52:02Z"
+      "accessCheckedAt": "2026-10-20T15:06:04Z"
     },
     {
       "id": "57be22f856194ddf",
@@ -312,7 +481,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-10-20T03:52:02Z"
+      "accessCheckedAt": "2026-10-20T15:06:04Z"
     },
     {
       "id": "b2515996751acbb2",
@@ -325,7 +494,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-10-20T03:52:02Z"
+      "accessCheckedAt": "2026-10-20T15:06:04Z"
     },
     {
       "id": "0459b96f975bb93a",
@@ -338,7 +507,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-10-20T03:52:02Z"
+      "accessCheckedAt": "2026-10-20T15:06:04Z"
     },
     {
       "id": "f6977fb08de12e18",
@@ -351,7 +520,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-10-20T03:52:02Z"
+      "accessCheckedAt": "2026-10-20T15:06:04Z"
     },
     {
       "id": "727890fbb1d6547b",
@@ -364,7 +533,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-10-20T03:52:02Z"
+      "accessCheckedAt": "2026-10-20T15:06:04Z"
     },
     {
       "id": "8ced3e09efe9b781",
@@ -377,20 +546,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-10-20T03:52:02Z"
-    },
-    {
-      "id": "6eb3365f5d46dd51",
-      "title": "Egyptian parliament delays vote on military support for Saudi Arabia",
-      "url": "https://www.aljazeera.com/news/2026/10/19/egyptian-parliament-delays-vote-on-military-support-for-saudi-arabia",
-      "publishedAt": "2026-10-19T21:46:00Z",
-      "sourceId": "aljazeera",
-      "source": "Al Jazeera",
-      "sourceUrl": "https://www.aljazeera.com/",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-10-20T03:52:02Z"
+      "accessCheckedAt": "2026-10-20T15:06:04Z"
     },
     {
       "id": "3ea075331dec88e3",
@@ -403,46 +559,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-10-20T03:52:02Z"
-    },
-    {
-      "id": "c053605bed703b5d",
-      "title": "160 people reported killed in escalating drone attacks across Sudan",
-      "url": "https://www.aljazeera.com/news/2026/10/19/160-reported-killed-in-escalating-drone-attacks-across-sudan",
-      "publishedAt": "2026-10-19T21:38:46Z",
-      "sourceId": "aljazeera",
-      "source": "Al Jazeera",
-      "sourceUrl": "https://www.aljazeera.com/",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-10-20T03:52:02Z"
-    },
-    {
-      "id": "f921c1ff7f18345c",
-      "title": "Schools struggle to measure how much AI experiments are helping",
-      "url": "https://www.npr.org/2026/10/19/nx-s1-5991881/schools-struggle-to-measure-how-much-ai-experiments-are-helping",
-      "publishedAt": "2026-10-19T20:59:57Z",
-      "sourceId": "npr",
-      "source": "NPR",
-      "sourceUrl": "https://www.npr.org/sections/news/",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-10-20T03:52:02Z"
-    },
-    {
-      "id": "55b30679ff650add",
-      "title": "Trump approval hits record-low 31 percent, polls show Republican struggles",
-      "url": "https://www.aljazeera.com/news/2026/10/19/trump-approval-hits-record-low-31-percent-polls-show-republican-struggles",
-      "publishedAt": "2026-10-19T20:59:05Z",
-      "sourceId": "aljazeera",
-      "source": "Al Jazeera",
-      "sourceUrl": "https://www.aljazeera.com/",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-10-20T03:52:02Z"
+      "accessCheckedAt": "2026-10-20T15:06:04Z"
     },
     {
       "id": "9a77d0408a69543d",
@@ -455,7 +572,7 @@
       "topic": "Science",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-10-20T03:52:02Z"
+      "accessCheckedAt": "2026-10-20T15:06:04Z"
     },
     {
       "id": "64bf265d060159eb",
@@ -468,7 +585,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-10-20T03:52:02Z"
+      "accessCheckedAt": "2026-10-20T15:06:04Z"
     },
     {
       "id": "b206e58fde36653c",
@@ -481,7 +598,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-10-20T03:52:02Z"
+      "accessCheckedAt": "2026-10-20T15:06:04Z"
     },
     {
       "id": "4c8d6a3dd024a405",
@@ -494,7 +611,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-10-20T03:52:02Z"
+      "accessCheckedAt": "2026-10-20T15:06:04Z"
     },
     {
       "id": "44414403d3d6921e",
@@ -507,20 +624,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-10-20T03:52:02Z"
-    },
-    {
-      "id": "a6169a6416152596",
-      "title": "Longtime CNN anchor Christiane Amanpour leaving network after a storied career of 43 years",
-      "url": "https://www.pbs.org/newshour/nation/longtime-cnn-anchor-christiane-amanpour-leaving-network-after-a-storied-career-of-43-years",
-      "publishedAt": "2026-10-19T19:35:34Z",
-      "sourceId": "pbs",
-      "source": "PBS News",
-      "sourceUrl": "https://www.pbs.org/newshour/",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-10-20T03:52:02Z"
+      "accessCheckedAt": "2026-10-20T15:06:04Z"
     },
     {
       "id": "e11bc2352fd6a5ee",
@@ -533,7 +637,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-10-20T03:52:02Z"
+      "accessCheckedAt": "2026-10-20T15:06:04Z"
     },
     {
       "id": "f2f58ea97f8bbb56",
@@ -546,7 +650,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-10-20T03:52:02Z"
+      "accessCheckedAt": "2026-10-20T15:06:04Z"
     },
     {
       "id": "4cfaa44e1aaa6782",
@@ -559,98 +663,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-10-20T03:52:02Z"
-    },
-    {
-      "id": "d01e5a08fc374183",
-      "title": "Houthi strike on Yemen government military camp kills at least 50",
-      "url": "https://www.dw.com/en/houthi-strike-on-yemen-government-military-camp-kills-at-least-50/a-79702163",
-      "publishedAt": "2026-10-19T14:39:00Z",
-      "sourceId": "dw",
-      "source": "DW",
-      "sourceUrl": "https://www.dw.com/en/top-stories/s-9097",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-10-20T03:52:02Z"
-    },
-    {
-      "id": "572ae4634b5b4460",
-      "title": "Myanmar refugees find hope in Thailand's work program",
-      "url": "https://www.dw.com/en/myanmar-refugees-find-hope-in-thailand-s-work-program/a-79697921",
-      "publishedAt": "2026-10-19T12:31:00Z",
-      "sourceId": "dw",
-      "source": "DW",
-      "sourceUrl": "https://www.dw.com/en/top-stories/s-9097",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-10-20T03:52:02Z"
-    },
-    {
-      "id": "dd280f73407c2564",
-      "title": "Rubio visits India with a trip to the world's largest oil refinery topping the agenda",
-      "url": "https://www.dw.com/en/rubio-visits-india-with-a-trip-to-the-world-s-largest-oil-refinery-topping-the-agenda/a-79699826",
-      "publishedAt": "2026-10-19T12:31:00Z",
-      "sourceId": "dw",
-      "source": "DW",
-      "sourceUrl": "https://www.dw.com/en/top-stories/s-9097",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-10-20T03:52:02Z"
-    },
-    {
-      "id": "5a5f72f6f26cfacd",
-      "title": "UN food program cuts aid to 500,000 Palestinians in Gaza",
-      "url": "https://www.dw.com/en/un-food-program-cuts-aid-to-500-000-palestinians-in-gaza/a-79699408",
-      "publishedAt": "2026-10-19T11:41:00Z",
-      "sourceId": "dw",
-      "source": "DW",
-      "sourceUrl": "https://www.dw.com/en/top-stories/s-9097",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-10-20T03:52:02Z"
-    },
-    {
-      "id": "2a0deb6236661875",
-      "title": "Australian prime minister says lawmaker critically injured by car is 'no accident'",
-      "url": "https://www.npr.org/2026/10/19/g-s1-148737/australia-lawmaker-critically-injured",
-      "publishedAt": "2026-10-19T11:38:43Z",
-      "sourceId": "npr",
-      "source": "NPR",
-      "sourceUrl": "https://www.npr.org/sections/news/",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-10-20T03:52:02Z"
-    },
-    {
-      "id": "ebe44b85612d8b12",
-      "title": "2026 midterms could be the most expensive on record. And, Macron condemns protests",
-      "url": "https://www.npr.org/2026/10/19/g-s1-148733/up-first-newsletter-ukraine-russia-campaign-finances-france-protests",
-      "publishedAt": "2026-10-19T11:15:43Z",
-      "sourceId": "npr",
-      "source": "NPR",
-      "sourceUrl": "https://www.npr.org/sections/news/",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-10-20T03:52:02Z"
-    },
-    {
-      "id": "a579002c20b4250b",
-      "title": "From delivery driver to global fame: A Korean writer's journey",
-      "url": "https://www.dw.com/en/from-delivery-driver-to-global-fame-a-korean-writer-s-journey/a-79672757",
-      "publishedAt": "2026-10-19T10:55:00Z",
-      "sourceId": "dw",
-      "source": "DW",
-      "sourceUrl": "https://www.dw.com/en/top-stories/s-9097",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-10-20T03:52:02Z"
+      "accessCheckedAt": "2026-10-20T15:06:04Z"
     },
     {
       "id": "903398310f06f2b2",
@@ -663,124 +676,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-10-20T03:52:02Z"
-    },
-    {
-      "id": "c57fcdcb2d553a2c",
-      "title": "Greece: At least 12 die in migrant drownings overnight",
-      "url": "https://www.dw.com/en/greece-at-least-12-die-in-migrant-drownings-overnight/a-79697504",
-      "publishedAt": "2026-10-19T10:19:00Z",
-      "sourceId": "dw",
-      "source": "DW",
-      "sourceUrl": "https://www.dw.com/en/top-stories/s-9097",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-10-20T03:52:02Z"
-    },
-    {
-      "id": "8ec3224c2b82f324",
-      "title": "Australian MP seriously hurt in suspected car attack",
-      "url": "https://www.dw.com/en/australian-mp-seriously-hurt-in-suspected-car-attack/a-79697660",
-      "publishedAt": "2026-10-19T10:06:00Z",
-      "sourceId": "dw",
-      "source": "DW",
-      "sourceUrl": "https://www.dw.com/en/top-stories/s-9097",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-10-20T03:52:02Z"
-    },
-    {
-      "id": "5920f765895a3522",
-      "title": "Ukraine got 'no warning' of Russian ballistic strikes, Zelenskyy says",
-      "url": "https://www.dw.com/en/ukraine-got-no-warning-of-russian-ballistic-strikes-zelenskyy-says/a-79697476",
-      "publishedAt": "2026-10-19T10:01:00Z",
-      "sourceId": "dw",
-      "source": "DW",
-      "sourceUrl": "https://www.dw.com/en/top-stories/s-9097",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-10-20T03:52:02Z"
-    },
-    {
-      "id": "f598e99d910210f9",
-      "title": "The real reason it's going to take a while to know who won in some midterm races",
-      "url": "https://www.npr.org/2026/10/19/nx-s1-5982027/california-vote-counting-margins",
-      "publishedAt": "2026-10-19T09:00:00Z",
-      "sourceId": "npr",
-      "source": "NPR",
-      "sourceUrl": "https://www.npr.org/sections/news/",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-10-20T03:52:02Z"
-    },
-    {
-      "id": "526116a2014d181b",
-      "title": "A Kelvin wave raised sea levels on the West Coast. More are coming",
-      "url": "https://www.npr.org/2026/10/19/nx-s1-6001744/el-nino-kelvin-wave-west-coast",
-      "publishedAt": "2026-10-19T09:00:00Z",
-      "sourceId": "npr",
-      "source": "NPR",
-      "sourceUrl": "https://www.npr.org/sections/news/",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-10-20T03:52:02Z"
-    },
-    {
-      "id": "05a7675a729117c8",
-      "title": "Michigan's Democratic Senate candidate Abdul El-Sayed campaigns in GOP stronghold",
-      "url": "https://www.npr.org/2026/10/19/nx-s1-6005195/michigans-democratic-senate-candidate-abdul-el-sayed-campaigns-in-gop-stronghold",
-      "publishedAt": "2026-10-19T08:46:18Z",
-      "sourceId": "npr",
-      "source": "NPR",
-      "sourceUrl": "https://www.npr.org/sections/news/",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-10-20T03:52:02Z"
-    },
-    {
-      "id": "b1e5fc1f0ab8d70b",
-      "title": "Solar power is changing agriculture in Pakistan, but some fear it could cause issues",
-      "url": "https://www.npr.org/2026/10/19/nx-s1-5993523/solar-power-is-changing-agriculture-in-pakistan-but-some-fear-it-could-cause-issues",
-      "publishedAt": "2026-10-19T08:45:58Z",
-      "sourceId": "npr",
-      "source": "NPR",
-      "sourceUrl": "https://www.npr.org/sections/news/",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-10-20T03:52:02Z"
-    },
-    {
-      "id": "0a48dd473819ec75",
-      "title": "West Bank: Israel arrests 10 suspects over settler attacks on US journalist, European diplomats",
-      "url": "https://www.dw.com/en/west-bank-israel-arrests-10-suspects-over-settler-attacks-on-us-journalist-european-diplomats/a-79696514",
-      "publishedAt": "2026-10-19T08:33:00Z",
-      "sourceId": "dw",
-      "source": "DW",
-      "sourceUrl": "https://www.dw.com/en/top-stories/s-9097",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-10-20T03:52:02Z"
-    },
-    {
-      "id": "dfb913004f7f40d2",
-      "title": "Deepfakes, bots and distrust: How AI is shaping Israel's election",
-      "url": "https://www.dw.com/en/deepfakes-bots-and-distrust-how-ai-is-shaping-israel-s-election/a-79657988",
-      "publishedAt": "2026-10-19T08:26:00Z",
-      "sourceId": "dw",
-      "source": "DW",
-      "sourceUrl": "https://www.dw.com/en/top-stories/s-9097",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-10-20T03:52:02Z"
+      "accessCheckedAt": "2026-10-20T15:06:04Z"
     },
     {
       "id": "0a12d110aea4e083",
@@ -793,7 +689,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-10-20T03:52:02Z"
+      "accessCheckedAt": "2026-10-20T15:06:04Z"
     },
     {
       "id": "5c98176d41f87fc2",
@@ -806,7 +702,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-10-20T03:52:02Z"
+      "accessCheckedAt": "2026-10-20T15:06:04Z"
     },
     {
       "id": "95037aa1aa2804f5",
@@ -819,7 +715,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-10-20T03:52:02Z"
+      "accessCheckedAt": "2026-10-20T15:06:04Z"
     },
     {
       "id": "447380e7608aad11",
@@ -832,7 +728,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-10-20T03:52:02Z"
+      "accessCheckedAt": "2026-10-20T15:06:04Z"
     },
     {
       "id": "c66cb23b1a91d8d3",
@@ -845,7 +741,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-10-20T03:52:02Z"
+      "accessCheckedAt": "2026-10-20T15:06:04Z"
     },
     {
       "id": "b410e6f9b7263ed1",
@@ -858,7 +754,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-10-20T03:52:02Z"
+      "accessCheckedAt": "2026-10-20T15:06:04Z"
     },
     {
       "id": "6307cb90b3ba4842",
@@ -871,7 +767,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-10-20T03:52:02Z"
+      "accessCheckedAt": "2026-10-20T15:06:04Z"
     },
     {
       "id": "e2834c74f4065e96",
@@ -884,7 +780,7 @@
       "topic": "Business",
       "kind": "Agency release",
       "access": "free",
-      "accessCheckedAt": "2026-10-20T03:52:02Z"
+      "accessCheckedAt": "2026-10-20T15:06:04Z"
     },
     {
       "id": "699ae649993b4aee",
@@ -897,7 +793,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-10-20T03:52:02Z"
+      "accessCheckedAt": "2026-10-20T15:06:04Z"
     },
     {
       "id": "8d0677d893587d68",
@@ -910,7 +806,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-10-20T03:52:02Z"
+      "accessCheckedAt": "2026-10-20T15:06:04Z"
     },
     {
       "id": "286aee32e70ae552",
@@ -923,7 +819,7 @@
       "topic": "Business",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-10-20T03:52:02Z"
+      "accessCheckedAt": "2026-10-20T15:06:04Z"
     },
     {
       "id": "59b33a158fd34373",
@@ -936,7 +832,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-10-20T03:52:02Z"
+      "accessCheckedAt": "2026-10-20T15:06:04Z"
     },
     {
       "id": "402c2b295200bb11",
@@ -949,7 +845,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-10-20T03:52:02Z"
+      "accessCheckedAt": "2026-10-20T15:06:04Z"
     },
     {
       "id": "d6856904c84928d9",
@@ -962,7 +858,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-10-20T03:52:02Z"
+      "accessCheckedAt": "2026-10-20T15:06:04Z"
     },
     {
       "id": "b330bc2c57d8c67a",
@@ -975,7 +871,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-10-20T03:52:02Z"
+      "accessCheckedAt": "2026-10-20T15:06:04Z"
     },
     {
       "id": "bc7691d0e6e181f2",
@@ -988,7 +884,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-10-20T03:52:02Z"
+      "accessCheckedAt": "2026-10-20T15:06:04Z"
     },
     {
       "id": "11ae1f17a0ea1332",
@@ -1001,7 +897,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-10-20T03:52:02Z"
+      "accessCheckedAt": "2026-10-20T15:06:04Z"
     },
     {
       "id": "840b7e9fd75768f6",
@@ -1014,7 +910,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-10-20T03:52:02Z"
+      "accessCheckedAt": "2026-10-20T15:06:04Z"
     },
     {
       "id": "9f342390b0ef07b8",
@@ -1027,7 +923,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-10-20T03:52:02Z"
+      "accessCheckedAt": "2026-10-20T15:06:04Z"
     },
     {
       "id": "fb85f85aef8b1826",
@@ -1040,7 +936,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-10-20T03:52:02Z"
+      "accessCheckedAt": "2026-10-20T15:06:04Z"
     },
     {
       "id": "8934faa2519e0e5f",
@@ -1053,7 +949,7 @@
       "topic": "Business",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-10-20T03:52:02Z"
+      "accessCheckedAt": "2026-10-20T15:06:04Z"
     },
     {
       "id": "ad974b48960d2dac",
@@ -1066,7 +962,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-10-20T03:52:02Z"
+      "accessCheckedAt": "2026-10-20T15:06:04Z"
     },
     {
       "id": "365fa34aee7bda4d",
@@ -1079,7 +975,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-10-20T03:52:02Z"
+      "accessCheckedAt": "2026-10-20T15:06:04Z"
     },
     {
       "id": "7010f2eed048c1b6",
@@ -1092,7 +988,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-10-20T03:52:02Z"
+      "accessCheckedAt": "2026-10-20T15:06:04Z"
     },
     {
       "id": "c0d0565fa8d8ef35",
@@ -1105,7 +1001,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-10-20T03:52:02Z"
+      "accessCheckedAt": "2026-10-20T15:06:04Z"
     },
     {
       "id": "ca688a27006cdc18",
@@ -1118,59 +1014,7 @@
       "topic": "Business",
       "kind": "Agency release",
       "access": "free",
-      "accessCheckedAt": "2026-10-20T03:52:02Z"
-    },
-    {
-      "id": "99619951a602d9c8",
-      "title": "Critics warn of espionage risks as Slovakia restores military-diplomatic representation with Russia",
-      "url": "https://www.dw.com/en/critics-warn-of-espionage-risks-as-slovakia-restores-military-diplomatic-representation-with-russia/a-79649641",
-      "publishedAt": "2026-10-13T12:04:00Z",
-      "sourceId": "dw",
-      "source": "DW",
-      "sourceUrl": "https://www.dw.com/en/top-stories/s-9097",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-10-20T03:52:02Z"
-    },
-    {
-      "id": "ee284b399c6db55d",
-      "title": "Formula 1: Rwanda to bring sport back to Africa",
-      "url": "https://www.dw.com/en/formula-1-rwanda-to-bring-sport-back-to-africa/a-79649217",
-      "publishedAt": "2026-10-13T11:20:00Z",
-      "sourceId": "dw",
-      "source": "DW",
-      "sourceUrl": "https://www.dw.com/en/top-stories/s-9097",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-10-20T03:52:02Z"
-    },
-    {
-      "id": "c4df7eb8a0624696",
-      "title": "Germany's China calculation shifts as import pressures eclipse export benefits",
-      "url": "https://www.dw.com/en/germany-s-china-calculation-shifts-as-import-pressures-eclipse-export-benefits/a-79571852",
-      "publishedAt": "2026-10-13T08:47:00Z",
-      "sourceId": "dw",
-      "source": "DW",
-      "sourceUrl": "https://www.dw.com/en/top-stories/s-9097",
-      "topic": "Business",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-10-20T03:52:02Z"
-    },
-    {
-      "id": "20da98f1ab2b53d5",
-      "title": "125 years of Thomas Mann's 'Buddenbrooks'",
-      "url": "https://www.dw.com/en/125-years-of-thomas-mann-s-buddenbrooks/a-44107236",
-      "publishedAt": "2026-10-13T08:09:00Z",
-      "sourceId": "dw",
-      "source": "DW",
-      "sourceUrl": "https://www.dw.com/en/top-stories/s-9097",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-10-20T03:52:02Z"
+      "accessCheckedAt": "2026-10-20T15:06:04Z"
     }
   ],
   "sources": [
@@ -1181,11 +1025,11 @@
       "kind": "Publisher report",
       "home": "https://www.npr.org/sections/news/",
       "feed": "https://feeds.npr.org/1001/rss.xml",
-      "checkedAt": "2026-10-20T03:52:02Z",
+      "checkedAt": "2026-10-20T15:06:04Z",
       "status": "ok",
-      "lastSuccessAt": "2026-10-20T03:52:02Z",
-      "count": 9,
-      "eligibleCount": 10,
+      "lastSuccessAt": "2026-10-20T15:06:04Z",
+      "count": 6,
+      "eligibleCount": 7,
       "omittedAccessCount": 1
     },
     {
@@ -1195,11 +1039,11 @@
       "kind": "Publisher report",
       "home": "https://www.dw.com/en/top-stories/s-9097",
       "feed": "https://rss.dw.com/rdf/rss-en-all",
-      "checkedAt": "2026-10-20T03:52:02Z",
+      "checkedAt": "2026-10-20T15:06:04Z",
       "status": "ok",
-      "lastSuccessAt": "2026-10-20T03:52:02Z",
-      "count": 45,
-      "eligibleCount": 46,
+      "lastSuccessAt": "2026-10-20T15:06:04Z",
+      "count": 39,
+      "eligibleCount": 40,
       "omittedAccessCount": 1
     },
     {
@@ -1209,9 +1053,9 @@
       "kind": "Publisher report",
       "home": "https://www.pbs.org/newshour/",
       "feed": "https://www.pbs.org/newshour/feeds/rss/headlines",
-      "checkedAt": "2026-10-20T03:52:02Z",
+      "checkedAt": "2026-10-20T15:06:04Z",
       "status": "ok",
-      "lastSuccessAt": "2026-10-20T03:52:02Z",
+      "lastSuccessAt": "2026-10-20T15:06:04Z",
       "count": 20,
       "eligibleCount": 20,
       "omittedAccessCount": 0
@@ -1223,11 +1067,11 @@
       "kind": "Publisher report",
       "home": "https://www.aljazeera.com/",
       "feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "checkedAt": "2026-10-20T03:52:02Z",
+      "checkedAt": "2026-10-20T15:06:04Z",
       "status": "ok",
-      "lastSuccessAt": "2026-10-20T03:52:02Z",
-      "count": 14,
-      "eligibleCount": 14,
+      "lastSuccessAt": "2026-10-20T15:06:04Z",
+      "count": 11,
+      "eligibleCount": 11,
       "omittedAccessCount": 0
     },
     {
@@ -1237,9 +1081,9 @@
       "kind": "Agency release",
       "home": "https://www.nasa.gov/news/",
       "feed": "https://www.nasa.gov/news-release/feed/",
-      "checkedAt": "2026-10-20T03:52:02Z",
+      "checkedAt": "2026-10-20T15:06:04Z",
       "status": "ok",
-      "lastSuccessAt": "2026-10-20T03:52:02Z",
+      "lastSuccessAt": "2026-10-20T15:06:04Z",
       "count": 0,
       "eligibleCount": 0,
       "omittedAccessCount": 0
@@ -1251,9 +1095,9 @@
       "kind": "Agency release",
       "home": "https://www.federalreserve.gov/newsevents/pressreleases.htm",
       "feed": "https://www.federalreserve.gov/feeds/press_all.xml",
-      "checkedAt": "2026-10-20T03:52:02Z",
+      "checkedAt": "2026-10-20T15:06:04Z",
       "status": "ok",
-      "lastSuccessAt": "2026-10-20T03:52:02Z",
+      "lastSuccessAt": "2026-10-20T15:06:04Z",
       "count": 2,
       "eligibleCount": 2,
       "omittedAccessCount": 0
