@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "collectedAt": "2026-10-20T03:33:03Z",
+  "collectedAt": "2026-10-20T03:33:53Z",
   "articles": [
     {
       "id": "7abb0b2e1f16ef01",
@@ -682,9 +682,9 @@
       "kind": "Publisher report",
       "home": "https://www.bbc.com/news/world",
       "feed": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "checkedAt": "2026-10-20T03:33:03Z",
+      "checkedAt": "2026-10-20T03:33:53Z",
       "status": "ok",
-      "lastSuccessAt": "2026-10-20T03:33:03Z",
+      "lastSuccessAt": "2026-10-20T03:33:53Z",
       "count": 21
     },
     {
@@ -694,9 +694,9 @@
       "kind": "Publisher report",
       "home": "https://www.bbc.com/news/business",
       "feed": "https://feeds.bbci.co.uk/news/business/rss.xml",
-      "checkedAt": "2026-10-20T03:33:03Z",
+      "checkedAt": "2026-10-20T03:33:53Z",
       "status": "ok",
-      "lastSuccessAt": "2026-10-20T03:33:03Z",
+      "lastSuccessAt": "2026-10-20T03:33:53Z",
       "count": 21
     },
     {
@@ -706,9 +706,9 @@
       "kind": "Publisher report",
       "home": "https://www.bbc.com/news/technology",
       "feed": "https://feeds.bbci.co.uk/news/technology/rss.xml",
-      "checkedAt": "2026-10-20T03:33:03Z",
+      "checkedAt": "2026-10-20T03:33:53Z",
       "status": "ok",
-      "lastSuccessAt": "2026-10-20T03:33:03Z",
+      "lastSuccessAt": "2026-10-20T03:33:53Z",
       "count": 11
     },
     {
@@ -718,9 +718,9 @@
       "kind": "Publisher report",
       "home": "https://www.bbc.com/news/science_and_environment",
       "feed": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
-      "checkedAt": "2026-10-20T03:33:03Z",
+      "checkedAt": "2026-10-20T03:33:53Z",
       "status": "ok",
-      "lastSuccessAt": "2026-10-20T03:33:03Z",
+      "lastSuccessAt": "2026-10-20T03:33:53Z",
       "count": 18
     },
     {
@@ -730,9 +730,9 @@
       "kind": "Agency release",
       "home": "https://www.nasa.gov/news/",
       "feed": "https://www.nasa.gov/news-release/feed/",
-      "checkedAt": "2026-10-20T03:33:03Z",
+      "checkedAt": "2026-10-20T03:33:53Z",
       "status": "ok",
-      "lastSuccessAt": "2026-10-20T03:33:03Z",
+      "lastSuccessAt": "2026-10-20T03:33:53Z",
       "count": 0
     },
     {
@@ -742,9 +742,9 @@
       "kind": "Agency release",
       "home": "https://www.federalreserve.gov/newsevents/pressreleases.htm",
       "feed": "https://www.federalreserve.gov/feeds/press_all.xml",
-      "checkedAt": "2026-10-20T03:33:03Z",
+      "checkedAt": "2026-10-20T03:33:53Z",
       "status": "ok",
-      "lastSuccessAt": "2026-10-20T03:33:03Z",
+      "lastSuccessAt": "2026-10-20T03:33:53Z",
       "count": 2
     }
   ]
