@@ -1,0 +1,75 @@
+[
+  {
+    "id": "bbc-world",
+    "name": "BBC News",
+    "topic": "World",
+    "kind": "Publisher report",
+    "feed": "https://feeds.bbci.co.uk/news/world/rss.xml",
+    "home": "https://www.bbc.com/news/world",
+    "hosts": [
+      "bbc.com",
+      "bbc.co.uk"
+    ]
+  },
+  {
+    "id": "bbc-business",
+    "name": "BBC News",
+    "topic": "Business",
+    "kind": "Publisher report",
+    "feed": "https://feeds.bbci.co.uk/news/business/rss.xml",
+    "home": "https://www.bbc.com/news/business",
+    "hosts": [
+      "bbc.com",
+      "bbc.co.uk"
+    ]
+  },
+  {
+    "id": "bbc-tech",
+    "name": "BBC News",
+    "topic": "Technology",
+    "kind": "Publisher report",
+    "feed": "https://feeds.bbci.co.uk/news/technology/rss.xml",
+    "home": "https://www.bbc.com/news/technology",
+    "hosts": [
+      "bbc.com",
+      "bbc.co.uk"
+    ]
+  },
+  {
+    "id": "bbc-science",
+    "name": "BBC News",
+    "topic": "Science",
+    "kind": "Publisher report",
+    "feed": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
+    "home": "https://www.bbc.com/news/science_and_environment",
+    "hosts": [
+      "bbc.com",
+      "bbc.co.uk"
+    ]
+  },
+  {
+    "id": "nasa",
+    "name": "NASA",
+    "topic": "Science",
+    "kind": "Agency release",
+    "feed": "https://www.nasa.gov/news-release/feed/",
+    "home": "https://www.nasa.gov/news/",
+    "hosts": [
+      "nasa.gov"
+    ],
+    "pathPrefixes": [
+      "/news-release/"
+    ]
+  },
+  {
+    "id": "fed",
+    "name": "Federal Reserve",
+    "topic": "Business",
+    "kind": "Agency release",
+    "feed": "https://www.federalreserve.gov/feeds/press_all.xml",
+    "home": "https://www.federalreserve.gov/newsevents/pressreleases.htm",
+    "hosts": [
+      "federalreserve.gov"
+    ]
+  }
+]

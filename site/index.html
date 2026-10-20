@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="A quieter daily news briefing. Attributed reporting and official releases, with direct links to every source.">
+  <meta name="color-scheme" content="light">
+  <title>Factual Daily — News, with the source attached.</title>
+  <link rel="icon" href="./favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="./style.css">
+  <script src="./app.js" defer></script>
+</head>
+<body>
+  <a class="skip" href="#briefing">Skip to the briefing</a>
+  <div class="topline"><span>INDEPENDENT NEWS DIRECTORY</span><span id="today"></span></div>
+  <header class="masthead"><a href="./" class="brand" aria-label="Factual Daily home">factual<span class="brand-dot">.</span><span class="brand-daily">daily</span></a><a class="method-link" href="#standards">Our approach <span aria-hidden="true">↗</span></a></header>
+  <main>
+    <section class="intro" aria-labelledby="intro-title"><div><p class="eyebrow"><span class="dot"></span> YOUR DAILY BRIEFING</p><h1 id="intro-title">News, with the<br>source attached.</h1><p class="intro-copy">A clearer view of what’s happening.<br>Attributed reporting. Official releases. Room to think.</p></div><aside class="edition"><span class="edition-icon" aria-hidden="true">↗</span><p class="eyebrow">GO STRAIGHT TO THE SOURCE</p><p>Every headline leads to its original publisher. Read the reporting, see the context, and make up your own mind.</p><a href="#sources">Explore the sources <span aria-hidden="true">→</span></a></aside></section>
+    <section id="briefing" aria-labelledby="briefing-title">
+      <div class="section-heading"><div><p class="eyebrow">THE READING ROOM</p><h2 id="briefing-title">The latest briefing</h2></div><p id="updated" class="muted">Loading collection…</p></div>
+      <p id="freshness" class="notice" hidden></p>
+      <div class="controls"><div class="topics" role="group" aria-label="Filter by topic"><button class="topic active" aria-pressed="true" data-topic="All">All stories</button><button class="topic" aria-pressed="false" data-topic="World">World</button><button class="topic" aria-pressed="false" data-topic="Business">Business</button><button class="topic" aria-pressed="false" data-topic="Technology">Technology</button><button class="topic" aria-pressed="false" data-topic="Science">Science</button></div><label class="search"><span aria-hidden="true">⌕</span><input id="search" type="search" placeholder="Search the briefing" aria-label="Search headlines and sources"></label></div>
+      <div class="list-heading"><p id="result-count" role="status" aria-live="polite">Finding the latest headlines…</p><label>Source <select id="source-filter"><option value="All">All sources</option></select></label></div>
+      <div id="stories" class="stories" aria-busy="true"></div>
+      <p id="empty" class="empty" hidden>No headlines match this selection. Try another topic or search.</p>
+      <p class="attribution-note">Headlines are supplied by the named publishers. “Publisher report” and “Agency release” describe the source, not an independent verification.</p>
+    </section>
+    <section id="standards" class="standards" aria-labelledby="standards-title"><div><p class="eyebrow">LESS NOISE. MORE CONTEXT.</p><h2 id="standards-title">A factual focus.<br>A transparent process.</h2><p>Factual Daily is a news directory, not a newsroom. We favor reporting and official announcements, and keep the original publisher visible.</p></div><div class="principles"><article><span>01</span><div><h3>Attribution comes first.</h3><p>Headlines, dates, and links come from publisher feeds. We don’t generate summaries, add commentary, or assign truth scores.</p></div></article><article><span>02</span><div><h3>Reporting over opinion.</h3><p>We exclude items labeled as opinion, analysis, editorial, sponsored content, reviews, and other non-reporting formats. Automated labels can miss things; inclusion is not a guarantee of accuracy or neutrality.</p></div></article><article><span>03</span><div><h3>Freshness is visible.</h3><p>Collection runs daily. Headlines cover the past seven days; the collection time and any feed failures are shown. Official releases reflect the issuing agency’s account.</p></div></article></div></section>
+    <section id="sources" class="source-section" aria-labelledby="sources-title"><div class="section-heading"><div><p class="eyebrow">OPEN BY DESIGN</p><h2 id="sources-title">Know where it comes from.</h2></div><span class="muted">Publisher feeds, directly linked.</span></div><div id="source-list" class="source-grid"></div><p class="attribution-note">Current coverage combines BBC News reporting with NASA and Federal Reserve releases. This is a limited source selection, not a complete view of the news. No publisher affiliation or endorsement is implied.</p></section>
+  </main>
+  <footer><a href="./" class="footer-brand">factual.daily</a><p>Read closely. Follow the source.</p><a href="https://github.com/toddmac12/factual-daily">Source code & corrections ↗</a></footer>
+  <noscript><p class="notice">JavaScript is needed to display the collected briefing. You can read the <a href="./data/news.json">headline data</a> directly.</p></noscript>
+</body>
+</html>
