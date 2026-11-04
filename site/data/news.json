@@ -1,279 +1,578 @@
 {
   "schemaVersion": 1,
-  "collectedAt": "2026-11-03T17:50:55Z",
+  "collectedAt": "2026-11-04T17:58:53Z",
   "articles": [
     {
-      "id": "f3dd211fa3082758",
-      "title": "Voters decide key ballot measures on abortion rights, congressional redistricting and voter ID laws",
-      "url": "https://www.pbs.org/newshour/politics/voters-decide-key-ballot-measures-on-abortion-rights-congressional-redistricting-and-voter-id-laws",
-      "publishedAt": "2026-11-03T17:30:12Z",
-      "sourceId": "pbs",
-      "source": "PBS News",
-      "sourceUrl": "https://www.pbs.org/newshour/",
+      "id": "e0b54ca9f23fb89d",
+      "title": "French blood banks targeted by refrigerator cyberattack",
+      "url": "https://www.dw.com/en/french-blood-banks-targeted-by-refrigerator-cyberattack/a-79857981",
+      "publishedAt": "2026-11-04T17:57:00Z",
+      "sourceId": "dw",
+      "source": "DW",
+      "sourceUrl": "https://www.dw.com/en/top-stories/s-9097",
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-11-03T17:50:55Z"
+      "accessCheckedAt": "2026-11-04T17:58:53Z"
     },
     {
-      "id": "8abf2c49791c3ee7",
-      "title": "South Carolina shrimpers weigh costs, vote in crucial US midterms",
-      "url": "https://www.aljazeera.com/news/2026/11/3/south-carolina-shrimpers-weigh-costs-vote-in-crucial-us-midterms",
-      "publishedAt": "2026-11-03T17:22:45Z",
-      "sourceId": "aljazeera",
-      "source": "Al Jazeera",
-      "sourceUrl": "https://www.aljazeera.com/",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-11-03T17:50:55Z"
-    },
-    {
-      "id": "f17ce1dec3c51b2d",
-      "title": "California voters consider proposition to tax billionaires' wealth",
-      "url": "https://www.pbs.org/newshour/politics/california-voters-consider-proposition-to-tax-billionaires-wealth",
-      "publishedAt": "2026-11-03T17:04:13Z",
-      "sourceId": "pbs",
-      "source": "PBS News",
-      "sourceUrl": "https://www.pbs.org/newshour/",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-11-03T17:50:55Z"
-    },
-    {
-      "id": "3b16cc3110d60a33",
-      "title": "Democrats try to take majority of governors' offices for first time in two decades",
-      "url": "https://www.pbs.org/newshour/politics/democrats-try-to-take-majority-of-governors-offices-for-first-time-in-two-decades",
-      "publishedAt": "2026-11-03T16:50:42Z",
-      "sourceId": "pbs",
-      "source": "PBS News",
-      "sourceUrl": "https://www.pbs.org/newshour/",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-11-03T17:50:55Z"
-    },
-    {
-      "id": "e55c5745a65f0d3f",
-      "title": "Israel political deadlock leaves Netanyahu’s future hanging in the balance",
-      "url": "https://www.aljazeera.com/news/2026/11/3/israel-political-deadlock-leaves-netanyahus-future-hanging-in-the-balance",
-      "publishedAt": "2026-11-03T16:49:10Z",
-      "sourceId": "aljazeera",
-      "source": "Al Jazeera",
-      "sourceUrl": "https://www.aljazeera.com/",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-11-03T17:50:55Z"
-    },
-    {
-      "id": "e15b6cb06486406a",
-      "title": "Opposition party organiser killed before South Africa elections",
-      "url": "https://www.aljazeera.com/news/2026/11/3/opposition-party-organiser-killed-ahead-of-south-africa-elections",
-      "publishedAt": "2026-11-03T16:39:00Z",
-      "sourceId": "aljazeera",
-      "source": "Al Jazeera",
-      "sourceUrl": "https://www.aljazeera.com/",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-11-03T17:50:55Z"
-    },
-    {
-      "id": "65f9e60945b035b3",
-      "title": "Trump faces prospect of impeachment if Democrats gain control",
-      "url": "https://www.pbs.org/newshour/politics/trump-faces-prospect-of-impeachment-if-democrats-gain-control",
-      "publishedAt": "2026-11-03T16:34:50Z",
-      "sourceId": "pbs",
-      "source": "PBS News",
-      "sourceUrl": "https://www.pbs.org/newshour/",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-11-03T17:50:55Z"
-    },
-    {
-      "id": "7ac503a44eb1e2b6",
-      "title": "Ukraine’s Zelenskyy hopes Abu Dhabi talks will open path to Putin meeting",
-      "url": "https://www.aljazeera.com/news/2026/11/3/zelenskyy-hopes-abu-dhabi-talks-will-open-way-to-meeting-with-putin",
-      "publishedAt": "2026-11-03T16:22:15Z",
-      "sourceId": "aljazeera",
-      "source": "Al Jazeera",
-      "sourceUrl": "https://www.aljazeera.com/",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-11-03T17:50:55Z"
-    },
-    {
-      "id": "f29b3e13fdcd0f6d",
-      "title": "Rain moves out as flood risks remain in Southwest following destructive storms",
-      "url": "https://www.pbs.org/newshour/nation/rain-moves-out-as-flood-risks-remain-in-southwest-following-destructive-storms",
-      "publishedAt": "2026-11-03T16:20:58Z",
-      "sourceId": "pbs",
-      "source": "PBS News",
-      "sourceUrl": "https://www.pbs.org/newshour/",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-11-03T17:50:55Z"
-    },
-    {
-      "id": "3b1e6bd3803ba478",
-      "title": "A new HIV-prevention drug is showing promising signs, but it's difficult to find in Africa and beyond",
-      "url": "https://www.pbs.org/newshour/health/a-new-hiv-prevention-drug-is-showing-promising-signs-but-its-difficult-to-find-in-africa-and-beyond",
-      "publishedAt": "2026-11-03T16:01:29Z",
-      "sourceId": "pbs",
-      "source": "PBS News",
-      "sourceUrl": "https://www.pbs.org/newshour/",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-11-03T17:50:55Z"
-    },
-    {
-      "id": "0097fa0c9e309d94",
-      "title": "For Ukraine's Kherson region, a short ceasefire meant a momentary return to normal life",
-      "url": "https://www.npr.org/2026/11/03/g-s1-151238/ukraine-russia-ceasefire-oleshky-kherson",
-      "publishedAt": "2026-11-03T15:54:39Z",
+      "id": "df65679b7673187c",
+      "title": "Back in the majority, Democrats have plans for a long list of Trump investigations",
+      "url": "https://www.npr.org/2026/11/04/g-s1-150276/2026-midterms-democrats-investigations",
+      "publishedAt": "2026-11-04T17:38:36Z",
       "sourceId": "npr",
       "source": "NPR",
       "sourceUrl": "https://www.npr.org/sections/news/",
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-11-03T17:50:55Z"
+      "accessCheckedAt": "2026-11-04T17:58:53Z"
     },
     {
-      "id": "a6da005076542eb8",
-      "title": "Syria says it foiled Hezbollah plot to target Homs oil refinery",
-      "url": "https://www.aljazeera.com/news/2026/11/3/syria-arrests-cell-it-links-to-isis-over-plot-against-oil-refinery",
-      "publishedAt": "2026-11-03T15:47:34Z",
+      "id": "45a6fa0bf9f8e630",
+      "title": "Iranian leaders say midterm results show U.S. voters have rejected Trump's war",
+      "url": "https://www.pbs.org/newshour/world/iranian-leaders-say-midterm-results-show-u-s-voters-have-rejected-trumps-war",
+      "publishedAt": "2026-11-04T17:36:11Z",
+      "sourceId": "pbs",
+      "source": "PBS News",
+      "sourceUrl": "https://www.pbs.org/newshour/",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-11-04T17:58:53Z"
+    },
+    {
+      "id": "034b56d0b181fae3",
+      "title": "Presidential hopeful Vance appears to question Iran war after polls debacle",
+      "url": "https://www.aljazeera.com/news/2026/11/4/presidential-hopeful-vance-appears-to-question-iran-war-after-polls-debacle",
+      "publishedAt": "2026-11-04T17:18:50Z",
       "sourceId": "aljazeera",
       "source": "Al Jazeera",
       "sourceUrl": "https://www.aljazeera.com/",
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-11-03T17:50:55Z"
+      "accessCheckedAt": "2026-11-04T17:58:53Z"
     },
     {
-      "id": "8f1b41131f7f6e00",
-      "title": "How US midterms have cost a record $12bn as cost of living soars",
-      "url": "https://www.aljazeera.com/news/2026/11/3/how-us-midterms-have-cost-a-record-12bn-as-cost-of-living-soars",
-      "publishedAt": "2026-11-03T15:40:56Z",
-      "sourceId": "aljazeera",
-      "source": "Al Jazeera",
-      "sourceUrl": "https://www.aljazeera.com/",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-11-03T17:50:55Z"
-    },
-    {
-      "id": "f4c590586079f686",
-      "title": "What to look for on Election Day as questions loom over Trump",
-      "url": "https://www.pbs.org/newshour/politics/what-to-look-for-on-election-day-as-questions-loom-over-trump",
-      "publishedAt": "2026-11-03T15:40:03Z",
-      "sourceId": "pbs",
-      "source": "PBS News",
-      "sourceUrl": "https://www.pbs.org/newshour/",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-11-03T17:50:55Z"
-    },
-    {
-      "id": "a184fba413b4a86b",
-      "title": "3 things to watch on election night (and beyond)",
-      "url": "https://www.pbs.org/newshour/politics/3-things-to-watch-on-election-night-and-beyond",
-      "publishedAt": "2026-11-03T15:30:43Z",
-      "sourceId": "pbs",
-      "source": "PBS News",
-      "sourceUrl": "https://www.pbs.org/newshour/",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-11-03T17:50:55Z"
-    },
-    {
-      "id": "022d3ccef5e7611c",
-      "title": "Russian strikes on Ukrainian aid site kill at least 31 people, with dozens still missing",
-      "url": "https://www.pbs.org/newshour/world/russian-strikes-on-ukrainian-aid-site-kill-at-least-31-people-with-dozens-still-missing",
-      "publishedAt": "2026-11-03T15:24:22Z",
-      "sourceId": "pbs",
-      "source": "PBS News",
-      "sourceUrl": "https://www.pbs.org/newshour/",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-11-03T17:50:55Z"
-    },
-    {
-      "id": "281f44230fbb3b7c",
-      "title": "U.S. launches new attacks on Iranian targets days after Netanyahu pressed Trump for more strikes",
-      "url": "https://www.pbs.org/newshour/world/u-s-launches-new-attacks-on-iranian-targets-days-after-netanyahu-pressed-trump-for-more-strikes",
-      "publishedAt": "2026-11-03T15:07:24Z",
-      "sourceId": "pbs",
-      "source": "PBS News",
-      "sourceUrl": "https://www.pbs.org/newshour/",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-11-03T17:50:55Z"
-    },
-    {
-      "id": "11d120b4fdbc5948",
-      "title": "Ukraine war: Merz doubts Russia is serious about a truce",
-      "url": "https://www.dw.com/en/ukraine-war-merz-doubts-russia-is-serious-about-a-truce/a-79836026",
-      "publishedAt": "2026-11-03T15:04:00Z",
+      "id": "753d8fc754cdb9e8",
+      "title": "Neo-Nazi NSU attacks exposed 15 years ago",
+      "url": "https://www.dw.com/en/neo-nazi-nsu-attacks-exposed-15-years-ago/a-79857781",
+      "publishedAt": "2026-11-04T17:16:00Z",
       "sourceId": "dw",
       "source": "DW",
       "sourceUrl": "https://www.dw.com/en/top-stories/s-9097",
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-11-03T17:50:55Z"
+      "accessCheckedAt": "2026-11-04T17:58:53Z"
     },
     {
-      "id": "2397b190253111f7",
-      "title": "Israel’s opposition leaders back Eisenkot to oust Netanyahu",
-      "url": "https://www.aljazeera.com/news/2026/11/3/israeli-opposition-leaders-back-eisenkot-to-oust-netanyahu",
-      "publishedAt": "2026-11-03T15:00:10Z",
-      "sourceId": "aljazeera",
-      "source": "Al Jazeera",
-      "sourceUrl": "https://www.aljazeera.com/",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-11-03T17:50:55Z"
-    },
-    {
-      "id": "83d4d0c292482055",
-      "title": "Election Day underway after a surge in early voting, as Trump sows doubt on results",
-      "url": "https://www.pbs.org/newshour/politics/election-day-underway-after-a-surge-in-early-voting-as-trump-sows-on-results",
-      "publishedAt": "2026-11-03T14:48:30Z",
+      "id": "fadeaa02476d7966",
+      "title": "Vance blames Iran war for GOP midterm losses",
+      "url": "https://www.pbs.org/newshour/politics/vance-blames-iran-war-for-gop-midterm-losses",
+      "publishedAt": "2026-11-04T16:56:43Z",
       "sourceId": "pbs",
       "source": "PBS News",
       "sourceUrl": "https://www.pbs.org/newshour/",
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-11-03T17:50:55Z"
+      "accessCheckedAt": "2026-11-04T17:58:53Z"
     },
     {
-      "id": "6b47f2ce5be914c0",
-      "title": "China and India achieved diplomatic thaw. Now the border is flaring up",
-      "url": "https://www.dw.com/en/china-and-india-achieved-diplomatic-thaw-now-the-border-is-flaring-up/a-79843273",
-      "publishedAt": "2026-11-03T14:48:00Z",
+      "id": "696b2a5d1771e4f4",
+      "title": "Johnson won't seek reelection as House speaker after Republican wipeout",
+      "url": "https://www.pbs.org/newshour/politics/johnson-wont-seek-reelection-as-house-speaker-after-republican-wipeout",
+      "publishedAt": "2026-11-04T16:40:44Z",
+      "sourceId": "pbs",
+      "source": "PBS News",
+      "sourceUrl": "https://www.pbs.org/newshour/",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-11-04T17:58:53Z"
+    },
+    {
+      "id": "18c353e754a5aa28",
+      "title": "Ukrainian strikes kill three in Russia’s Belgorod region",
+      "url": "https://www.aljazeera.com/news/2026/11/4/ukrainian-strikes-kill-three-in-russias-belgorod-region",
+      "publishedAt": "2026-11-04T16:20:23Z",
+      "sourceId": "aljazeera",
+      "source": "Al Jazeera",
+      "sourceUrl": "https://www.aljazeera.com/",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-11-04T17:58:53Z"
+    },
+    {
+      "id": "bf63c6f967f585fd",
+      "title": "How Trump and Republicans lost the 2026 midterm elections, according to AP Voter Poll",
+      "url": "https://www.pbs.org/newshour/politics/how-trump-and-republicans-lost-the-2026-midterm-elections-according-to-ap-voter-poll",
+      "publishedAt": "2026-11-04T16:19:10Z",
+      "sourceId": "pbs",
+      "source": "PBS News",
+      "sourceUrl": "https://www.pbs.org/newshour/",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-11-04T17:58:53Z"
+    },
+    {
+      "id": "c1f512250aa64032",
+      "title": "Kosovo: Protests and outrage after a woman was killed despite repeatedly seeking assistance from the authorities",
+      "url": "https://www.dw.com/en/kosovo-protests-and-outrage-after-a-woman-was-killed-despite-repeatedly-seeking-assistance-from-the-authorities/a-79856726",
+      "publishedAt": "2026-11-04T16:17:00Z",
       "sourceId": "dw",
       "source": "DW",
       "sourceUrl": "https://www.dw.com/en/top-stories/s-9097",
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-11-03T17:50:55Z"
+      "accessCheckedAt": "2026-11-04T17:58:53Z"
+    },
+    {
+      "id": "39ba11d4ef156cbf",
+      "title": "Gold for Palestine: Meet junior karate champ Mariam Bsharat",
+      "url": "https://www.dw.com/en/gold-for-palestine-meet-junior-karate-champ-mariam-bsharat/a-79851806",
+      "publishedAt": "2026-11-04T15:40:00Z",
+      "sourceId": "dw",
+      "source": "DW",
+      "sourceUrl": "https://www.dw.com/en/top-stories/s-9097",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-11-04T17:58:53Z"
+    },
+    {
+      "id": "860a2910924db9ec",
+      "title": "US markets rise as Democrats sweep midterm elections",
+      "url": "https://www.aljazeera.com/economy/2026/11/4/us-markets-rise-as-democrats-sweep-midterm-elections",
+      "publishedAt": "2026-11-04T15:39:38Z",
+      "sourceId": "aljazeera",
+      "source": "Al Jazeera",
+      "sourceUrl": "https://www.aljazeera.com/",
+      "topic": "Business",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-11-04T17:58:53Z"
+    },
+    {
+      "id": "99481f3e9dd74a86",
+      "title": "No regrets: Trump says Iran war justified despite polls drubbing",
+      "url": "https://www.aljazeera.com/news/2026/11/4/no-regrets-trump-says-iran-war-justified-despite-polls-drubbing",
+      "publishedAt": "2026-11-04T15:28:00Z",
+      "sourceId": "aljazeera",
+      "source": "Al Jazeera",
+      "sourceUrl": "https://www.aljazeera.com/",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-11-04T17:58:53Z"
+    },
+    {
+      "id": "a33472b9e48a3723",
+      "title": "Africa's shifting role in the global drug trade",
+      "url": "https://www.dw.com/en/africa-s-shifting-role-in-the-global-drug-trade/a-79847720",
+      "publishedAt": "2026-11-04T15:18:00Z",
+      "sourceId": "dw",
+      "source": "DW",
+      "sourceUrl": "https://www.dw.com/en/top-stories/s-9097",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-11-04T17:58:53Z"
+    },
+    {
+      "id": "db1dcb8d550cbc88",
+      "title": "Harry Potter films turns 25 ahead of new TV series' release",
+      "url": "https://www.dw.com/en/harry-potter-films-turns-25-ahead-of-new-tv-series-release/a-79856130",
+      "publishedAt": "2026-11-04T15:14:00Z",
+      "sourceId": "dw",
+      "source": "DW",
+      "sourceUrl": "https://www.dw.com/en/top-stories/s-9097",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-11-04T17:58:53Z"
+    },
+    {
+      "id": "124f824b0e07b5c3",
+      "title": "What the Democrats' midterms win means for the US economy and Trump",
+      "url": "https://www.dw.com/en/what-the-democrats-midterms-win-means-for-the-us-economy-and-trump/a-79853716",
+      "publishedAt": "2026-11-04T15:09:00Z",
+      "sourceId": "dw",
+      "source": "DW",
+      "sourceUrl": "https://www.dw.com/en/top-stories/s-9097",
+      "topic": "Business",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-11-04T17:58:53Z"
+    },
+    {
+      "id": "2c07b9ca6077613f",
+      "title": "EU says Montenegro on track to become bloc's next member state by 2028",
+      "url": "https://www.dw.com/en/eu-says-montenegro-on-track-to-become-bloc-s-next-member-state-by-2028/a-79855011",
+      "publishedAt": "2026-11-04T14:49:00Z",
+      "sourceId": "dw",
+      "source": "DW",
+      "sourceUrl": "https://www.dw.com/en/top-stories/s-9097",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-11-04T17:58:53Z"
+    },
+    {
+      "id": "03e0bfbad944cf16",
+      "title": "Yemeni government forces claim control of strategic al-Jawf mountain range",
+      "url": "https://www.aljazeera.com/news/2026/11/4/yemeni-government-forces-claim-control-of-strategic-al-jawf-mountain-range",
+      "publishedAt": "2026-11-04T14:08:18Z",
+      "sourceId": "aljazeera",
+      "source": "Al Jazeera",
+      "sourceUrl": "https://www.aljazeera.com/",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-11-04T17:58:53Z"
+    },
+    {
+      "id": "dcb23073ef1ba0fc",
+      "title": "Hebron’s Israeli rooftop settlers threaten the city’s Palestinian identity",
+      "url": "https://www.aljazeera.com/news/2026/11/4/hebrons-israeli-rooftop-settlers-threaten-the-citys-palestinian-identity",
+      "publishedAt": "2026-11-04T13:40:52Z",
+      "sourceId": "aljazeera",
+      "source": "Al Jazeera",
+      "sourceUrl": "https://www.aljazeera.com/",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-11-04T17:58:53Z"
+    },
+    {
+      "id": "7dfecb67b18fa363",
+      "title": "Abdul El-Sayed welcomes Trump's plan to cut Israel aid, calls for end to arms sales",
+      "url": "https://www.npr.org/2026/11/04/nx-s1-6028702/abdul-el-sayed-michigan-senate-israel-aid",
+      "publishedAt": "2026-11-04T13:38:09Z",
+      "sourceId": "npr",
+      "source": "NPR",
+      "sourceUrl": "https://www.npr.org/sections/news/",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-11-04T17:58:53Z"
+    },
+    {
+      "id": "b5324aaa0f6e593e",
+      "title": "Leading ice hockey nations, sponsors oppose Russia's return",
+      "url": "https://www.dw.com/en/leading-ice-hockey-nations-sponsors-oppose-russia-s-return/a-79853742",
+      "publishedAt": "2026-11-04T13:27:00Z",
+      "sourceId": "dw",
+      "source": "DW",
+      "sourceUrl": "https://www.dw.com/en/top-stories/s-9097",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-11-04T17:58:53Z"
+    },
+    {
+      "id": "ab2a0ea26184a20b",
+      "title": "Iran’s Khamenei warns Trump loss at polls won’t end US hostility",
+      "url": "https://www.aljazeera.com/news/2026/11/4/iran-hails-us-voters-rejecting-war-while-khamenei-warns-hostility-wont-end",
+      "publishedAt": "2026-11-04T13:26:44Z",
+      "sourceId": "aljazeera",
+      "source": "Al Jazeera",
+      "sourceUrl": "https://www.aljazeera.com/",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-11-04T17:58:53Z"
+    },
+    {
+      "id": "6f55d522a6057be9",
+      "title": "Indonesia deploys troops to Jakarta after wiretapping allegations",
+      "url": "https://www.dw.com/en/indonesia-deploys-troops-to-jakarta-after-wiretapping-allegations/a-79853779",
+      "publishedAt": "2026-11-04T12:52:00Z",
+      "sourceId": "dw",
+      "source": "DW",
+      "sourceUrl": "https://www.dw.com/en/top-stories/s-9097",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-11-04T17:58:53Z"
+    },
+    {
+      "id": "ed2cdda06a3221cb",
+      "title": "Democrats win governorships in Texas and other GOP-controlled states in rebuke to Republicans",
+      "url": "https://www.pbs.org/newshour/politics/democrats-win-governorships-in-texas-and-other-gop-controlled-states-in-rebuke-to-republicans",
+      "publishedAt": "2026-11-04T12:51:32Z",
+      "sourceId": "pbs",
+      "source": "PBS News",
+      "sourceUrl": "https://www.pbs.org/newshour/",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-11-04T17:58:53Z"
+    },
+    {
+      "id": "bea146ac21f5e53a",
+      "title": "Hungary opens communist-era secret police files identifying informants",
+      "url": "https://www.dw.com/en/hungary-opens-communist-era-secret-police-files-identifying-informants/a-79853492",
+      "publishedAt": "2026-11-04T12:36:00Z",
+      "sourceId": "dw",
+      "source": "DW",
+      "sourceUrl": "https://www.dw.com/en/top-stories/s-9097",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-11-04T17:58:53Z"
+    },
+    {
+      "id": "417264daf64d7e91",
+      "title": "The world is reacting to the Democrats' sweeping midterm elections victory",
+      "url": "https://www.npr.org/2026/11/04/nx-s1-6028664/world-reacts-midterm-elections",
+      "publishedAt": "2026-11-04T12:34:35Z",
+      "sourceId": "npr",
+      "source": "NPR",
+      "sourceUrl": "https://www.npr.org/sections/news/",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-11-04T17:58:53Z"
+    },
+    {
+      "id": "6d10b4966a882974",
+      "title": "Democrat Abdul El-Sayed wins election to U.S. Senate from Michigan",
+      "url": "https://www.pbs.org/newshour/politics/democrat-abdul-el-sayed-wins-election-to-u-s-senate-from-michigan",
+      "publishedAt": "2026-11-04T12:22:33Z",
+      "sourceId": "pbs",
+      "source": "PBS News",
+      "sourceUrl": "https://www.pbs.org/newshour/",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-11-04T17:58:53Z"
+    },
+    {
+      "id": "6cd53b546b24cae8",
+      "title": "Democrats seize full control of Congress. And, which candidates made history last night",
+      "url": "https://www.npr.org/2026/11/04/g-s1-151745/up-first-newsletter-midterms-democrats-congress-control",
+      "publishedAt": "2026-11-04T12:18:39Z",
+      "sourceId": "npr",
+      "source": "NPR",
+      "sourceUrl": "https://www.npr.org/sections/news/",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-11-04T17:58:53Z"
+    },
+    {
+      "id": "3b2d259b9566853a",
+      "title": "Wawira Njirum, Kenya's school feeder and German Africa Prize recipient",
+      "url": "https://www.dw.com/en/wawira-njirum-kenya-s-school-feeder-and-german-africa-prize-recipient/a-79646537",
+      "publishedAt": "2026-11-04T10:53:00Z",
+      "sourceId": "dw",
+      "source": "DW",
+      "sourceUrl": "https://www.dw.com/en/top-stories/s-9097",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-11-04T17:58:53Z"
+    },
+    {
+      "id": "9f74c40c29525d6c",
+      "title": "BMW reports lower Q3 earnings as China woes mount",
+      "url": "https://www.dw.com/en/bmw-reports-lower-q3-earnings-as-china-woes-mount/a-79850847",
+      "publishedAt": "2026-11-04T10:25:00Z",
+      "sourceId": "dw",
+      "source": "DW",
+      "sourceUrl": "https://www.dw.com/en/top-stories/s-9097",
+      "topic": "Business",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-11-04T17:58:53Z"
+    },
+    {
+      "id": "a3fdc8a2501bd8ae",
+      "title": "Germany's celebrated children's author Janosch has died",
+      "url": "https://www.dw.com/en/germany-s-celebrated-children-s-author-janosch-has-died/a-79851600",
+      "publishedAt": "2026-11-04T10:16:00Z",
+      "sourceId": "dw",
+      "source": "DW",
+      "sourceUrl": "https://www.dw.com/en/top-stories/s-9097",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-11-04T17:58:53Z"
+    },
+    {
+      "id": "51661e07c56afebe",
+      "title": "South Africans vote in local elections in test for ANC",
+      "url": "https://www.dw.com/en/south-africans-vote-in-local-elections-in-test-for-anc/a-79851651",
+      "publishedAt": "2026-11-04T10:13:00Z",
+      "sourceId": "dw",
+      "source": "DW",
+      "sourceUrl": "https://www.dw.com/en/top-stories/s-9097",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-11-04T17:58:53Z"
+    },
+    {
+      "id": "b7360a1792b01708",
+      "title": "Hakeem Jeffries is poised to become the first Black speaker of the House",
+      "url": "https://www.npr.org/2026/11/04/g-s1-150030/hakeem-jeffries-speaker-of-the-house-midterms",
+      "publishedAt": "2026-11-04T10:00:00Z",
+      "sourceId": "npr",
+      "source": "NPR",
+      "sourceUrl": "https://www.npr.org/sections/news/",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-11-04T17:58:53Z"
+    },
+    {
+      "id": "7591b05707f81700",
+      "title": "These 10 candidates for governor made history in the 2026 election",
+      "url": "https://www.npr.org/2026/11/04/nx-s1-6028546/governor-candidates-history-election-2026",
+      "publishedAt": "2026-11-04T10:00:00Z",
+      "sourceId": "npr",
+      "source": "NPR",
+      "sourceUrl": "https://www.npr.org/sections/news/",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-11-04T17:58:53Z"
+    },
+    {
+      "id": "be80e6fa4650315f",
+      "title": "'We have great leverage here': DNC chair Ken Martin on Democrats' midterms sweep",
+      "url": "https://www.npr.org/2026/11/04/nx-s1-6022528/democrats-midterm-election-results-senate-house-congress",
+      "publishedAt": "2026-11-04T09:50:37Z",
+      "sourceId": "npr",
+      "source": "NPR",
+      "sourceUrl": "https://www.npr.org/sections/news/",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-11-04T17:58:53Z"
+    },
+    {
+      "id": "c94a746588873808",
+      "title": "What US midterm elections mean for Ukraine, Iran and elsewhere",
+      "url": "https://www.dw.com/en/what-us-midterm-elections-mean-for-ukraine-iran-and-elsewhere/a-79836423",
+      "publishedAt": "2026-11-04T08:52:00Z",
+      "sourceId": "dw",
+      "source": "DW",
+      "sourceUrl": "https://www.dw.com/en/top-stories/s-9097",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-11-04T17:58:53Z"
+    },
+    {
+      "id": "a2c25e2ff247f557",
+      "title": "US midterm election results: Democrats flip House and Senate. Here's what else the data tell us",
+      "url": "https://www.dw.com/en/us-midterm-election-results-democrats-flip-house-and-senate-here-s-what-else-the-data-tell-us/a-79841886",
+      "publishedAt": "2026-11-04T06:34:00Z",
+      "sourceId": "dw",
+      "source": "DW",
+      "sourceUrl": "https://www.dw.com/en/top-stories/s-9097",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-11-04T17:58:53Z"
+    },
+    {
+      "id": "636358f10cdd38da",
+      "title": "Democrat J.D. Ford wins election to U.S. House in Indiana's 5th Congressional District",
+      "url": "https://www.pbs.org/newshour/politics/democrat-j-d-ford-wins-election-to-u-s-house-in-indianas-5th-congressional-district",
+      "publishedAt": "2026-11-04T06:29:46Z",
+      "sourceId": "pbs",
+      "source": "PBS News",
+      "sourceUrl": "https://www.pbs.org/newshour/",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-11-04T17:58:53Z"
+    },
+    {
+      "id": "ed5be1f98bb41514",
+      "title": "Democrats win control of U.S. House, in major rebuke to Trump",
+      "url": "https://www.pbs.org/newshour/politics/democrats-win-control-of-the-u-s-house",
+      "publishedAt": "2026-11-04T06:27:26Z",
+      "sourceId": "pbs",
+      "source": "PBS News",
+      "sourceUrl": "https://www.pbs.org/newshour/",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-11-04T17:58:53Z"
+    },
+    {
+      "id": "cb1e583927785553",
+      "title": "Democrat Troy Jackson wins election to U.S. Senate from Maine",
+      "url": "https://www.pbs.org/newshour/politics/democrat-troy-jackson-wins-election-to-u-s-senate-from-maine",
+      "publishedAt": "2026-11-04T06:06:36Z",
+      "sourceId": "pbs",
+      "source": "PBS News",
+      "sourceUrl": "https://www.pbs.org/newshour/",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-11-04T17:58:53Z"
+    },
+    {
+      "id": "0760b3281881c9d5",
+      "title": "Democrat Christina Bohannan wins election to U.S. House in Iowa's 1st Congressional District",
+      "url": "https://www.pbs.org/newshour/politics/democrat-christina-bohannan-wins-election-to-u-s-house-in-iowas-1st-congressional-district",
+      "publishedAt": "2026-11-04T05:43:15Z",
+      "sourceId": "pbs",
+      "source": "PBS News",
+      "sourceUrl": "https://www.pbs.org/newshour/",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-11-04T17:58:53Z"
+    },
+    {
+      "id": "331854f3e9c2d69c",
+      "title": "Trump says Democrats 'did a good job,' blames Republican candidates for midterm losses",
+      "url": "https://www.pbs.org/newshour/politics/trump-says-democrats-did-a-good-job-blames-republican-candidates-for-midterm-losses",
+      "publishedAt": "2026-11-04T05:34:43Z",
+      "sourceId": "pbs",
+      "source": "PBS News",
+      "sourceUrl": "https://www.pbs.org/newshour/",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-11-04T17:58:53Z"
+    },
+    {
+      "id": "80b5ad7a3d5b07e2",
+      "title": "Democrat Denise Powell wins election to U.S. House in Nebraska's 2nd Congressional District",
+      "url": "https://www.pbs.org/newshour/politics/democrat-denise-powell-wins-election-to-u-s-house-in-nebraskas-2nd-congressional-district",
+      "publishedAt": "2026-11-04T05:23:40Z",
+      "sourceId": "pbs",
+      "source": "PBS News",
+      "sourceUrl": "https://www.pbs.org/newshour/",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-11-04T17:58:53Z"
+    },
+    {
+      "id": "f9941eba50b79b3f",
+      "title": "Democrats take control of the Senate after winning key midterm races",
+      "url": "https://www.pbs.org/newshour/politics/democrats-take-control-of-the-senate-after-winning-key-midterm-races",
+      "publishedAt": "2026-11-04T04:40:42Z",
+      "sourceId": "pbs",
+      "source": "PBS News",
+      "sourceUrl": "https://www.pbs.org/newshour/",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-11-04T17:58:53Z"
     },
     {
       "id": "c676c7f349f7cfbd",
@@ -286,20 +585,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-11-03T17:50:55Z"
-    },
-    {
-      "id": "ffb588210c7229ef",
-      "title": "From Italy to Canada, how the UK’s Palestine Action group went global",
-      "url": "https://www.aljazeera.com/news/2026/11/3/from-italy-to-canada-how-the-uks-palestine-action-group-went-global",
-      "publishedAt": "2026-11-03T14:30:24Z",
-      "sourceId": "aljazeera",
-      "source": "Al Jazeera",
-      "sourceUrl": "https://www.aljazeera.com/",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-11-03T17:50:55Z"
+      "accessCheckedAt": "2026-11-04T17:58:53Z"
     },
     {
       "id": "5a66c266e06430b5",
@@ -312,20 +598,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-11-03T17:50:55Z"
-    },
-    {
-      "id": "c94a746588873808",
-      "title": "What US midterm elections mean for Ukraine, Iran and elsewhere",
-      "url": "https://www.dw.com/en/what-us-midterm-elections-mean-for-ukraine-iran-and-elsewhere/a-79836423",
-      "publishedAt": "2026-11-03T14:26:00Z",
-      "sourceId": "dw",
-      "source": "DW",
-      "sourceUrl": "https://www.dw.com/en/top-stories/s-9097",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-11-03T17:50:55Z"
+      "accessCheckedAt": "2026-11-04T17:58:53Z"
     },
     {
       "id": "863c4364baea0887",
@@ -338,72 +611,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-11-03T17:50:55Z"
-    },
-    {
-      "id": "fbc4d150c8c3fa74",
-      "title": "Yemen: Houthi clashes near Taiz leave residents in a 'state of panic'",
-      "url": "https://www.dw.com/en/yemen-houthi-clashes-near-taiz-leave-residents-in-a-state-of-panic/a-79836913",
-      "publishedAt": "2026-11-03T14:18:00Z",
-      "sourceId": "dw",
-      "source": "DW",
-      "sourceUrl": "https://www.dw.com/en/top-stories/s-9097",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-11-03T17:50:55Z"
-    },
-    {
-      "id": "5b0df1aa9d52ed0b",
-      "title": "Indian navy rescues 20 crew from Iranian fishing boat hijacked off Somalia",
-      "url": "https://www.npr.org/2026/11/03/g-s1-151468/indian-navy-rescues-20-crew-from-iranian-fishing-boat-hijacked-off-somalia",
-      "publishedAt": "2026-11-03T14:13:58Z",
-      "sourceId": "npr",
-      "source": "NPR",
-      "sourceUrl": "https://www.npr.org/sections/news/",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-11-03T17:50:55Z"
-    },
-    {
-      "id": "ebc4be12aef88490",
-      "title": "Trump says US will stop giving Israel aid after year-end",
-      "url": "https://www.aljazeera.com/news/2026/11/3/trump-announces-that-us-will-stop-paying-israel-after-year-end",
-      "publishedAt": "2026-11-03T13:42:05Z",
-      "sourceId": "aljazeera",
-      "source": "Al Jazeera",
-      "sourceUrl": "https://www.aljazeera.com/",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-11-03T17:50:55Z"
-    },
-    {
-      "id": "baa819f3c459932d",
-      "title": "Iran commander sets out five conditions for regional security",
-      "url": "https://www.aljazeera.com/news/2026/11/3/iran-commander-sets-out-five-conditions-for-regional-security",
-      "publishedAt": "2026-11-03T13:21:57Z",
-      "sourceId": "aljazeera",
-      "source": "Al Jazeera",
-      "sourceUrl": "https://www.aljazeera.com/",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-11-03T17:50:55Z"
-    },
-    {
-      "id": "46c26ba0f3aac587",
-      "title": "How Florida Governor Ron DeSantis will shape his state’s 2026 midterm race",
-      "url": "https://www.aljazeera.com/news/2026/11/3/how-florida-governor-ron-desantis-will-shape-his-states-2026-midterm-race",
-      "publishedAt": "2026-11-03T13:05:03Z",
-      "sourceId": "aljazeera",
-      "source": "Al Jazeera",
-      "sourceUrl": "https://www.aljazeera.com/",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-11-03T17:50:55Z"
+      "accessCheckedAt": "2026-11-04T17:58:53Z"
     },
     {
       "id": "59e3eb0d85d65338",
@@ -416,20 +624,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-11-03T17:50:55Z"
-    },
-    {
-      "id": "954ac7fd0243c2bd",
-      "title": "Control of Congress is at stake today. And, judge to consider motion in Clancy case",
-      "url": "https://www.npr.org/2026/11/03/g-s1-151445/up-first-newsletter-midterms-election-day-iran-war-lindsay-clancy",
-      "publishedAt": "2026-11-03T11:43:49Z",
-      "sourceId": "npr",
-      "source": "NPR",
-      "sourceUrl": "https://www.npr.org/sections/news/",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-11-03T17:50:55Z"
+      "accessCheckedAt": "2026-11-04T17:58:53Z"
     },
     {
       "id": "1d2a8af2e01e5a74",
@@ -442,137 +637,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-11-03T17:50:55Z"
-    },
-    {
-      "id": "3548cb5894e32c74",
-      "title": "Death toll hits 29 after Russian strike on Ukrainian aid site, with 48 still missing",
-      "url": "https://www.npr.org/2026/11/03/g-s1-151439/russia-ukraine-war",
-      "publishedAt": "2026-11-03T11:01:14Z",
-      "sourceId": "npr",
-      "source": "NPR",
-      "sourceUrl": "https://www.npr.org/sections/news/",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-11-03T17:50:55Z"
-    },
-    {
-      "id": "b5734ddf501d6b26",
-      "title": "Four types of House races to watch on election night to know how it might go",
-      "url": "https://www.npr.org/2026/11/03/g-s1-151305/2026-midterms-house-races-to-watch",
-      "publishedAt": "2026-11-03T11:00:00Z",
-      "sourceId": "npr",
-      "source": "NPR",
-      "sourceUrl": "https://www.npr.org/sections/news/",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-11-03T17:50:55Z"
-    },
-    {
-      "id": "d8ca8b63916b17b5",
-      "title": "New restrictions at Texas Tech are changing what professors can teach",
-      "url": "https://www.npr.org/2026/11/03/nx-s1-5963883/texas-tech-academic-sb17-odyssey",
-      "publishedAt": "2026-11-03T10:01:00Z",
-      "sourceId": "npr",
-      "source": "NPR",
-      "sourceUrl": "https://www.npr.org/sections/news/",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-11-03T17:50:55Z"
-    },
-    {
-      "id": "d0322b6084571e69",
-      "title": "How NPR makes race calls in the 2026 election",
-      "url": "https://www.npr.org/2026/11/03/g-s1-151311/how-npr-calls-races-2026",
-      "publishedAt": "2026-11-03T10:00:00Z",
-      "sourceId": "npr",
-      "source": "NPR",
-      "sourceUrl": "https://www.npr.org/sections/news/",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-11-03T17:50:55Z"
-    },
-    {
-      "id": "5a4ace441b557558",
-      "title": "From 'model minority' to target, anti-Indian hate on the rise",
-      "url": "https://www.npr.org/2026/11/03/nx-s1-6026418/from-model-minority-to-target-anti-indian-hate-on-the-rise",
-      "publishedAt": "2026-11-03T10:00:00Z",
-      "sourceId": "npr",
-      "source": "NPR",
-      "sourceUrl": "https://www.npr.org/sections/news/",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-11-03T17:50:55Z"
-    },
-    {
-      "id": "4e7221a52d842c66",
-      "title": "'Messy,' 'divided' and 'scary': swing voters rate the country ahead of Election Day",
-      "url": "https://www.npr.org/2026/11/03/nx-s1-6014577/swing-voters-midterm-elections-voting-trump",
-      "publishedAt": "2026-11-03T10:00:00Z",
-      "sourceId": "npr",
-      "source": "NPR",
-      "sourceUrl": "https://www.npr.org/sections/news/",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-11-03T17:50:55Z"
-    },
-    {
-      "id": "e1cb1eacace4fbce",
-      "title": "North Korea denies role in record Binance hack, calls US charge 'provocation'",
-      "url": "https://www.dw.com/en/north-korea-denies-role-in-record-binance-hack-calls-us-charge-provocation/a-79835321",
-      "publishedAt": "2026-11-03T05:34:00Z",
-      "sourceId": "dw",
-      "source": "DW",
-      "sourceUrl": "https://www.dw.com/en/top-stories/s-9097",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-11-03T17:50:55Z"
-    },
-    {
-      "id": "a5b301b7e3395056",
-      "title": "US: Trump labels Democrats 'dangerous' ahead of midterms",
-      "url": "https://www.dw.com/en/us-trump-labels-democrats-dangerous-ahead-of-midterms/a-79834945",
-      "publishedAt": "2026-11-02T23:37:00Z",
-      "sourceId": "dw",
-      "source": "DW",
-      "sourceUrl": "https://www.dw.com/en/top-stories/s-9097",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-11-03T17:50:55Z"
-    },
-    {
-      "id": "5ec8b96f03324b2b",
-      "title": "Supreme Court rejects Trump bid to block 20,000 California ballots",
-      "url": "https://www.dw.com/en/supreme-court-rejects-trump-bid-to-block-20-000-california-ballots/a-79833739",
-      "publishedAt": "2026-11-02T23:18:00Z",
-      "sourceId": "dw",
-      "source": "DW",
-      "sourceUrl": "https://www.dw.com/en/top-stories/s-9097",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-11-03T17:50:55Z"
-    },
-    {
-      "id": "9afd0129ac20e250",
-      "title": "NASA Invites Media to Northrop Grumman CRS-25 Station Resupply Launch",
-      "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-northrop-grumman-crs-25-station-resupply-launch/",
-      "publishedAt": "2026-11-02T17:33:22Z",
-      "sourceId": "nasa",
-      "source": "NASA",
-      "sourceUrl": "https://www.nasa.gov/news/",
-      "topic": "Science",
-      "kind": "Agency release",
-      "access": "free",
-      "accessCheckedAt": "2026-11-03T17:50:55Z"
+      "accessCheckedAt": "2026-11-04T17:58:53Z"
     },
     {
       "id": "d3d6cb0a329c40a5",
@@ -585,7 +650,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-11-03T17:50:55Z"
+      "accessCheckedAt": "2026-11-04T17:58:53Z"
     },
     {
       "id": "72df9d2c62836418",
@@ -598,7 +663,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-11-03T17:50:55Z"
+      "accessCheckedAt": "2026-11-04T17:58:53Z"
     },
     {
       "id": "7ba09cf0439fb247",
@@ -611,7 +676,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-11-03T17:50:55Z"
+      "accessCheckedAt": "2026-11-04T17:58:53Z"
     },
     {
       "id": "beeabc4abe9cd13c",
@@ -624,7 +689,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-11-03T17:50:55Z"
+      "accessCheckedAt": "2026-11-04T17:58:53Z"
     },
     {
       "id": "6d0086c2458b3c3a",
@@ -637,7 +702,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-11-03T17:50:55Z"
+      "accessCheckedAt": "2026-11-04T17:58:53Z"
     },
     {
       "id": "4cdeadba980132b9",
@@ -650,7 +715,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-11-03T17:50:55Z"
+      "accessCheckedAt": "2026-11-04T17:58:53Z"
     },
     {
       "id": "09fc50df10b66c38",
@@ -663,7 +728,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-11-03T17:50:55Z"
+      "accessCheckedAt": "2026-11-04T17:58:53Z"
     },
     {
       "id": "66cee2f122958305",
@@ -676,7 +741,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-11-03T17:50:55Z"
+      "accessCheckedAt": "2026-11-04T17:58:53Z"
     },
     {
       "id": "7cebe42bf33135c4",
@@ -689,7 +754,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-11-03T17:50:55Z"
+      "accessCheckedAt": "2026-11-04T17:58:53Z"
     },
     {
       "id": "a55bfac7d94c2a1b",
@@ -702,7 +767,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-11-03T17:50:55Z"
+      "accessCheckedAt": "2026-11-04T17:58:53Z"
     },
     {
       "id": "7fdd2527b18a4299",
@@ -715,7 +780,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-11-03T17:50:55Z"
+      "accessCheckedAt": "2026-11-04T17:58:53Z"
     },
     {
       "id": "c6f4b50cf1c05345",
@@ -728,7 +793,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-11-03T17:50:55Z"
+      "accessCheckedAt": "2026-11-04T17:58:53Z"
     },
     {
       "id": "6eb977f23eb24990",
@@ -741,7 +806,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-11-03T17:50:55Z"
+      "accessCheckedAt": "2026-11-04T17:58:53Z"
     },
     {
       "id": "8e19bd1daa6c3fcc",
@@ -754,7 +819,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-11-03T17:50:55Z"
+      "accessCheckedAt": "2026-11-04T17:58:53Z"
     },
     {
       "id": "0d5019a9af26335f",
@@ -767,7 +832,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-11-03T17:50:55Z"
+      "accessCheckedAt": "2026-11-04T17:58:53Z"
     },
     {
       "id": "0ec0144d606e9a12",
@@ -780,7 +845,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-11-03T17:50:55Z"
+      "accessCheckedAt": "2026-11-04T17:58:53Z"
     },
     {
       "id": "1b03a09b61b3da79",
@@ -793,7 +858,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-11-03T17:50:55Z"
+      "accessCheckedAt": "2026-11-04T17:58:53Z"
     },
     {
       "id": "53b89389ae812d28",
@@ -806,7 +871,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-11-03T17:50:55Z"
+      "accessCheckedAt": "2026-11-04T17:58:53Z"
     },
     {
       "id": "41690a4ebc45cdda",
@@ -819,7 +884,7 @@
       "topic": "Business",
       "kind": "Agency release",
       "access": "free",
-      "accessCheckedAt": "2026-11-03T17:50:55Z"
+      "accessCheckedAt": "2026-11-04T17:58:53Z"
     },
     {
       "id": "fa1e5ffdabbefef1",
@@ -832,7 +897,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-11-03T17:50:55Z"
+      "accessCheckedAt": "2026-11-04T17:58:53Z"
     },
     {
       "id": "10071c049ea1030a",
@@ -845,7 +910,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-11-03T17:50:55Z"
+      "accessCheckedAt": "2026-11-04T17:58:53Z"
     },
     {
       "id": "c27511a3878b38cd",
@@ -858,7 +923,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-11-03T17:50:55Z"
+      "accessCheckedAt": "2026-11-04T17:58:53Z"
     },
     {
       "id": "fcbaed2aac2da027",
@@ -871,7 +936,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-11-03T17:50:55Z"
+      "accessCheckedAt": "2026-11-04T17:58:53Z"
     },
     {
       "id": "a0c3e1be77e8b5a2",
@@ -884,46 +949,7 @@
       "topic": "Business",
       "kind": "Agency release",
       "access": "free",
-      "accessCheckedAt": "2026-11-03T17:50:55Z"
-    },
-    {
-      "id": "7391c1bc1a80a8fe",
-      "title": "EU's 'Made in Europe' push unnerves global auto suppliers",
-      "url": "https://www.dw.com/en/eu-s-made-in-europe-push-unnerves-global-auto-suppliers/a-79732579",
-      "publishedAt": "2026-10-28T10:24:00Z",
-      "sourceId": "dw",
-      "source": "DW",
-      "sourceUrl": "https://www.dw.com/en/top-stories/s-9097",
-      "topic": "Business",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-11-03T17:50:55Z"
-    },
-    {
-      "id": "c3155dbcff436c7c",
-      "title": "Africa's first Youth Olympics open in Senegal amid hope and scrutiny",
-      "url": "https://www.dw.com/en/africa-s-first-youth-olympics-open-in-senegal-amid-hope-and-scrutiny/a-79760478",
-      "publishedAt": "2026-10-28T09:08:00Z",
-      "sourceId": "dw",
-      "source": "DW",
-      "sourceUrl": "https://www.dw.com/en/top-stories/s-9097",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-11-03T17:50:55Z"
-    },
-    {
-      "id": "d152a4aa69faf106",
-      "title": "Serbian police shoot dead assailant at Israeli Embassy",
-      "url": "https://www.dw.com/en/serbian-police-shoot-dead-assailant-at-israeli-embassy/a-79782905",
-      "publishedAt": "2026-10-28T08:48:00Z",
-      "sourceId": "dw",
-      "source": "DW",
-      "sourceUrl": "https://www.dw.com/en/top-stories/s-9097",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-11-03T17:50:55Z"
+      "accessCheckedAt": "2026-11-04T17:58:53Z"
     }
   ],
   "sources": [
@@ -934,11 +960,11 @@
       "kind": "Publisher report",
       "home": "https://www.npr.org/sections/news/",
       "feed": "https://feeds.npr.org/1001/rss.xml",
-      "checkedAt": "2026-11-03T17:50:55Z",
+      "checkedAt": "2026-11-04T17:58:53Z",
       "status": "ok",
-      "lastSuccessAt": "2026-11-03T17:50:55Z",
-      "count": 9,
-      "eligibleCount": 10,
+      "lastSuccessAt": "2026-11-04T17:58:53Z",
+      "count": 7,
+      "eligibleCount": 8,
       "omittedAccessCount": 1
     },
     {
@@ -948,11 +974,11 @@
       "kind": "Publisher report",
       "home": "https://www.dw.com/en/top-stories/s-9097",
       "feed": "https://rss.dw.com/rdf/rss-en-all",
-      "checkedAt": "2026-11-03T17:50:55Z",
+      "checkedAt": "2026-11-04T17:58:53Z",
       "status": "ok",
-      "lastSuccessAt": "2026-11-03T17:50:55Z",
-      "count": 37,
-      "eligibleCount": 38,
+      "lastSuccessAt": "2026-11-04T17:58:53Z",
+      "count": 44,
+      "eligibleCount": 45,
       "omittedAccessCount": 1
     },
     {
@@ -962,11 +988,11 @@
       "kind": "Publisher report",
       "home": "https://www.pbs.org/newshour/",
       "feed": "https://www.pbs.org/newshour/feeds/rss/headlines",
-      "checkedAt": "2026-11-03T17:50:55Z",
+      "checkedAt": "2026-11-04T17:58:53Z",
       "status": "ok",
-      "lastSuccessAt": "2026-11-03T17:50:55Z",
-      "count": 11,
-      "eligibleCount": 11,
+      "lastSuccessAt": "2026-11-04T17:58:53Z",
+      "count": 13,
+      "eligibleCount": 13,
       "omittedAccessCount": 0
     },
     {
@@ -976,11 +1002,11 @@
       "kind": "Publisher report",
       "home": "https://www.aljazeera.com/",
       "feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "checkedAt": "2026-11-03T17:50:55Z",
+      "checkedAt": "2026-11-04T17:58:53Z",
       "status": "ok",
-      "lastSuccessAt": "2026-11-03T17:50:55Z",
-      "count": 11,
-      "eligibleCount": 11,
+      "lastSuccessAt": "2026-11-04T17:58:53Z",
+      "count": 7,
+      "eligibleCount": 7,
       "omittedAccessCount": 0
     },
     {
@@ -990,11 +1016,11 @@
       "kind": "Agency release",
       "home": "https://www.nasa.gov/news/",
       "feed": "https://www.nasa.gov/news-release/feed/",
-      "checkedAt": "2026-11-03T17:50:55Z",
+      "checkedAt": "2026-11-04T17:58:53Z",
       "status": "ok",
-      "lastSuccessAt": "2026-11-03T17:50:55Z",
-      "count": 1,
-      "eligibleCount": 1,
+      "lastSuccessAt": "2026-11-04T17:58:53Z",
+      "count": 0,
+      "eligibleCount": 0,
       "omittedAccessCount": 0
     },
     {
@@ -1004,9 +1030,9 @@
       "kind": "Agency release",
       "home": "https://www.federalreserve.gov/newsevents/pressreleases.htm",
       "feed": "https://www.federalreserve.gov/feeds/press_all.xml",
-      "checkedAt": "2026-11-03T17:50:55Z",
+      "checkedAt": "2026-11-04T17:58:53Z",
       "status": "ok",
-      "lastSuccessAt": "2026-11-03T17:50:55Z",
+      "lastSuccessAt": "2026-11-04T17:58:53Z",
       "count": 2,
       "eligibleCount": 2,
       "omittedAccessCount": 0
