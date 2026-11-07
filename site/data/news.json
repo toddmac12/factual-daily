@@ -1,19 +1,630 @@
 {
   "schemaVersion": 1,
-  "collectedAt": "2026-11-06T17:29:56Z",
+  "collectedAt": "2026-11-07T16:26:03Z",
   "articles": [
     {
-      "id": "8b4b36db92245198",
-      "title": "Democratic socialist Nithya Raman defeats Los Angeles Mayor Karen Bass in upset",
-      "url": "https://www.pbs.org/newshour/politics/democratic-socialist-nithya-raman-defeats-los-angeles-mayor-karen-bass-in-upset",
-      "publishedAt": "2026-11-06T17:19:57Z",
+      "id": "08f9808c4fa5e060",
+      "title": "Poland: At least 5 killed in shooting in Krakow, police say",
+      "url": "https://www.dw.com/en/poland-at-least-5-killed-in-shooting-in-krakow-police-say/a-79886489",
+      "publishedAt": "2026-11-07T15:38:00Z",
+      "sourceId": "dw",
+      "source": "DW",
+      "sourceUrl": "https://www.dw.com/en/top-stories/s-9097",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-11-07T16:26:03Z"
+    },
+    {
+      "id": "bf0aad0cc53131f2",
+      "title": "Iran’s IRGC says building underground sites for weapons production, storage",
+      "url": "https://www.aljazeera.com/news/2026/11/7/irans-irgc-says-building-underground-sites-for-weapons-production-storage",
+      "publishedAt": "2026-11-07T15:34:58Z",
+      "sourceId": "aljazeera",
+      "source": "Al Jazeera",
+      "sourceUrl": "https://www.aljazeera.com/",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-11-07T16:26:03Z"
+    },
+    {
+      "id": "c7fa70695d3c190e",
+      "title": "At least five people killed in shooting in Poland’s Krakow",
+      "url": "https://www.aljazeera.com/news/2026/11/7/casualties-reported-after-shooting-in-polands-krakow",
+      "publishedAt": "2026-11-07T15:22:55Z",
+      "sourceId": "aljazeera",
+      "source": "Al Jazeera",
+      "sourceUrl": "https://www.aljazeera.com/",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-11-07T16:26:03Z"
+    },
+    {
+      "id": "a069f3a6b3b250a6",
+      "title": "A promising new medicine against heart disease fails unexpectedly",
+      "url": "https://www.npr.org/2026/11/07/nx-s1-6026379/lpa-drug-lipoproteina-heart-attack",
+      "publishedAt": "2026-11-07T14:50:00Z",
+      "sourceId": "npr",
+      "source": "NPR",
+      "sourceUrl": "https://www.npr.org/sections/news/",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-11-07T16:26:03Z"
+    },
+    {
+      "id": "aa99dccac573cf39",
+      "title": "Son of Iran's shah receives 'Freedom Prize' in Frankfurt",
+      "url": "https://www.dw.com/en/son-of-iran-s-shah-receives-freedom-prize-in-frankfurt/a-79885661",
+      "publishedAt": "2026-11-07T14:38:00Z",
+      "sourceId": "dw",
+      "source": "DW",
+      "sourceUrl": "https://www.dw.com/en/top-stories/s-9097",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-11-07T16:26:03Z"
+    },
+    {
+      "id": "b684ba3b3dec270c",
+      "title": "Iraq’s FM says external parties using Iraqi soil to attack neighbours",
+      "url": "https://www.aljazeera.com/news/2026/11/7/iraqs-fm-says-external-parties-using-iraqi-soil-to-attack-neighbours",
+      "publishedAt": "2026-11-07T14:24:48Z",
+      "sourceId": "aljazeera",
+      "source": "Al Jazeera",
+      "sourceUrl": "https://www.aljazeera.com/",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-11-07T16:26:03Z"
+    },
+    {
+      "id": "f6543501c58b8cd2",
+      "title": "Italy's Meloni blames pro-Russian hackers for cyberattack on minister",
+      "url": "https://www.dw.com/en/italy-s-meloni-blames-pro-russian-hackers-for-cyberattack-on-minister/a-79885200",
+      "publishedAt": "2026-11-07T14:07:00Z",
+      "sourceId": "dw",
+      "source": "DW",
+      "sourceUrl": "https://www.dw.com/en/top-stories/s-9097",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-11-07T16:26:03Z"
+    },
+    {
+      "id": "581ded90619aea31",
+      "title": "Yemen: 22 killed in strike near Sanaa, Houthis say",
+      "url": "https://www.dw.com/en/yemen-22-killed-in-strike-near-sanaa-houthis-say/a-79885177",
+      "publishedAt": "2026-11-07T13:50:00Z",
+      "sourceId": "dw",
+      "source": "DW",
+      "sourceUrl": "https://www.dw.com/en/top-stories/s-9097",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-11-07T16:26:03Z"
+    },
+    {
+      "id": "aa95c654292b404f",
+      "title": "‘They started bombing us with drones’: Russian attacks unnerve Zaporizhzhia",
+      "url": "https://www.aljazeera.com/news/2026/11/7/they-started-bombing-us-with-drones-russian-attacks-unnerve-zaporizhzhia",
+      "publishedAt": "2026-11-07T13:24:41Z",
+      "sourceId": "aljazeera",
+      "source": "Al Jazeera",
+      "sourceUrl": "https://www.aljazeera.com/",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-11-07T16:26:03Z"
+    },
+    {
+      "id": "183edbbf4eb155c9",
+      "title": "Democrats plan to widen their probes of fatal ICE shootings",
+      "url": "https://www.npr.org/2026/11/07/nx-s1-6029659/democrats-investigate-fatal-ice-shootings",
+      "publishedAt": "2026-11-07T13:19:09Z",
+      "sourceId": "npr",
+      "source": "NPR",
+      "sourceUrl": "https://www.npr.org/sections/news/",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-11-07T16:26:03Z"
+    },
+    {
+      "id": "fb641416b038da42",
+      "title": "Pro-Russian hackers leak Italian foreign minister’s data on dark web",
+      "url": "https://www.aljazeera.com/news/2026/11/7/pro-russian-hackers-leak-italian-foreign-ministers-data-on-dark-web",
+      "publishedAt": "2026-11-07T12:29:48Z",
+      "sourceId": "aljazeera",
+      "source": "Al Jazeera",
+      "sourceUrl": "https://www.aljazeera.com/",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-11-07T16:26:03Z"
+    },
+    {
+      "id": "e9f880c383256d7a",
+      "title": "New Zealand election too close to call with over 95% of votes counted",
+      "url": "https://www.dw.com/en/new-zealand-election-too-close-to-call-with-over-95-of-votes-counted/a-79883056",
+      "publishedAt": "2026-11-07T11:54:00Z",
+      "sourceId": "dw",
+      "source": "DW",
+      "sourceUrl": "https://www.dw.com/en/top-stories/s-9097",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-11-07T16:26:03Z"
+    },
+    {
+      "id": "110b6217cbad9e59",
+      "title": "This teen boy set out to get people talking about periods. He's now a Diana honoree",
+      "url": "https://www.npr.org/2026/11/07/g-s1-152225/princess-diana-honor-menstruation-stigma",
+      "publishedAt": "2026-11-07T11:50:21Z",
+      "sourceId": "npr",
+      "source": "NPR",
+      "sourceUrl": "https://www.npr.org/sections/news/",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-11-07T16:26:03Z"
+    },
+    {
+      "id": "575f578ba5adf74b",
+      "title": "Rains flood 70,000 displaced families’ tents in Gaza",
+      "url": "https://www.aljazeera.com/news/2026/11/7/rains-flood-thousands-of-tents-in-gaza",
+      "publishedAt": "2026-11-07T11:10:02Z",
+      "sourceId": "aljazeera",
+      "source": "Al Jazeera",
+      "sourceUrl": "https://www.aljazeera.com/",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-11-07T16:26:03Z"
+    },
+    {
+      "id": "60661c53ebb2d8c5",
+      "title": "Germany hopes to host world ice hockey championship — without Russia",
+      "url": "https://www.dw.com/en/germany-hopes-to-host-world-ice-hockey-championship-without-russia/a-79879536",
+      "publishedAt": "2026-11-07T11:06:00Z",
+      "sourceId": "dw",
+      "source": "DW",
+      "sourceUrl": "https://www.dw.com/en/top-stories/s-9097",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-11-07T16:26:03Z"
+    },
+    {
+      "id": "bbcdd8927e7f411d",
+      "title": "France braces for new round of Yellow Vest, student protests",
+      "url": "https://www.dw.com/en/france-braces-for-new-round-of-yellow-vest-student-protests/a-79884064",
+      "publishedAt": "2026-11-07T10:39:00Z",
+      "sourceId": "dw",
+      "source": "DW",
+      "sourceUrl": "https://www.dw.com/en/top-stories/s-9097",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-11-07T16:26:03Z"
+    },
+    {
+      "id": "e0b722390c9caeb9",
+      "title": "Pakistani astronaut to join China’s next space station mission",
+      "url": "https://www.aljazeera.com/news/2026/11/7/pakistani-astronaut-to-join-chinas-next-space-station-mission",
+      "publishedAt": "2026-11-07T10:17:53Z",
+      "sourceId": "aljazeera",
+      "source": "Al Jazeera",
+      "sourceUrl": "https://www.aljazeera.com/",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-11-07T16:26:03Z"
+    },
+    {
+      "id": "414a1e4dd4c5277e",
+      "title": "An unexpected activist emerged to help block a $5 billion data center in Maryland",
+      "url": "https://www.npr.org/2026/11/07/nx-s1-6007770/data-centers-activist-moratorium",
+      "publishedAt": "2026-11-07T10:00:00Z",
+      "sourceId": "npr",
+      "source": "NPR",
+      "sourceUrl": "https://www.npr.org/sections/news/",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-11-07T16:26:03Z"
+    },
+    {
+      "id": "55817e315a759842",
+      "title": "Ukraine: Russia hits Kyiv with airstrikes ahead of trilateral talks",
+      "url": "https://www.dw.com/en/ukraine-russia-hits-kyiv-with-airstrikes-ahead-of-trilateral-talks/a-79883851",
+      "publishedAt": "2026-11-07T09:21:00Z",
+      "sourceId": "dw",
+      "source": "DW",
+      "sourceUrl": "https://www.dw.com/en/top-stories/s-9097",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-11-07T16:26:03Z"
+    },
+    {
+      "id": "50648477f294148c",
+      "title": "Amid protests, France's rising debt costs threaten stability",
+      "url": "https://www.dw.com/en/amid-protests-france-s-rising-debt-costs-threaten-stability/a-79865654",
+      "publishedAt": "2026-11-07T08:16:00Z",
+      "sourceId": "dw",
+      "source": "DW",
+      "sourceUrl": "https://www.dw.com/en/top-stories/s-9097",
+      "topic": "Business",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-11-07T16:26:03Z"
+    },
+    {
+      "id": "b468c87ae7ffbdc5",
+      "title": "US: Giant pandas from China make public debut at Atlanta zoo",
+      "url": "https://www.dw.com/en/us-giant-pandas-from-china-make-public-debut-at-atlanta-zoo/a-79883388",
+      "publishedAt": "2026-11-07T07:33:00Z",
+      "sourceId": "dw",
+      "source": "DW",
+      "sourceUrl": "https://www.dw.com/en/top-stories/s-9097",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-11-07T16:26:03Z"
+    },
+    {
+      "id": "7107d3b9b548269d",
+      "title": "US asks China to uphold Busan trade deal commitments",
+      "url": "https://www.dw.com/en/us-asks-china-to-uphold-busan-trade-deal-commitments/a-79882939",
+      "publishedAt": "2026-11-07T04:44:00Z",
+      "sourceId": "dw",
+      "source": "DW",
+      "sourceUrl": "https://www.dw.com/en/top-stories/s-9097",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-11-07T16:26:03Z"
+    },
+    {
+      "id": "89d8cf11851356a3",
+      "title": "Cornell faculty declares 'no confidence' in university leadership",
+      "url": "https://www.dw.com/en/cornell-faculty-declares-no-confidence-in-university-leadership/a-79882895",
+      "publishedAt": "2026-11-07T03:14:00Z",
+      "sourceId": "dw",
+      "source": "DW",
+      "sourceUrl": "https://www.dw.com/en/top-stories/s-9097",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-11-07T16:26:03Z"
+    },
+    {
+      "id": "7e32a2368d135261",
+      "title": "What Trump picking Stephen Miller for chief of staff signals about his agenda",
+      "url": "https://www.pbs.org/newshour/show/what-trump-picking-stephen-miller-for-chief-of-staff-signals-about-his-agenda",
+      "publishedAt": "2026-11-06T23:55:50Z",
       "sourceId": "pbs",
       "source": "PBS News",
       "sourceUrl": "https://www.pbs.org/newshour/",
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-11-06T17:29:56Z"
+      "accessCheckedAt": "2026-11-07T16:26:03Z"
+    },
+    {
+      "id": "ccee2736ab75fd69",
+      "title": "News Wrap: Judge blocks construction of Trump's triumphal arch for now",
+      "url": "https://www.pbs.org/newshour/show/news-wrap-judge-blocks-construction-of-trumps-triumphal-arch-for-now",
+      "publishedAt": "2026-11-06T23:50:18Z",
+      "sourceId": "pbs",
+      "source": "PBS News",
+      "sourceUrl": "https://www.pbs.org/newshour/",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-11-07T16:26:03Z"
+    },
+    {
+      "id": "384cab4bfab8e318",
+      "title": "Georgia Gov.-elect Bottoms reflects on historic victory and the path forward for Democrats",
+      "url": "https://www.pbs.org/newshour/show/georgia-gov-elect-bottoms-reflects-on-historic-victory-and-the-path-forward-for-democrats",
+      "publishedAt": "2026-11-06T23:35:55Z",
+      "sourceId": "pbs",
+      "source": "PBS News",
+      "sourceUrl": "https://www.pbs.org/newshour/",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-11-07T16:26:03Z"
+    },
+    {
+      "id": "8868b806eb369a0c",
+      "title": "Former Sen. Flake, outspoken Trump critic, on the GOP reckoning post-midterms",
+      "url": "https://www.pbs.org/newshour/show/former-sen-flake-outspoken-trump-critic-on-the-gop-reckoning-post-midterms",
+      "publishedAt": "2026-11-06T23:30:54Z",
+      "sourceId": "pbs",
+      "source": "PBS News",
+      "sourceUrl": "https://www.pbs.org/newshour/",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-11-07T16:26:03Z"
+    },
+    {
+      "id": "5c6572e304c3794e",
+      "title": "Brooks and Capehart on Trump's White House shakeup and fallout from the midterms",
+      "url": "https://www.pbs.org/newshour/show/brooks-and-capehart-on-trumps-white-house-shakeup-and-fallout-from-the-midterms",
+      "publishedAt": "2026-11-06T23:25:07Z",
+      "sourceId": "pbs",
+      "source": "PBS News",
+      "sourceUrl": "https://www.pbs.org/newshour/",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-11-07T16:26:03Z"
+    },
+    {
+      "id": "ca336b262c3b337d",
+      "title": "Paraguay: President Santiago Pena under house arrest over bank crisis",
+      "url": "https://www.dw.com/en/paraguay-president-santiago-pena-under-house-arrest-over-bank-crisis/a-79868484",
+      "publishedAt": "2026-11-06T23:23:00Z",
+      "sourceId": "dw",
+      "source": "DW",
+      "sourceUrl": "https://www.dw.com/en/top-stories/s-9097",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-11-07T16:26:03Z"
+    },
+    {
+      "id": "dfe097d9b8355ded",
+      "title": "Remembering Jay Rockefeller's life and legacy of public service",
+      "url": "https://www.pbs.org/newshour/show/remembering-jay-rockefellers-life-and-legacy-of-public-service",
+      "publishedAt": "2026-11-06T23:20:13Z",
+      "sourceId": "pbs",
+      "source": "PBS News",
+      "sourceUrl": "https://www.pbs.org/newshour/",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-11-07T16:26:03Z"
+    },
+    {
+      "id": "d522080c04d29dd4",
+      "title": "Pope Leo arrives in Uruguay at start of South America tour",
+      "url": "https://www.dw.com/en/pope-leo-arrives-in-uruguay-at-start-of-south-america-tour/a-79872584",
+      "publishedAt": "2026-11-06T22:54:00Z",
+      "sourceId": "dw",
+      "source": "DW",
+      "sourceUrl": "https://www.dw.com/en/top-stories/s-9097",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-11-07T16:26:03Z"
+    },
+    {
+      "id": "97002c33dd485bcd",
+      "title": "Seeds and preserved hair in tomb point to oldest signs of cannabis high 2,800 years ago, study suggests",
+      "url": "https://www.pbs.org/newshour/science/seeds-and-preserved-hair-in-tomb-point-to-oldest-signs-of-cannabis-high-2800-years-ago-study-suggests",
+      "publishedAt": "2026-11-06T22:19:59Z",
+      "sourceId": "pbs",
+      "source": "PBS News",
+      "sourceUrl": "https://www.pbs.org/newshour/",
+      "topic": "Science",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-11-07T16:26:03Z"
+    },
+    {
+      "id": "5e9b47ebc4e424f1",
+      "title": "Dad of 20-year-old co-pilot in Florida jet crash says her final radio calls showed 'she's tough'",
+      "url": "https://www.pbs.org/newshour/nation/dad-of-20-year-old-co-pilot-in-florida-jet-crash-says-her-final-radio-calls-showed-shes-tough",
+      "publishedAt": "2026-11-06T21:52:13Z",
+      "sourceId": "pbs",
+      "source": "PBS News",
+      "sourceUrl": "https://www.pbs.org/newshour/",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-11-07T16:26:03Z"
+    },
+    {
+      "id": "63f80a5ff955519e",
+      "title": "Cornell faculty vote 'no confidence' in university leadership after alleged fraternity gang rape",
+      "url": "https://www.pbs.org/newshour/nation/cornell-faculty-vote-no-confidence-in-university-leadership-after-alleged-fraternity-gang-rape",
+      "publishedAt": "2026-11-06T21:28:00Z",
+      "sourceId": "pbs",
+      "source": "PBS News",
+      "sourceUrl": "https://www.pbs.org/newshour/",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-11-07T16:26:03Z"
+    },
+    {
+      "id": "2c22ebbfb64451fc",
+      "title": "Democrats win the Arizona House, Senate and governor's office for the first time since 1966",
+      "url": "https://www.pbs.org/newshour/politics/democrats-win-the-arizona-house-senate-and-governors-office-for-the-first-time-since-1966",
+      "publishedAt": "2026-11-06T21:16:31Z",
+      "sourceId": "pbs",
+      "source": "PBS News",
+      "sourceUrl": "https://www.pbs.org/newshour/",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-11-07T16:26:03Z"
+    },
+    {
+      "id": "b4298bca46ea6d16",
+      "title": "Tankers carrying Russian diesel to the US change course",
+      "url": "https://www.dw.com/en/tankers-carrying-russian-diesel-to-the-us-change-course/a-79870807",
+      "publishedAt": "2026-11-06T20:55:00Z",
+      "sourceId": "dw",
+      "source": "DW",
+      "sourceUrl": "https://www.dw.com/en/top-stories/s-9097",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-11-07T16:26:03Z"
+    },
+    {
+      "id": "612883a640e88a9a",
+      "title": "Israel's Arab-led parties in spotlight after inconclusive election",
+      "url": "https://www.npr.org/2026/11/06/g-s1-152138/israel-election-palestinian-arab-parties",
+      "publishedAt": "2026-11-06T20:42:51Z",
+      "sourceId": "npr",
+      "source": "NPR",
+      "sourceUrl": "https://www.npr.org/sections/news/",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-11-07T16:26:03Z"
+    },
+    {
+      "id": "b75b041f59900742",
+      "title": "Stephen Miller named by Trump as new White House chief of staff",
+      "url": "https://www.dw.com/en/stephen-miller-named-by-trump-as-new-white-house-chief-of-staff/a-79881571",
+      "publishedAt": "2026-11-06T20:41:00Z",
+      "sourceId": "dw",
+      "source": "DW",
+      "sourceUrl": "https://www.dw.com/en/top-stories/s-9097",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-11-07T16:26:03Z"
+    },
+    {
+      "id": "dd6c8ceaa0254d87",
+      "title": "Trump's triumphal arch is blocked for now, but a new website highlights the plans",
+      "url": "https://www.pbs.org/newshour/politics/trumps-triumphal-arch-is-blocked-for-now-but-a-new-website-highlights-the-plans",
+      "publishedAt": "2026-11-06T20:36:43Z",
+      "sourceId": "pbs",
+      "source": "PBS News",
+      "sourceUrl": "https://www.pbs.org/newshour/",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-11-07T16:26:03Z"
+    },
+    {
+      "id": "fb1a883a48293163",
+      "title": "The incoming class of U.S. senators is full of historic firsts",
+      "url": "https://www.npr.org/2026/11/06/nx-s1-6032814/senate-history-election-pappas-andrews-el-sayed",
+      "publishedAt": "2026-11-06T20:21:13Z",
+      "sourceId": "npr",
+      "source": "NPR",
+      "sourceUrl": "https://www.npr.org/sections/news/",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-11-07T16:26:03Z"
+    },
+    {
+      "id": "28eae6935e52503c",
+      "title": "Connecticut Sen. Chris Murphy released from hospital after stroke",
+      "url": "https://www.pbs.org/newshour/politics/connecticut-sen-chris-murphy-released-from-hospital-after-stroke",
+      "publishedAt": "2026-11-06T19:52:13Z",
+      "sourceId": "pbs",
+      "source": "PBS News",
+      "sourceUrl": "https://www.pbs.org/newshour/",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-11-07T16:26:03Z"
+    },
+    {
+      "id": "49dc0f1d956d45af",
+      "title": "No one knows how many ballots are outstanding in Mississippi's Senate race",
+      "url": "https://www.npr.org/2026/11/06/nx-s1-6030645/mississippi-senate-results-provisional-ballots",
+      "publishedAt": "2026-11-06T19:50:14Z",
+      "sourceId": "npr",
+      "source": "NPR",
+      "sourceUrl": "https://www.npr.org/sections/news/",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-11-07T16:26:03Z"
+    },
+    {
+      "id": "b8bcd5eb7fc95501",
+      "title": "Schumer says Democrats will stop Trump from placing 'right-winger' on the Supreme Court",
+      "url": "https://www.pbs.org/newshour/politics/schumer-says-democrats-will-stop-trump-from-placing-right-winger-on-the-supreme-court",
+      "publishedAt": "2026-11-06T19:46:53Z",
+      "sourceId": "pbs",
+      "source": "PBS News",
+      "sourceUrl": "https://www.pbs.org/newshour/",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-11-07T16:26:03Z"
+    },
+    {
+      "id": "58f869a45ed5ef9c",
+      "title": "Trump names Stephen Miller his next chief of staff after major Republican midterm losses",
+      "url": "https://www.pbs.org/newshour/politics/trump-names-stephen-miller-his-next-chief-of-staff-after-major-republican-midterm-losses",
+      "publishedAt": "2026-11-06T19:17:44Z",
+      "sourceId": "pbs",
+      "source": "PBS News",
+      "sourceUrl": "https://www.pbs.org/newshour/",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-11-07T16:26:03Z"
+    },
+    {
+      "id": "beb6f467946a8ed7",
+      "title": "Latino voters propel Democrats to big wins with leftward swing",
+      "url": "https://www.pbs.org/newshour/politics/latino-voters-propel-democrats-to-big-wins-with-leftward-swing",
+      "publishedAt": "2026-11-06T19:07:57Z",
+      "sourceId": "pbs",
+      "source": "PBS News",
+      "sourceUrl": "https://www.pbs.org/newshour/",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-11-07T16:26:03Z"
+    },
+    {
+      "id": "fe3d291e619d2ef5",
+      "title": "3 charged in $129 million AI scheme targeting thousands of companies",
+      "url": "https://www.pbs.org/newshour/nation/3-charged-in-129-million-ai-scheme-targeting-thousands-of-companies",
+      "publishedAt": "2026-11-06T18:59:17Z",
+      "sourceId": "pbs",
+      "source": "PBS News",
+      "sourceUrl": "https://www.pbs.org/newshour/",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-11-07T16:26:03Z"
+    },
+    {
+      "id": "62497e57d523bc76",
+      "title": "Ilse Aigner tipped by party allies as next German president",
+      "url": "https://www.dw.com/en/ilse-aigner-tipped-by-party-allies-as-next-german-president/a-79880594",
+      "publishedAt": "2026-11-06T18:48:00Z",
+      "sourceId": "dw",
+      "source": "DW",
+      "sourceUrl": "https://www.dw.com/en/top-stories/s-9097",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-11-07T16:26:03Z"
+    },
+    {
+      "id": "1edb28e8da1d3e2a",
+      "title": "Online magazine Salon announces it is shutting down",
+      "url": "https://www.pbs.org/newshour/arts/online-magazine-salon-announces-it-is-shutting-down",
+      "publishedAt": "2026-11-06T18:46:46Z",
+      "sourceId": "pbs",
+      "source": "PBS News",
+      "sourceUrl": "https://www.pbs.org/newshour/",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-11-07T16:26:03Z"
     },
     {
       "id": "ecdd4924ebadebbf",
@@ -26,215 +637,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-11-06T17:29:56Z"
-    },
-    {
-      "id": "50dbf4f75e37726f",
-      "title": "US prosecutor who led Trump-backed election probe exits Justice Department",
-      "url": "https://www.aljazeera.com/news/2026/11/6/us-prosecutor-who-led-trump-backed-election-probe-exits-justice-department",
-      "publishedAt": "2026-11-06T17:02:19Z",
-      "sourceId": "aljazeera",
-      "source": "Al Jazeera",
-      "sourceUrl": "https://www.aljazeera.com/",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-11-06T17:29:56Z"
-    },
-    {
-      "id": "7e5e295fc294ced7",
-      "title": "Paraguay resumes Pena impeachment proceedings as financial crisis deepens",
-      "url": "https://www.aljazeera.com/news/2026/11/6/paraguay-resumes-pena-impeachment-proceedings-as-financial-crisis-deepens",
-      "publishedAt": "2026-11-06T16:58:56Z",
-      "sourceId": "aljazeera",
-      "source": "Al Jazeera",
-      "sourceUrl": "https://www.aljazeera.com/",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-11-06T17:29:56Z"
-    },
-    {
-      "id": "6e8b8871227ffec4",
-      "title": "Trump's Washington projects are a likely casualty as Democrats claim Congress",
-      "url": "https://www.pbs.org/newshour/politics/trumps-washington-projects-are-a-likely-casualty-as-democrats-claim-congress",
-      "publishedAt": "2026-11-06T16:45:19Z",
-      "sourceId": "pbs",
-      "source": "PBS News",
-      "sourceUrl": "https://www.pbs.org/newshour/",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-11-06T17:29:56Z"
-    },
-    {
-      "id": "ce875852455f6328",
-      "title": "Taiwan to close representative office in Papua New Guinea, blames China",
-      "url": "https://www.aljazeera.com/news/2026/11/6/taiwan-to-close-representative-office-in-papua-new-guinea-blames-china",
-      "publishedAt": "2026-11-06T16:40:39Z",
-      "sourceId": "aljazeera",
-      "source": "Al Jazeera",
-      "sourceUrl": "https://www.aljazeera.com/",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-11-06T17:29:56Z"
-    },
-    {
-      "id": "b22520e31eb7d962",
-      "title": "Data center protesters break into Microsoft site in Amsterdam",
-      "url": "https://www.dw.com/en/data-center-protesters-break-into-microsoft-site-in-amsterdam/a-79879050",
-      "publishedAt": "2026-11-06T16:38:00Z",
-      "sourceId": "dw",
-      "source": "DW",
-      "sourceUrl": "https://www.dw.com/en/top-stories/s-9097",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-11-06T17:29:56Z"
-    },
-    {
-      "id": "250e6f42c4f87c3c",
-      "title": "Despite Russia impasse, Germany still hoping to host Men's Ice Hockey World Championship",
-      "url": "https://www.dw.com/en/despite-russia-impasse-germany-still-hoping-to-host-men-s-ice-hockey-world-championship/a-79879536",
-      "publishedAt": "2026-11-06T16:28:00Z",
-      "sourceId": "dw",
-      "source": "DW",
-      "sourceUrl": "https://www.dw.com/en/top-stories/s-9097",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-11-06T17:29:56Z"
-    },
-    {
-      "id": "e3bdce2fde4edfbe",
-      "title": "U.S. continues to generate jobs, yet inflation is eroding Americans' spending power",
-      "url": "https://www.pbs.org/newshour/economy/u-s-continues-to-generate-jobs-yet-inflation-is-eroding-americans-spending-power",
-      "publishedAt": "2026-11-06T16:23:26Z",
-      "sourceId": "pbs",
-      "source": "PBS News",
-      "sourceUrl": "https://www.pbs.org/newshour/",
-      "topic": "Business",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-11-06T17:29:56Z"
-    },
-    {
-      "id": "84668f9d60a66578",
-      "title": "Millions fleeing Sudan’s war risk losing shelter as funds run low, UN warns",
-      "url": "https://www.aljazeera.com/news/2026/11/6/millions-fleeing-sudans-war-risk-losing-shelter-as-funds-run-low-un-warns",
-      "publishedAt": "2026-11-06T16:10:51Z",
-      "sourceId": "aljazeera",
-      "source": "Al Jazeera",
-      "sourceUrl": "https://www.aljazeera.com/",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-11-06T17:29:56Z"
-    },
-    {
-      "id": "fda2d6a1e11f2cc0",
-      "title": "Germany: Small plane crashes onto A2 highway, killing 2",
-      "url": "https://www.dw.com/en/germany-small-plane-crashes-onto-a2-highway-killing-2/a-79878930",
-      "publishedAt": "2026-11-06T16:01:00Z",
-      "sourceId": "dw",
-      "source": "DW",
-      "sourceUrl": "https://www.dw.com/en/top-stories/s-9097",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-11-06T17:29:56Z"
-    },
-    {
-      "id": "ea020a03420b52ac",
-      "title": "AP report: Thomas Markle Sr. arrested on charges related to child sexual abuse material",
-      "url": "https://www.pbs.org/newshour/nation/ap-report-thomas-markle-sr-arrested-on-charges-related-to-child-sexual-abuse-material",
-      "publishedAt": "2026-11-06T15:57:31Z",
-      "sourceId": "pbs",
-      "source": "PBS News",
-      "sourceUrl": "https://www.pbs.org/newshour/",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-11-06T17:29:56Z"
-    },
-    {
-      "id": "c48a8f7fb5128146",
-      "title": "Jay Rockefeller, former West Virginia governor and U.S. senator, dies at 89",
-      "url": "https://www.pbs.org/newshour/politics/jay-rockefeller-former-west-virginia-governor-and-u-s-senator-dies-at-89",
-      "publishedAt": "2026-11-06T15:37:10Z",
-      "sourceId": "pbs",
-      "source": "PBS News",
-      "sourceUrl": "https://www.pbs.org/newshour/",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-11-06T17:29:56Z"
-    },
-    {
-      "id": "de1273404f85176c",
-      "title": "Musk says Tesla to wind down polarising Cybertruck production as sales lag",
-      "url": "https://www.aljazeera.com/news/2026/11/6/musk-says-tesla-to-wind-down-polarising-cybertruck-production-as-sales-lag",
-      "publishedAt": "2026-11-06T15:35:57Z",
-      "sourceId": "aljazeera",
-      "source": "Al Jazeera",
-      "sourceUrl": "https://www.aljazeera.com/",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-11-06T17:29:56Z"
-    },
-    {
-      "id": "924c80e87bf3e6a2",
-      "title": "New bomb threats target European broadcasters, air traffic",
-      "url": "https://www.aljazeera.com/news/2026/11/6/new-bomb-threats-target-european-broadcasters-air-traffic",
-      "publishedAt": "2026-11-06T15:24:54Z",
-      "sourceId": "aljazeera",
-      "source": "Al Jazeera",
-      "sourceUrl": "https://www.aljazeera.com/",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-11-06T17:29:56Z"
-    },
-    {
-      "id": "6276075465bf1693",
-      "title": "European air traffic is targeted by new threats after a week of hoaxes",
-      "url": "https://www.npr.org/2026/11/06/nx-s1-6032612/europe-flights-hoaxes",
-      "publishedAt": "2026-11-06T15:21:31Z",
-      "sourceId": "npr",
-      "source": "NPR",
-      "sourceUrl": "https://www.npr.org/sections/news/",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-11-06T17:29:56Z"
-    },
-    {
-      "id": "b2885443585d44aa",
-      "title": "The leader of a Kenyan doomsday cult is sentenced to 200 years in prison",
-      "url": "https://www.npr.org/2026/11/06/nx-s1-6032593/kenya-cult-leader-paul-mackenzie-sentenced-murder",
-      "publishedAt": "2026-11-06T14:53:46Z",
-      "sourceId": "npr",
-      "source": "NPR",
-      "sourceUrl": "https://www.npr.org/sections/news/",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-11-06T17:29:56Z"
-    },
-    {
-      "id": "ed74af6123add228",
-      "title": "Protests and reforms: France's rising debt costs threaten stability",
-      "url": "https://www.dw.com/en/protests-and-reforms-france-s-rising-debt-costs-threaten-stability/a-79865654",
-      "publishedAt": "2026-11-06T14:37:00Z",
-      "sourceId": "dw",
-      "source": "DW",
-      "sourceUrl": "https://www.dw.com/en/top-stories/s-9097",
-      "topic": "Business",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-11-06T17:29:56Z"
+      "accessCheckedAt": "2026-11-07T16:26:03Z"
     },
     {
       "id": "897a0df46a706223",
@@ -247,207 +650,12 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-11-06T17:29:56Z"
+      "accessCheckedAt": "2026-11-07T16:26:03Z"
     },
     {
-      "id": "45cdeae664636167",
-      "title": "Ex-lawmaker gets 12.5 years in Macao's first national security case",
-      "url": "https://www.npr.org/2026/11/06/g-s1-152217/ex-lawmaker-gets-12-5-years-in-macaos-first-national-security-case",
-      "publishedAt": "2026-11-06T13:56:43Z",
-      "sourceId": "npr",
-      "source": "NPR",
-      "sourceUrl": "https://www.npr.org/sections/news/",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-11-06T17:29:56Z"
-    },
-    {
-      "id": "e40e0b6dd7eb6446",
-      "title": "Hiring jumps: The economy added 165,000 jobs last month",
-      "url": "https://www.npr.org/2026/11/06/nx-s1-6030867/jobs-labor-market-economy-wages-inflation",
-      "publishedAt": "2026-11-06T13:49:21Z",
-      "sourceId": "npr",
-      "source": "NPR",
-      "sourceUrl": "https://www.npr.org/sections/news/",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-11-06T17:29:56Z"
-    },
-    {
-      "id": "d5a093d7a053de51",
-      "title": "What a Trump-Xi-Putin summit could mean – and what it wouldn’t",
-      "url": "https://www.aljazeera.com/news/2026/11/6/what-a-trump-xi-putin-summit-would-mean-and-what-it-wouldnt",
-      "publishedAt": "2026-11-06T13:49:07Z",
-      "sourceId": "aljazeera",
-      "source": "Al Jazeera",
-      "sourceUrl": "https://www.aljazeera.com/",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-11-06T17:29:56Z"
-    },
-    {
-      "id": "dca561d4d0441cbc",
-      "title": "Ukraine raises Zaporizhia aid strike death toll to at least 50",
-      "url": "https://www.aljazeera.com/news/2026/11/6/ukraine-raises-zaporizhia-aid-strike-death-toll-to-at-least-50",
-      "publishedAt": "2026-11-06T13:30:18Z",
-      "sourceId": "aljazeera",
-      "source": "Al Jazeera",
-      "sourceUrl": "https://www.aljazeera.com/",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-11-06T17:29:56Z"
-    },
-    {
-      "id": "d33c313a06f4215a",
-      "title": "Zambia's civil service overhaul raises questions",
-      "url": "https://www.dw.com/en/zambia-s-civil-service-overhaul-raises-questions/a-79875892",
-      "publishedAt": "2026-11-06T13:28:00Z",
-      "sourceId": "dw",
-      "source": "DW",
-      "sourceUrl": "https://www.dw.com/en/top-stories/s-9097",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-11-06T17:29:56Z"
-    },
-    {
-      "id": "d560bb827fee3f13",
-      "title": "Global temperatures are set to exceed 1.5 degrees above pre-industrial levels in 2026, likely the second-warmest year on record",
-      "url": "https://www.dw.com/en/global-temperatures-are-set-to-exceed-1-5-degrees-above-pre-industrial-levels-in-2026-likely-the-second-warmest-year-on-record/a-79874098",
-      "publishedAt": "2026-11-06T13:23:00Z",
-      "sourceId": "dw",
-      "source": "DW",
-      "sourceUrl": "https://www.dw.com/en/top-stories/s-9097",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-11-06T17:29:56Z"
-    },
-    {
-      "id": "15c623b3dc730eb6",
-      "title": "For people in Iran, a constant threat of war and dearth of information",
-      "url": "https://www.dw.com/en/for-people-in-iran-a-constant-threat-of-war-and-dearth-of-information/a-79875438",
-      "publishedAt": "2026-11-06T12:56:00Z",
-      "sourceId": "dw",
-      "source": "DW",
-      "sourceUrl": "https://www.dw.com/en/top-stories/s-9097",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-11-06T17:29:56Z"
-    },
-    {
-      "id": "e7d4e3a2d181cd54",
-      "title": "Kenyan court sentences starvation cult leader to 200 years",
-      "url": "https://www.aljazeera.com/news/2026/11/6/kenyan-court-sentences-starvation-cult-leader-to-200-years",
-      "publishedAt": "2026-11-06T12:50:24Z",
-      "sourceId": "aljazeera",
-      "source": "Al Jazeera",
-      "sourceUrl": "https://www.aljazeera.com/",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-11-06T17:29:56Z"
-    },
-    {
-      "id": "2150fa159109ef90",
-      "title": "New bomb threats target Irish media, more European flights",
-      "url": "https://www.dw.com/en/new-bomb-threats-target-irish-media-more-european-flights/a-79875884",
-      "publishedAt": "2026-11-06T12:48:00Z",
-      "sourceId": "dw",
-      "source": "DW",
-      "sourceUrl": "https://www.dw.com/en/top-stories/s-9097",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-11-06T17:29:56Z"
-    },
-    {
-      "id": "155a35c1e346259d",
-      "title": "Judge halts construction of Trump's arch. And, Labor Department to release jobs report",
-      "url": "https://www.npr.org/2026/11/06/g-s1-152213/up-first-newsletter-job-market-trump-arch-school-enrollment-harmeet-dhillon",
-      "publishedAt": "2026-11-06T12:24:52Z",
-      "sourceId": "npr",
-      "source": "NPR",
-      "sourceUrl": "https://www.npr.org/sections/news/",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-11-06T17:29:56Z"
-    },
-    {
-      "id": "8689ad1af62da40e",
-      "title": "Tanzania: Opposition leader Tundu Lissu jailed for four years",
-      "url": "https://www.dw.com/en/tanzania-opposition-leader-tundu-lissu-jailed-for-four-years/a-79875248",
-      "publishedAt": "2026-11-06T12:19:00Z",
-      "sourceId": "dw",
-      "source": "DW",
-      "sourceUrl": "https://www.dw.com/en/top-stories/s-9097",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-11-06T17:29:56Z"
-    },
-    {
-      "id": "aa42da1e16d26267",
-      "title": "'No choice but to bear it': Delhi's unrelenting air pollution crisis",
-      "url": "https://www.dw.com/en/no-choice-but-to-bear-it-delhi-s-unrelenting-air-pollution-crisis/a-79873124",
-      "publishedAt": "2026-11-06T12:05:00Z",
-      "sourceId": "dw",
-      "source": "DW",
-      "sourceUrl": "https://www.dw.com/en/top-stories/s-9097",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-11-06T17:29:56Z"
-    },
-    {
-      "id": "7a13b520397b6e58",
-      "title": "Kenya cult leader Paul Mackenzie sentenced to 200 years",
-      "url": "https://www.dw.com/en/kenya-cult-leader-paul-mackenzie-sentenced-to-200-years/a-79875112",
-      "publishedAt": "2026-11-06T12:03:00Z",
-      "sourceId": "dw",
-      "source": "DW",
-      "sourceUrl": "https://www.dw.com/en/top-stories/s-9097",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-11-06T17:29:56Z"
-    },
-    {
-      "id": "b9d7f377e491bd55",
-      "title": "'He's got to go': Hakeem Jeffries calls for Hegseth's removal but stops short of impeachment",
-      "url": "https://www.npr.org/2026/11/06/nx-s1-6030799/democrats-ran-on-affordability-how-will-the-party-make-it-happen",
-      "publishedAt": "2026-11-06T11:58:56Z",
-      "sourceId": "npr",
-      "source": "NPR",
-      "sourceUrl": "https://www.npr.org/sections/news/",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-11-06T17:29:56Z"
-    },
-    {
-      "id": "b5f45ef9c8a5e2eb",
-      "title": "Past White House adviser Raj Panjabi has written a playbook for 'living room' crises",
-      "url": "https://www.npr.org/2026/11/06/nx-s1-6021013/white-house-adviser-raj-panjabi-safer-playbook",
-      "publishedAt": "2026-11-06T11:57:32Z",
-      "sourceId": "npr",
-      "source": "NPR",
-      "sourceUrl": "https://www.npr.org/sections/news/",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-11-06T17:29:56Z"
-    },
-    {
-      "id": "580b8e4a11c23a82",
-      "title": "Exercise and cancer: What \"living longer\" really means",
-      "url": "https://www.dw.com/en/exercise-and-cancer-what-living-longer-really-means/a-79856133",
+      "id": "6184ce6c4193d014",
+      "title": "Exercise coaching boosts colon cancer survival",
+      "url": "https://www.dw.com/en/exercise-coaching-boosts-colon-cancer-survival/a-79856133",
       "publishedAt": "2026-11-06T11:11:00Z",
       "sourceId": "dw",
       "source": "DW",
@@ -455,33 +663,7 @@
       "topic": "Science",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-11-06T17:29:56Z"
-    },
-    {
-      "id": "6080246c24d6fd22",
-      "title": "Turkey: Ex-minister arrested in a major fund manipulation scandal",
-      "url": "https://www.dw.com/en/turkey-ex-minister-arrested-in-a-major-fund-manipulation-scandal/a-79872732",
-      "publishedAt": "2026-11-06T10:38:00Z",
-      "sourceId": "dw",
-      "source": "DW",
-      "sourceUrl": "https://www.dw.com/en/top-stories/s-9097",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-11-06T17:29:56Z"
-    },
-    {
-      "id": "5ed9a6b7c1be9147",
-      "title": "French bus carrying school children crashes, killing 2",
-      "url": "https://www.dw.com/en/french-bus-carrying-school-children-crashes-killing-2/a-79873221",
-      "publishedAt": "2026-11-06T10:10:00Z",
-      "sourceId": "dw",
-      "source": "DW",
-      "sourceUrl": "https://www.dw.com/en/top-stories/s-9097",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-11-06T17:29:56Z"
+      "accessCheckedAt": "2026-11-07T16:26:03Z"
     },
     {
       "id": "c1f154c43d0ee96b",
@@ -494,202 +676,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-11-06T17:29:56Z"
-    },
-    {
-      "id": "6d3b3fa5e428e265",
-      "title": "Pope Leo sets off on 12-day South America tour",
-      "url": "https://www.dw.com/en/pope-leo-sets-off-on-12-day-south-america-tour/a-79872584",
-      "publishedAt": "2026-11-06T08:52:00Z",
-      "sourceId": "dw",
-      "source": "DW",
-      "sourceUrl": "https://www.dw.com/en/top-stories/s-9097",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-11-06T17:29:56Z"
-    },
-    {
-      "id": "014a48435ad43e66",
-      "title": "Alabama executes man for 1991 killings in last of 3 U.S. executions carried out the same day",
-      "url": "https://www.pbs.org/newshour/nation/alabama-executes-man-for-1991-killings-in-last-of-3-u-s-executions-carried-out-the-same-day",
-      "publishedAt": "2026-11-06T00:49:28Z",
-      "sourceId": "pbs",
-      "source": "PBS News",
-      "sourceUrl": "https://www.pbs.org/newshour/",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-11-06T17:29:56Z"
-    },
-    {
-      "id": "6349b350d29a0c9e",
-      "title": "'JD, habibi.' Arabs celebrate El-Sayed's use of a term of affection in his victory speech",
-      "url": "https://www.pbs.org/newshour/politics/jd-habibi-arabs-celebrate-el-sayeds-use-of-a-term-of-affection-in-his-victory-speech",
-      "publishedAt": "2026-11-06T00:42:09Z",
-      "sourceId": "pbs",
-      "source": "PBS News",
-      "sourceUrl": "https://www.pbs.org/newshour/",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-11-06T17:29:56Z"
-    },
-    {
-      "id": "a6e6f6ab73e0d0b5",
-      "title": "Tankers carrying Russian diesel change course, raising doubts about shipments to U.S.",
-      "url": "https://www.pbs.org/newshour/world/tankers-carrying-russian-diesel-change-course-raising-doubts-about-shipments-to-u-s",
-      "publishedAt": "2026-11-06T00:17:51Z",
-      "sourceId": "pbs",
-      "source": "PBS News",
-      "sourceUrl": "https://www.pbs.org/newshour/",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-11-06T17:29:56Z"
-    },
-    {
-      "id": "43e6335d097afe05",
-      "title": "A look at the midterm races that remain undecided",
-      "url": "https://www.pbs.org/newshour/show/a-look-at-the-midterm-races-that-remain-undecided",
-      "publishedAt": "2026-11-05T23:55:48Z",
-      "sourceId": "pbs",
-      "source": "PBS News",
-      "sourceUrl": "https://www.pbs.org/newshour/",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-11-06T17:29:56Z"
-    },
-    {
-      "id": "912aeba4e63c2315",
-      "title": "News Wrap: Head of Justice Department's civil rights division resigns",
-      "url": "https://www.pbs.org/newshour/show/news-wrap-head-of-justice-departments-civil-rights-division-resigns",
-      "publishedAt": "2026-11-05T23:50:08Z",
-      "sourceId": "pbs",
-      "source": "PBS News",
-      "sourceUrl": "https://www.pbs.org/newshour/",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-11-06T17:29:56Z"
-    },
-    {
-      "id": "73198837f4508fe8",
-      "title": "After midterms, Trump is left to weigh his next move in Iran war that contributed to GOP loss",
-      "url": "https://www.pbs.org/newshour/politics/after-midterms-trump-is-left-to-weigh-his-next-move-in-iran-war-that-contributed-to-gop-loss",
-      "publishedAt": "2026-11-05T23:46:36Z",
-      "sourceId": "pbs",
-      "source": "PBS News",
-      "sourceUrl": "https://www.pbs.org/newshour/",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-11-06T17:29:56Z"
-    },
-    {
-      "id": "c6d12391d76d62e0",
-      "title": "After midterms, world leaders await Trump's next move in Iran",
-      "url": "https://www.pbs.org/newshour/show/after-midterms-world-leaders-await-trumps-next-move-in-iran",
-      "publishedAt": "2026-11-05T23:45:29Z",
-      "sourceId": "pbs",
-      "source": "PBS News",
-      "sourceUrl": "https://www.pbs.org/newshour/",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-11-06T17:29:56Z"
-    },
-    {
-      "id": "0a86e112bfaf7a92",
-      "title": "Newsom plans to commute all of California's death sentences",
-      "url": "https://www.pbs.org/newshour/show/newsom-plans-to-commute-all-of-californias-death-sentences",
-      "publishedAt": "2026-11-05T23:40:51Z",
-      "sourceId": "pbs",
-      "source": "PBS News",
-      "sourceUrl": "https://www.pbs.org/newshour/",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-11-06T17:29:56Z"
-    },
-    {
-      "id": "58a88975301c1e59",
-      "title": "Rep. Garcia says voters gave Democrats a mandate to pursue accountability",
-      "url": "https://www.pbs.org/newshour/show/rep-garcia-says-voters-gave-democrats-a-mandate-to-pursue-accountability",
-      "publishedAt": "2026-11-05T23:40:32Z",
-      "sourceId": "pbs",
-      "source": "PBS News",
-      "sourceUrl": "https://www.pbs.org/newshour/",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-11-06T17:29:56Z"
-    },
-    {
-      "id": "37b6568563ac4f2d",
-      "title": "Refugee influx and foreign aid cuts strain South Sudan's health care system",
-      "url": "https://www.pbs.org/newshour/show/refugee-influx-and-foreign-aid-cuts-strain-south-sudans-health-care-system",
-      "publishedAt": "2026-11-05T23:35:31Z",
-      "sourceId": "pbs",
-      "source": "PBS News",
-      "sourceUrl": "https://www.pbs.org/newshour/",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-11-06T17:29:56Z"
-    },
-    {
-      "id": "14a10800c20d1bc7",
-      "title": "Hegseth allows National Guard to boost DC patrols with military vehicles, boats and patrol cars",
-      "url": "https://www.pbs.org/newshour/politics/hegseth-allows-national-guard-to-boost-dc-patrols-with-military-vehicles-boats-and-patrol-cars",
-      "publishedAt": "2026-11-05T23:31:50Z",
-      "sourceId": "pbs",
-      "source": "PBS News",
-      "sourceUrl": "https://www.pbs.org/newshour/",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-11-06T17:29:56Z"
-    },
-    {
-      "id": "827cb31c63428701",
-      "title": "State lawmakers seek greater control over what universities can teach",
-      "url": "https://www.pbs.org/newshour/show/state-lawmakers-seek-greater-control-over-what-universities-can-teach",
-      "publishedAt": "2026-11-05T23:30:54Z",
-      "sourceId": "pbs",
-      "source": "PBS News",
-      "sourceUrl": "https://www.pbs.org/newshour/",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-11-06T17:29:56Z"
-    },
-    {
-      "id": "49d73609e84e5c30",
-      "title": "On 'Settle In,' D.L. Hughley recounts his confrontation with Bill Cosby",
-      "url": "https://www.pbs.org/newshour/show/on-settle-in-d-l-hughley-recounts-his-confrontation-with-bill-cosby",
-      "publishedAt": "2026-11-05T23:25:09Z",
-      "sourceId": "pbs",
-      "source": "PBS News",
-      "sourceUrl": "https://www.pbs.org/newshour/",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-11-06T17:29:56Z"
-    },
-    {
-      "id": "72a230f2ee0024d5",
-      "title": "Paraguay prosecutor will seek charges against embattled president after bank collapse",
-      "url": "https://www.pbs.org/newshour/world/paraguay-prosecutor-will-seek-charges-against-embattled-president-after-bank-collapse",
-      "publishedAt": "2026-11-05T23:16:26Z",
-      "sourceId": "pbs",
-      "source": "PBS News",
-      "sourceUrl": "https://www.pbs.org/newshour/",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-11-06T17:29:56Z"
+      "accessCheckedAt": "2026-11-07T16:26:03Z"
     },
     {
       "id": "11d8610a120e3ab6",
@@ -702,7 +689,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-11-06T17:29:56Z"
+      "accessCheckedAt": "2026-11-07T16:26:03Z"
     },
     {
       "id": "c2e5ae27f8405ad4",
@@ -715,7 +702,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-11-06T17:29:56Z"
+      "accessCheckedAt": "2026-11-07T16:26:03Z"
     },
     {
       "id": "2993c3bddd49024d",
@@ -728,7 +715,7 @@
       "topic": "Business",
       "kind": "Agency release",
       "access": "free",
-      "accessCheckedAt": "2026-11-06T17:29:56Z"
+      "accessCheckedAt": "2026-11-07T16:26:03Z"
     },
     {
       "id": "10bb65c14f4e4c2d",
@@ -741,7 +728,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-11-06T17:29:56Z"
+      "accessCheckedAt": "2026-11-07T16:26:03Z"
     },
     {
       "id": "825ad0ac29c227c7",
@@ -754,7 +741,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-11-06T17:29:56Z"
+      "accessCheckedAt": "2026-11-07T16:26:03Z"
     },
     {
       "id": "3a3ce6d11c4bed84",
@@ -767,7 +754,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-11-06T17:29:56Z"
+      "accessCheckedAt": "2026-11-07T16:26:03Z"
     },
     {
       "id": "124f824b0e07b5c3",
@@ -780,20 +767,7 @@
       "topic": "Business",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-11-06T17:29:56Z"
-    },
-    {
-      "id": "1522f10d7fdf55bd",
-      "title": "NASA Announces X-70 Experimental Aircraft to Advance Flight Research",
-      "url": "https://www.nasa.gov/news-release/nasa-announces-x-70-experimental-aircraft-to-advance-flight-research/",
-      "publishedAt": "2026-11-05T01:43:21Z",
-      "sourceId": "nasa",
-      "source": "NASA",
-      "sourceUrl": "https://www.nasa.gov/news/",
-      "topic": "Technology",
-      "kind": "Agency release",
-      "access": "free",
-      "accessCheckedAt": "2026-11-06T17:29:56Z"
+      "accessCheckedAt": "2026-11-07T16:26:03Z"
     },
     {
       "id": "dc09772faa12d3fa",
@@ -806,7 +780,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-11-06T17:29:56Z"
+      "accessCheckedAt": "2026-11-07T16:26:03Z"
     },
     {
       "id": "949d4ea66003d8de",
@@ -819,7 +793,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-11-06T17:29:56Z"
+      "accessCheckedAt": "2026-11-07T16:26:03Z"
     },
     {
       "id": "34859fc77a44c22c",
@@ -832,7 +806,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-11-06T17:29:56Z"
+      "accessCheckedAt": "2026-11-07T16:26:03Z"
     },
     {
       "id": "7b674acad5ab14d8",
@@ -845,7 +819,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-11-06T17:29:56Z"
+      "accessCheckedAt": "2026-11-07T16:26:03Z"
     },
     {
       "id": "db1dcb8d550cbc88",
@@ -858,7 +832,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-11-06T17:29:56Z"
+      "accessCheckedAt": "2026-11-07T16:26:03Z"
     },
     {
       "id": "b5324aaa0f6e593e",
@@ -871,7 +845,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-11-06T17:29:56Z"
+      "accessCheckedAt": "2026-11-07T16:26:03Z"
     },
     {
       "id": "9f74c40c29525d6c",
@@ -884,7 +858,7 @@
       "topic": "Business",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-11-06T17:29:56Z"
+      "accessCheckedAt": "2026-11-07T16:26:03Z"
     },
     {
       "id": "a3fdc8a2501bd8ae",
@@ -897,7 +871,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-11-06T17:29:56Z"
+      "accessCheckedAt": "2026-11-07T16:26:03Z"
     },
     {
       "id": "c676c7f349f7cfbd",
@@ -910,7 +884,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-11-06T17:29:56Z"
+      "accessCheckedAt": "2026-11-07T16:26:03Z"
     },
     {
       "id": "5a66c266e06430b5",
@@ -923,7 +897,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-11-06T17:29:56Z"
+      "accessCheckedAt": "2026-11-07T16:26:03Z"
     },
     {
       "id": "863c4364baea0887",
@@ -936,7 +910,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-11-06T17:29:56Z"
+      "accessCheckedAt": "2026-11-07T16:26:03Z"
     },
     {
       "id": "59e3eb0d85d65338",
@@ -949,7 +923,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-11-06T17:29:56Z"
+      "accessCheckedAt": "2026-11-07T16:26:03Z"
     },
     {
       "id": "1d2a8af2e01e5a74",
@@ -962,7 +936,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-11-06T17:29:56Z"
+      "accessCheckedAt": "2026-11-07T16:26:03Z"
     },
     {
       "id": "d3d6cb0a329c40a5",
@@ -975,7 +949,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-11-06T17:29:56Z"
+      "accessCheckedAt": "2026-11-07T16:26:03Z"
     },
     {
       "id": "72df9d2c62836418",
@@ -988,7 +962,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-11-06T17:29:56Z"
+      "accessCheckedAt": "2026-11-07T16:26:03Z"
     },
     {
       "id": "7ba09cf0439fb247",
@@ -1001,7 +975,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-11-06T17:29:56Z"
+      "accessCheckedAt": "2026-11-07T16:26:03Z"
     },
     {
       "id": "beeabc4abe9cd13c",
@@ -1014,7 +988,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-11-06T17:29:56Z"
+      "accessCheckedAt": "2026-11-07T16:26:03Z"
     },
     {
       "id": "6d0086c2458b3c3a",
@@ -1027,7 +1001,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-11-06T17:29:56Z"
+      "accessCheckedAt": "2026-11-07T16:26:03Z"
     },
     {
       "id": "4cdeadba980132b9",
@@ -1040,7 +1014,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-11-06T17:29:56Z"
+      "accessCheckedAt": "2026-11-07T16:26:03Z"
     },
     {
       "id": "09fc50df10b66c38",
@@ -1053,7 +1027,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-11-06T17:29:56Z"
+      "accessCheckedAt": "2026-11-07T16:26:03Z"
     },
     {
       "id": "66cee2f122958305",
@@ -1066,7 +1040,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-11-06T17:29:56Z"
+      "accessCheckedAt": "2026-11-07T16:26:03Z"
     },
     {
       "id": "7cebe42bf33135c4",
@@ -1079,20 +1053,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-11-06T17:29:56Z"
-    },
-    {
-      "id": "a55bfac7d94c2a1b",
-      "title": "Canadian PM Mark Carney discusses talks with the EU, overdependence on the US and how to deal with Donald Trump in a DW interview.",
-      "url": "https://www.dw.com/en/canadian-pm-mark-carney-discusses-talks-with-the-eu-overdependence-on-the-us-and-how-to-deal-with-donald-trump-in-a-dw-interview/a-79811469",
-      "publishedAt": "2026-10-30T20:55:00Z",
-      "sourceId": "dw",
-      "source": "DW",
-      "sourceUrl": "https://www.dw.com/en/top-stories/s-9097",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-11-06T17:29:56Z"
+      "accessCheckedAt": "2026-11-07T16:26:03Z"
     }
   ],
   "sources": [
@@ -1103,9 +1064,9 @@
       "kind": "Publisher report",
       "home": "https://www.npr.org/sections/news/",
       "feed": "https://feeds.npr.org/1001/rss.xml",
-      "checkedAt": "2026-11-06T17:29:56Z",
+      "checkedAt": "2026-11-07T16:26:03Z",
       "status": "ok",
-      "lastSuccessAt": "2026-11-06T17:29:56Z",
+      "lastSuccessAt": "2026-11-07T16:26:03Z",
       "count": 7,
       "eligibleCount": 7,
       "omittedAccessCount": 0
@@ -1117,11 +1078,11 @@
       "kind": "Publisher report",
       "home": "https://www.dw.com/en/top-stories/s-9097",
       "feed": "https://rss.dw.com/rdf/rss-en-all",
-      "checkedAt": "2026-11-06T17:29:56Z",
+      "checkedAt": "2026-11-07T16:26:03Z",
       "status": "ok",
-      "lastSuccessAt": "2026-11-06T17:29:56Z",
-      "count": 47,
-      "eligibleCount": 47,
+      "lastSuccessAt": "2026-11-07T16:26:03Z",
+      "count": 49,
+      "eligibleCount": 49,
       "omittedAccessCount": 0
     },
     {
@@ -1131,11 +1092,11 @@
       "kind": "Publisher report",
       "home": "https://www.pbs.org/newshour/",
       "feed": "https://www.pbs.org/newshour/feeds/rss/headlines",
-      "checkedAt": "2026-11-06T17:29:56Z",
+      "checkedAt": "2026-11-07T16:26:03Z",
       "status": "ok",
-      "lastSuccessAt": "2026-11-06T17:29:56Z",
-      "count": 19,
-      "eligibleCount": 19,
+      "lastSuccessAt": "2026-11-07T16:26:03Z",
+      "count": 17,
+      "eligibleCount": 17,
       "omittedAccessCount": 0
     },
     {
@@ -1145,11 +1106,11 @@
       "kind": "Publisher report",
       "home": "https://www.aljazeera.com/",
       "feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "checkedAt": "2026-11-06T17:29:56Z",
+      "checkedAt": "2026-11-07T16:26:03Z",
       "status": "ok",
-      "lastSuccessAt": "2026-11-06T17:29:56Z",
-      "count": 9,
-      "eligibleCount": 9,
+      "lastSuccessAt": "2026-11-07T16:26:03Z",
+      "count": 7,
+      "eligibleCount": 7,
       "omittedAccessCount": 0
     },
     {
@@ -1159,11 +1120,11 @@
       "kind": "Agency release",
       "home": "https://www.nasa.gov/news/",
       "feed": "https://www.nasa.gov/news-release/feed/",
-      "checkedAt": "2026-11-06T17:29:56Z",
+      "checkedAt": "2026-11-07T16:26:03Z",
       "status": "ok",
-      "lastSuccessAt": "2026-11-06T17:29:56Z",
-      "count": 1,
-      "eligibleCount": 1,
+      "lastSuccessAt": "2026-11-07T16:26:03Z",
+      "count": 0,
+      "eligibleCount": 0,
       "omittedAccessCount": 0
     },
     {
@@ -1173,9 +1134,9 @@
       "kind": "Agency release",
       "home": "https://www.federalreserve.gov/newsevents/pressreleases.htm",
       "feed": "https://www.federalreserve.gov/feeds/press_all.xml",
-      "checkedAt": "2026-11-06T17:29:56Z",
+      "checkedAt": "2026-11-07T16:26:03Z",
       "status": "ok",
-      "lastSuccessAt": "2026-11-06T17:29:56Z",
+      "lastSuccessAt": "2026-11-07T16:26:03Z",
       "count": 1,
       "eligibleCount": 1,
       "omittedAccessCount": 0
