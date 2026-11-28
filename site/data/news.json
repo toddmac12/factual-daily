@@ -1,7 +1,553 @@
 {
   "schemaVersion": 1,
-  "collectedAt": "2026-11-27T19:28:10Z",
+  "collectedAt": "2026-11-28T18:15:08Z",
   "articles": [
+    {
+      "id": "1eb8d221fffcf519",
+      "title": "Afghanistan: Several killed in blast near middle school",
+      "url": "https://www.dw.com/en/afghanistan-several-killed-in-blast-near-middle-school/a-80084227",
+      "publishedAt": "2026-11-28T17:35:00Z",
+      "sourceId": "dw",
+      "source": "DW",
+      "sourceUrl": "https://www.dw.com/en/top-stories/s-9097",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-11-28T18:15:08Z"
+    },
+    {
+      "id": "02f82584fbcda3eb",
+      "title": "EPA says initial tests show no toxic lead contamination in Iowa following detonation",
+      "url": "https://www.npr.org/2026/11/28/nx-s1-6056359/epa-results-iowa-lead-testing",
+      "publishedAt": "2026-11-28T17:32:26Z",
+      "sourceId": "npr",
+      "source": "NPR",
+      "sourceUrl": "https://www.npr.org/sections/news/",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-11-28T18:15:08Z"
+    },
+    {
+      "id": "eeaaff2439af0a58",
+      "title": "Dozens reported killed in series of Myanmar air attacks",
+      "url": "https://www.aljazeera.com/news/2026/11/28/dozens-reported-killed-in-series-of-myanmar-air-attacks",
+      "publishedAt": "2026-11-28T17:29:28Z",
+      "sourceId": "aljazeera",
+      "source": "Al Jazeera",
+      "sourceUrl": "https://www.aljazeera.com/",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-11-28T18:15:08Z"
+    },
+    {
+      "id": "7d9eba26654837be",
+      "title": "Argentina loses bid to stop Falklands oil project, vows to continue",
+      "url": "https://www.dw.com/en/argentina-loses-bid-to-stop-falklands-oil-project-vows-to-continue/a-80086936",
+      "publishedAt": "2026-11-28T17:28:00Z",
+      "sourceId": "dw",
+      "source": "DW",
+      "sourceUrl": "https://www.dw.com/en/top-stories/s-9097",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-11-28T18:15:08Z"
+    },
+    {
+      "id": "7a0f235daac17635",
+      "title": "Postponed Macy's 100th Thanksgiving Day parade gets a do-over with 100 balloons and 1,000 clowns",
+      "url": "https://www.pbs.org/newshour/nation/postponed-macys-100th-thanksgiving-day-parade-gets-a-do-over-with-100-balloons-and-1000-clowns",
+      "publishedAt": "2026-11-28T17:21:30Z",
+      "sourceId": "pbs",
+      "source": "PBS News",
+      "sourceUrl": "https://www.pbs.org/newshour/",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-11-28T18:15:08Z"
+    },
+    {
+      "id": "0835d38c9069df86",
+      "title": "Advertisement urging end of US military aid to Israel dropped by NBC: Reports",
+      "url": "https://www.aljazeera.com/news/2026/11/28/advertisement-urging-end-of-us-military-aid-to-israel-dropped-by-nbc-reports",
+      "publishedAt": "2026-11-28T16:43:01Z",
+      "sourceId": "aljazeera",
+      "source": "Al Jazeera",
+      "sourceUrl": "https://www.aljazeera.com/",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-11-28T18:15:08Z"
+    },
+    {
+      "id": "aa27e239802137ef",
+      "title": "Albania: Clashes erupt at anti-government protest in Tirana",
+      "url": "https://www.dw.com/en/albania-clashes-erupt-at-anti-government-protest-in-tirana/a-80086581",
+      "publishedAt": "2026-11-28T16:34:00Z",
+      "sourceId": "dw",
+      "source": "DW",
+      "sourceUrl": "https://www.dw.com/en/top-stories/s-9097",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-11-28T18:15:08Z"
+    },
+    {
+      "id": "7a8cd2d5cf0d2756",
+      "title": "EPA says no rise in contamination after Army detonates lead azide stockpile in Iowa",
+      "url": "https://www.pbs.org/newshour/nation/epa-says-no-rise-in-contamination-after-army-detonates-lead-azide-stockpile-in-iowa",
+      "publishedAt": "2026-11-28T16:07:23Z",
+      "sourceId": "pbs",
+      "source": "PBS News",
+      "sourceUrl": "https://www.pbs.org/newshour/",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-11-28T18:15:08Z"
+    },
+    {
+      "id": "0788c134a18a48a0",
+      "title": "Doctors Without Borders condemns Israeli strike that killed 2 Gaza staff, and other Middle East news",
+      "url": "https://www.pbs.org/newshour/world/doctors-without-borders-condemns-israeli-strike-that-killed-2-gaza-staff-and-other-middle-east-news",
+      "publishedAt": "2026-11-28T15:53:36Z",
+      "sourceId": "pbs",
+      "source": "PBS News",
+      "sourceUrl": "https://www.pbs.org/newshour/",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-11-28T18:15:08Z"
+    },
+    {
+      "id": "b6d11add6dede235",
+      "title": "ACLU seeks court order blocking Trump administration's efforts to unmask ICE critics on social media",
+      "url": "https://www.pbs.org/newshour/nation/aclu-seeks-court-order-blocking-trump-administrations-efforts-to-unmask-ice-critics-on-social-media",
+      "publishedAt": "2026-11-28T15:38:03Z",
+      "sourceId": "pbs",
+      "source": "PBS News",
+      "sourceUrl": "https://www.pbs.org/newshour/",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-11-28T18:15:08Z"
+    },
+    {
+      "id": "efa3009cdc2b45b4",
+      "title": "UN warns hunger will deepen in the Middle East as war, fuel costs and aid cuts collide",
+      "url": "https://www.pbs.org/newshour/world/un-warns-hunger-will-deepen-in-the-middle-east-as-war-fuel-costs-and-aid-cuts-collide",
+      "publishedAt": "2026-11-28T15:26:26Z",
+      "sourceId": "pbs",
+      "source": "PBS News",
+      "sourceUrl": "https://www.pbs.org/newshour/",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-11-28T18:15:08Z"
+    },
+    {
+      "id": "98eafe185dd42f21",
+      "title": "US environmental agency says no rise in contamination after Iowa detonation",
+      "url": "https://www.aljazeera.com/news/2026/11/28/us-environmental-agency-says-no-rise-in-contamination-after-iowa-detonation",
+      "publishedAt": "2026-11-28T15:22:35Z",
+      "sourceId": "aljazeera",
+      "source": "Al Jazeera",
+      "sourceUrl": "https://www.aljazeera.com/",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-11-28T18:15:08Z"
+    },
+    {
+      "id": "41955b47cb52003f",
+      "title": "Albania police, protesters clash as thousands rally against the government",
+      "url": "https://www.aljazeera.com/news/2026/11/28/albania-police-protesters-clash-as-thousands-rally-against-the-government",
+      "publishedAt": "2026-11-28T14:50:01Z",
+      "sourceId": "aljazeera",
+      "source": "Al Jazeera",
+      "sourceUrl": "https://www.aljazeera.com/",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-11-28T18:15:08Z"
+    },
+    {
+      "id": "9a4b5b0019792d05",
+      "title": "COP31 climate talks fail to reach an agreement on fossil fuel language",
+      "url": "https://www.npr.org/2026/11/28/nx-s1-6050187/cop31-talks-fall-apart",
+      "publishedAt": "2026-11-28T14:28:45Z",
+      "sourceId": "npr",
+      "source": "NPR",
+      "sourceUrl": "https://www.npr.org/sections/news/",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-11-28T18:15:08Z"
+    },
+    {
+      "id": "96f19cb282a512de",
+      "title": "AI-generated lawsuits flood German courts",
+      "url": "https://www.dw.com/en/ai-generated-lawsuits-flood-german-courts/a-80076247",
+      "publishedAt": "2026-11-28T14:13:00Z",
+      "sourceId": "dw",
+      "source": "DW",
+      "sourceUrl": "https://www.dw.com/en/top-stories/s-9097",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-11-28T18:15:08Z"
+    },
+    {
+      "id": "f1a4a279060d6842",
+      "title": "Court rejects Argentina’s request to stop UK oil activity near Falklands",
+      "url": "https://www.aljazeera.com/news/2026/11/28/court-rejects-argentinas-request-to-stop-uk-oil-activity-near-falklands",
+      "publishedAt": "2026-11-28T13:24:24Z",
+      "sourceId": "aljazeera",
+      "source": "Al Jazeera",
+      "sourceUrl": "https://www.aljazeera.com/",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-11-28T18:15:08Z"
+    },
+    {
+      "id": "9aef841302991bcc",
+      "title": "Norse Atlantic ends flights: How Iran war continues to batter aviation",
+      "url": "https://www.aljazeera.com/news/2026/11/28/norse-atlantic-ends-flights-how-iran-war-continues-to-batter-aviation",
+      "publishedAt": "2026-11-28T12:56:53Z",
+      "sourceId": "aljazeera",
+      "source": "Al Jazeera",
+      "sourceUrl": "https://www.aljazeera.com/",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-11-28T18:15:08Z"
+    },
+    {
+      "id": "8e5e9af2cbc0d730",
+      "title": "Azerbaijan's opposition leader Ali Karimli: A year behind bars",
+      "url": "https://www.dw.com/en/azerbaijan-s-opposition-leader-ali-karimli-a-year-behind-bars/a-80036095",
+      "publishedAt": "2026-11-28T12:52:00Z",
+      "sourceId": "dw",
+      "source": "DW",
+      "sourceUrl": "https://www.dw.com/en/top-stories/s-9097",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-11-28T18:15:08Z"
+    },
+    {
+      "id": "74d2fe0e13fcf191",
+      "title": "Ukraine's expertise comes in handy for international drone alliances",
+      "url": "https://www.dw.com/en/ukraine-s-expertise-comes-in-handy-for-international-drone-alliances/a-80075472",
+      "publishedAt": "2026-11-28T12:52:00Z",
+      "sourceId": "dw",
+      "source": "DW",
+      "sourceUrl": "https://www.dw.com/en/top-stories/s-9097",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-11-28T18:15:08Z"
+    },
+    {
+      "id": "5a091caf52ab800b",
+      "title": "Taiwan opposition party wins re-election in Taipei mayoral race",
+      "url": "https://www.aljazeera.com/news/2026/11/28/taiwan-opposition-party-wins-re-election-in-taipei-mayoral-race",
+      "publishedAt": "2026-11-28T12:36:19Z",
+      "sourceId": "aljazeera",
+      "source": "Al Jazeera",
+      "sourceUrl": "https://www.aljazeera.com/",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-11-28T18:15:08Z"
+    },
+    {
+      "id": "9d1314c8efee3b31",
+      "title": "AI data centers in space: Millions of satellites and so many unknowns",
+      "url": "https://www.dw.com/en/ai-data-centers-in-space-millions-of-satellites-and-so-many-unknowns/a-80080166",
+      "publishedAt": "2026-11-28T12:09:00Z",
+      "sourceId": "dw",
+      "source": "DW",
+      "sourceUrl": "https://www.dw.com/en/top-stories/s-9097",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-11-28T18:15:08Z"
+    },
+    {
+      "id": "12ccd3f99b5cd0b9",
+      "title": "An explosion at a school in eastern Afghanistan kills 10, wounds 110",
+      "url": "https://www.npr.org/2026/11/28/nx-s1-6056284/explosion-school-eastern-afghanistan",
+      "publishedAt": "2026-11-28T11:32:37Z",
+      "sourceId": "npr",
+      "source": "NPR",
+      "sourceUrl": "https://www.npr.org/sections/news/",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-11-28T18:15:08Z"
+    },
+    {
+      "id": "7bd5515926483865",
+      "title": "Two visions of Spain collide as voters weigh PM Sanchez’s record",
+      "url": "https://www.aljazeera.com/news/2026/11/28/two-visions-of-spain-collide-as-voters-weigh-sanchez-record",
+      "publishedAt": "2026-11-28T10:36:41Z",
+      "sourceId": "aljazeera",
+      "source": "Al Jazeera",
+      "sourceUrl": "https://www.aljazeera.com/",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-11-28T18:15:08Z"
+    },
+    {
+      "id": "ee3db0cab65f080e",
+      "title": "New wave of Democratic attorneys general may reshape the justice system",
+      "url": "https://www.npr.org/2026/11/28/g-s1-155837/democratic-attorneys-general-justice-system-texas",
+      "publishedAt": "2026-11-28T10:00:00Z",
+      "sourceId": "npr",
+      "source": "NPR",
+      "sourceUrl": "https://www.npr.org/sections/news/",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-11-28T18:15:08Z"
+    },
+    {
+      "id": "78ecce9504e7d2d0",
+      "title": "Indian workers fill Germany's labor gaps but face hurdles and risks",
+      "url": "https://www.dw.com/en/indian-workers-fill-germany-s-labor-gaps-but-face-hurdles-and-risks/a-80072882",
+      "publishedAt": "2026-11-28T06:12:00Z",
+      "sourceId": "dw",
+      "source": "DW",
+      "sourceUrl": "https://www.dw.com/en/top-stories/s-9097",
+      "topic": "Business",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-11-28T18:15:08Z"
+    },
+    {
+      "id": "bffdca07f06f7e30",
+      "title": "Taiwan election: DPP gains ground but loses Taipei race",
+      "url": "https://www.dw.com/en/taiwan-election-dpp-gains-ground-but-loses-taipei-race/a-80083086",
+      "publishedAt": "2026-11-28T02:37:00Z",
+      "sourceId": "dw",
+      "source": "DW",
+      "sourceUrl": "https://www.dw.com/en/top-stories/s-9097",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-11-28T18:15:08Z"
+    },
+    {
+      "id": "097c77a9a9e9d577",
+      "title": "Spain's Sanchez makes final appeal to voters before election",
+      "url": "https://www.dw.com/en/spain-s-sanchez-makes-final-appeal-to-voters-before-election/a-80082783",
+      "publishedAt": "2026-11-28T00:51:00Z",
+      "sourceId": "dw",
+      "source": "DW",
+      "sourceUrl": "https://www.dw.com/en/top-stories/s-9097",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-11-28T18:15:08Z"
+    },
+    {
+      "id": "0862f8dcae5462ae",
+      "title": "News Wrap: Crews work to restore power for thousands after Thanksgiving storm",
+      "url": "https://www.pbs.org/newshour/show/news-wrap-crews-work-to-restore-power-for-thousands-after-thanksgiving-storm",
+      "publishedAt": "2026-11-27T23:55:12Z",
+      "sourceId": "pbs",
+      "source": "PBS News",
+      "sourceUrl": "https://www.pbs.org/newshour/",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-11-28T18:15:08Z"
+    },
+    {
+      "id": "d8c09b5594b02a7d",
+      "title": "American consumers face pitfalls with rise of 'buy now, pay later'",
+      "url": "https://www.pbs.org/newshour/show/american-consumers-face-pitfalls-with-rise-of-buy-now-pay-later",
+      "publishedAt": "2026-11-27T23:50:12Z",
+      "sourceId": "pbs",
+      "source": "PBS News",
+      "sourceUrl": "https://www.pbs.org/newshour/",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-11-28T18:15:08Z"
+    },
+    {
+      "id": "8b31952d80cc9dc4",
+      "title": "How online gambling is changing the game and impacting athletes",
+      "url": "https://www.pbs.org/newshour/show/how-online-gambling-is-changing-the-game-and-impacting-athletes",
+      "publishedAt": "2026-11-27T23:45:13Z",
+      "sourceId": "pbs",
+      "source": "PBS News",
+      "sourceUrl": "https://www.pbs.org/newshour/",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-11-28T18:15:08Z"
+    },
+    {
+      "id": "3e36d8f9b5ff8c73",
+      "title": "Brooks and Capehart on Trump's new tariffs, Nvidia's future and Democratic leadership",
+      "url": "https://www.pbs.org/newshour/show/brooks-and-capehart-on-trumps-new-tariffs-nvidias-future-and-democratic-leadership",
+      "publishedAt": "2026-11-27T23:40:22Z",
+      "sourceId": "pbs",
+      "source": "PBS News",
+      "sourceUrl": "https://www.pbs.org/newshour/",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-11-28T18:15:08Z"
+    },
+    {
+      "id": "98be3aca6014dc5e",
+      "title": "Exploring an AI reboot and the ethics that surround it",
+      "url": "https://www.pbs.org/newshour/show/exploring-an-ai-reboot-and-the-ethics-that-surround-it",
+      "publishedAt": "2026-11-27T23:35:30Z",
+      "sourceId": "pbs",
+      "source": "PBS News",
+      "sourceUrl": "https://www.pbs.org/newshour/",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-11-28T18:15:08Z"
+    },
+    {
+      "id": "703403372733c73b",
+      "title": "Rachel Maddow discusses how the Justice Department has strayed from its mission",
+      "url": "https://www.pbs.org/newshour/show/rachel-maddow-discusses-how-the-justice-department-has-strayed-from-its-mission",
+      "publishedAt": "2026-11-27T23:30:40Z",
+      "sourceId": "pbs",
+      "source": "PBS News",
+      "sourceUrl": "https://www.pbs.org/newshour/",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-11-28T18:15:08Z"
+    },
+    {
+      "id": "0128b47c5baa89a7",
+      "title": "A veteran's Brief But Spectacular take on finding new ways to serve after the military",
+      "url": "https://www.pbs.org/newshour/show/a-veterans-brief-but-spectacular-take-on-finding-new-ways-to-serve-after-the-military",
+      "publishedAt": "2026-11-27T23:25:55Z",
+      "sourceId": "pbs",
+      "source": "PBS News",
+      "sourceUrl": "https://www.pbs.org/newshour/",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-11-28T18:15:08Z"
+    },
+    {
+      "id": "319498537e26a47d",
+      "title": "US disables ship in Gulf of Oman under Iran blockade",
+      "url": "https://www.dw.com/en/us-disables-ship-in-gulf-of-oman-under-iran-blockade/a-80082950",
+      "publishedAt": "2026-11-27T23:17:00Z",
+      "sourceId": "dw",
+      "source": "DW",
+      "sourceUrl": "https://www.dw.com/en/top-stories/s-9097",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-11-28T18:15:08Z"
+    },
+    {
+      "id": "e450cbcac5dc0ec4",
+      "title": "Sudan's lost generation: War is stealing the childhood of millions",
+      "url": "https://www.npr.org/2026/11/27/nx-s1-6053049/sudans-lost-generation-war-is-stealing-a-generation-of-childhood",
+      "publishedAt": "2026-11-27T22:54:53Z",
+      "sourceId": "npr",
+      "source": "NPR",
+      "sourceUrl": "https://www.npr.org/sections/news/",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-11-28T18:15:08Z"
+    },
+    {
+      "id": "365c2ec9b3ccaa50",
+      "title": "Protesters take to the streets in Puerto Rico's capital as standard of living deteriorates",
+      "url": "https://www.pbs.org/newshour/nation/protesters-take-to-the-streets-in-puerto-ricos-capital-as-standard-of-living-deteriorates",
+      "publishedAt": "2026-11-27T22:10:46Z",
+      "sourceId": "pbs",
+      "source": "PBS News",
+      "sourceUrl": "https://www.pbs.org/newshour/",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-11-28T18:15:08Z"
+    },
+    {
+      "id": "0f7c5b73eebc7586",
+      "title": "Mexico's government is slamming a DEA crime tip line as foreign interference. Others are thrilled.",
+      "url": "https://www.pbs.org/newshour/world/mexicos-government-is-slamming-a-dea-crime-tip-line-as-foreign-interference-others-are-thrilled",
+      "publishedAt": "2026-11-27T21:36:37Z",
+      "sourceId": "pbs",
+      "source": "PBS News",
+      "sourceUrl": "https://www.pbs.org/newshour/",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-11-28T18:15:08Z"
+    },
+    {
+      "id": "fbdf956940c099f6",
+      "title": "Canada's Supreme Court largely upholds a Quebec ban on religious symbols for public servants",
+      "url": "https://www.pbs.org/newshour/world/canadas-supreme-court-largely-upholds-a-quebec-ban-on-religious-symbols-for-public-servants",
+      "publishedAt": "2026-11-27T20:48:47Z",
+      "sourceId": "pbs",
+      "source": "PBS News",
+      "sourceUrl": "https://www.pbs.org/newshour/",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-11-28T18:15:08Z"
+    },
+    {
+      "id": "e81b43653220b73c",
+      "title": "Canada: Supreme Court largely upholds Quebec secularism bill",
+      "url": "https://www.dw.com/en/canada-supreme-court-largely-upholds-quebec-secularism-bill/a-80082571",
+      "publishedAt": "2026-11-27T20:43:00Z",
+      "sourceId": "dw",
+      "source": "DW",
+      "sourceUrl": "https://www.dw.com/en/top-stories/s-9097",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-11-28T18:15:08Z"
+    },
+    {
+      "id": "96b32ce8c8e63535",
+      "title": "Army deems lead azide detonation a success but criticism lingers over notification",
+      "url": "https://www.pbs.org/newshour/nation/army-deems-lead-azide-detonation-a-success-but-criticism-lingers-over-notification",
+      "publishedAt": "2026-11-27T20:25:15Z",
+      "sourceId": "pbs",
+      "source": "PBS News",
+      "sourceUrl": "https://www.pbs.org/newshour/",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-11-28T18:15:08Z"
+    },
+    {
+      "id": "693579c59261faf8",
+      "title": "U.S. military says it disabled another ship that tried to breach naval blockade on Iranian ports",
+      "url": "https://www.pbs.org/newshour/world/u-s-military-says-it-disabled-another-ship-that-tried-to-breach-naval-blockade-on-iranian-ports",
+      "publishedAt": "2026-11-27T19:39:21Z",
+      "sourceId": "pbs",
+      "source": "PBS News",
+      "sourceUrl": "https://www.pbs.org/newshour/",
+      "topic": "World",
+      "kind": "Publisher report",
+      "access": "free",
+      "accessCheckedAt": "2026-11-28T18:15:08Z"
+    },
     {
       "id": "e9d44bdb846cc219",
       "title": "Using a drone and a poop-sniffing dog, scientists perform health checks on endangered orcas",
@@ -13,7 +559,7 @@
       "topic": "Science",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-11-27T19:28:10Z"
+      "accessCheckedAt": "2026-11-28T18:15:08Z"
     },
     {
       "id": "ce771adbf1523ad8",
@@ -26,7 +572,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-11-27T19:28:10Z"
+      "accessCheckedAt": "2026-11-28T18:15:08Z"
     },
     {
       "id": "3f20c4c08f5beb59",
@@ -39,72 +585,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-11-27T19:28:10Z"
-    },
-    {
-      "id": "c0dfde507c8295a5",
-      "title": "Mexico files complaint with US over DEA tip line on alleged drug dealers",
-      "url": "https://www.aljazeera.com/news/2026/11/27/mexico-files-complaint-with-us-over-tip-line-on-alleged-drug-traffickers",
-      "publishedAt": "2026-11-27T17:58:36Z",
-      "sourceId": "aljazeera",
-      "source": "Al Jazeera",
-      "sourceUrl": "https://www.aljazeera.com/",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-11-27T19:28:10Z"
-    },
-    {
-      "id": "b0acbc841dcd6e42",
-      "title": "Kyiv offers Black Sea ceasefire to protect grain exports",
-      "url": "https://www.aljazeera.com/news/2026/11/27/kyiv-offers-black-sea-ceasefire-as-putin-expands-russias-navy",
-      "publishedAt": "2026-11-27T17:44:33Z",
-      "sourceId": "aljazeera",
-      "source": "Al Jazeera",
-      "sourceUrl": "https://www.aljazeera.com/",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-11-27T19:28:10Z"
-    },
-    {
-      "id": "f47b8eacb89266d5",
-      "title": "Mecca pact allies condemn ‘heinous’ Houthi attacks on Saudi Arabia",
-      "url": "https://www.aljazeera.com/news/2026/11/27/mecca-pact-allies-condemn-heinous-houthi-attacks-on-saudi-arabia",
-      "publishedAt": "2026-11-27T17:41:24Z",
-      "sourceId": "aljazeera",
-      "source": "Al Jazeera",
-      "sourceUrl": "https://www.aljazeera.com/",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-11-27T19:28:10Z"
-    },
-    {
-      "id": "59aa2847ef1216e3",
-      "title": "Spain’s Pedro Sanchez bets on left-wing voting surge to defy election polls",
-      "url": "https://www.aljazeera.com/news/2026/11/27/spains-pedro-sanchez-bets-on-left-wing-voting-surge-to-defy-election-polls",
-      "publishedAt": "2026-11-27T17:15:35Z",
-      "sourceId": "aljazeera",
-      "source": "Al Jazeera",
-      "sourceUrl": "https://www.aljazeera.com/",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-11-27T19:28:10Z"
-    },
-    {
-      "id": "f0a421052751423a",
-      "title": "‘Bear trap’: Ukraine hails new operation as Russian casualties mount",
-      "url": "https://www.aljazeera.com/news/2026/11/27/ukraine-rejects-unfavourable-compromises-as-it-frees-more-territory",
-      "publishedAt": "2026-11-27T17:13:46Z",
-      "sourceId": "aljazeera",
-      "source": "Al Jazeera",
-      "sourceUrl": "https://www.aljazeera.com/",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-11-27T19:28:10Z"
+      "accessCheckedAt": "2026-11-28T18:15:08Z"
     },
     {
       "id": "a29976dc6623ad60",
@@ -117,7 +598,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-11-27T19:28:10Z"
+      "accessCheckedAt": "2026-11-28T18:15:08Z"
     },
     {
       "id": "841769bf9248bdbf",
@@ -130,20 +611,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-11-27T19:28:10Z"
-    },
-    {
-      "id": "8ac15ca1c7faa992",
-      "title": "Republicans rethink tariffs, giving Democrats an opening to challenge Trump",
-      "url": "https://www.pbs.org/newshour/politics/republicans-rethink-tariffs-giving-democrats-an-opening-to-challenge-trump",
-      "publishedAt": "2026-11-27T16:51:50Z",
-      "sourceId": "pbs",
-      "source": "PBS News",
-      "sourceUrl": "https://www.pbs.org/newshour/",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-11-27T19:28:10Z"
+      "accessCheckedAt": "2026-11-28T18:15:08Z"
     },
     {
       "id": "05a844bfc611effa",
@@ -156,46 +624,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-11-27T19:28:10Z"
-    },
-    {
-      "id": "99440e5ad966b92c",
-      "title": "Israel’s Eisenkot accuses Netanyahu’s party of stalling coalition talks",
-      "url": "https://www.aljazeera.com/news/2026/11/27/israels-eisenkot-accuses-netanyahus-party-of-stalling-coalition-talks",
-      "publishedAt": "2026-11-27T16:33:21Z",
-      "sourceId": "aljazeera",
-      "source": "Al Jazeera",
-      "sourceUrl": "https://www.aljazeera.com/",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-11-27T19:28:10Z"
-    },
-    {
-      "id": "2056d813280bbf8c",
-      "title": "Norse Atlantic files for bankruptcy, halts flights and ticket sales",
-      "url": "https://www.aljazeera.com/economy/2026/11/27/norse-atlantic-files-for-bankruptcy-halts-flights-and-ticket-sales",
-      "publishedAt": "2026-11-27T16:31:20Z",
-      "sourceId": "aljazeera",
-      "source": "Al Jazeera",
-      "sourceUrl": "https://www.aljazeera.com/",
-      "topic": "Business",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-11-27T19:28:10Z"
-    },
-    {
-      "id": "3cc9cfaa920b7352",
-      "title": "As Google threatens to cut schools' search access, Los Angeles blocks AI features",
-      "url": "https://www.pbs.org/newshour/education/as-google-threatens-to-cut-schools-search-access-los-angeles-blocks-ai-features",
-      "publishedAt": "2026-11-27T16:20:17Z",
-      "sourceId": "pbs",
-      "source": "PBS News",
-      "sourceUrl": "https://www.pbs.org/newshour/",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-11-27T19:28:10Z"
+      "accessCheckedAt": "2026-11-28T18:15:08Z"
     },
     {
       "id": "f96ce33fc4a2f787",
@@ -208,46 +637,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-11-27T19:28:10Z"
-    },
-    {
-      "id": "cc229b760a2d428c",
-      "title": "Trump backs Iraqi PM’s oil smuggling crackdown",
-      "url": "https://www.aljazeera.com/news/2026/11/27/trump-backs-iraqi-pms-oil-smuggling-crackdown",
-      "publishedAt": "2026-11-27T16:13:07Z",
-      "sourceId": "aljazeera",
-      "source": "Al Jazeera",
-      "sourceUrl": "https://www.aljazeera.com/",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-11-27T19:28:10Z"
-    },
-    {
-      "id": "106ebec53e85844c",
-      "title": "Serbia's Student List runs chemistry professor Radomir Saicic for president",
-      "url": "https://www.dw.com/en/serbia-s-student-list-runs-chemistry-professor-radomir-saicic-for-president/a-80078700",
-      "publishedAt": "2026-11-27T16:09:00Z",
-      "sourceId": "dw",
-      "source": "DW",
-      "sourceUrl": "https://www.dw.com/en/top-stories/s-9097",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-11-27T19:28:10Z"
-    },
-    {
-      "id": "793ac48bd0ff1c33",
-      "title": "Serbia's student movement proposes a chemistry professor for presidency ahead of Dec. 27 ballot",
-      "url": "https://www.pbs.org/newshour/world/serbias-student-movement-proposes-a-chemistry-professor-for-presidency-ahead-of-dec-27-ballot",
-      "publishedAt": "2026-11-27T15:51:35Z",
-      "sourceId": "pbs",
-      "source": "PBS News",
-      "sourceUrl": "https://www.pbs.org/newshour/",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-11-27T19:28:10Z"
+      "accessCheckedAt": "2026-11-28T18:15:08Z"
     },
     {
       "id": "bdef9f0677e0f346",
@@ -260,111 +650,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-11-27T19:28:10Z"
-    },
-    {
-      "id": "db77a91f7967ada9",
-      "title": "Zelenskyy urges the U.S. to pressure Putin, calling Trump's 'my friend' remark strange",
-      "url": "https://www.pbs.org/newshour/world/zelenskyy-urges-the-u-s-to-pressure-putin-calling-trumps-my-friend-remark-strange",
-      "publishedAt": "2026-11-27T15:31:42Z",
-      "sourceId": "pbs",
-      "source": "PBS News",
-      "sourceUrl": "https://www.pbs.org/newshour/",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-11-27T19:28:10Z"
-    },
-    {
-      "id": "89715928f3161285",
-      "title": "Serbia’s student-led movement nominates chemistry professor for presidency",
-      "url": "https://www.aljazeera.com/news/2026/11/27/serbias-student-led-movement-nominates-chemistry-professor-for-presidency",
-      "publishedAt": "2026-11-27T15:26:50Z",
-      "sourceId": "aljazeera",
-      "source": "Al Jazeera",
-      "sourceUrl": "https://www.aljazeera.com/",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-11-27T19:28:10Z"
-    },
-    {
-      "id": "6376c63424c9bfc7",
-      "title": "Canada’s top court largely upholds Quebec’s religious symbols ban",
-      "url": "https://www.aljazeera.com/news/2026/11/27/canadas-top-court-largely-upholds-quebecs-religious-symbols-ban",
-      "publishedAt": "2026-11-27T15:15:36Z",
-      "sourceId": "aljazeera",
-      "source": "Al Jazeera",
-      "sourceUrl": "https://www.aljazeera.com/",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-11-27T19:28:10Z"
-    },
-    {
-      "id": "eda96fc4440c1412",
-      "title": "Parts of the U.S. clean up, power outages being restored after Thanksgiving storm soaks East Coast",
-      "url": "https://www.pbs.org/newshour/nation/heavy-rain-winds-down-as-power-remains-out-for-hundreds-of-thousands-on-the-east-coast",
-      "publishedAt": "2026-11-27T15:15:26Z",
-      "sourceId": "pbs",
-      "source": "PBS News",
-      "sourceUrl": "https://www.pbs.org/newshour/",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-11-27T19:28:10Z"
-    },
-    {
-      "id": "063ba3673aae3bdf",
-      "title": "‘Playing with fire’: Trump faces GOP backlash over Nvidia CEO’s return",
-      "url": "https://www.aljazeera.com/news/2026/11/27/playing-with-fire-republicans-incensed-after-trump-gets-huang-reinstated",
-      "publishedAt": "2026-11-27T15:12:09Z",
-      "sourceId": "aljazeera",
-      "source": "Al Jazeera",
-      "sourceUrl": "https://www.aljazeera.com/",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-11-27T19:28:10Z"
-    },
-    {
-      "id": "6706ade2e375df5f",
-      "title": "Weeks of hot deals are encouraging record Black Friday spending despite inflation concerns",
-      "url": "https://www.pbs.org/newshour/economy/before-sunrise-at-macys-a-familiar-black-friday-ritual-returns-despite-weeks-of-online-deals",
-      "publishedAt": "2026-11-27T14:59:54Z",
-      "sourceId": "pbs",
-      "source": "PBS News",
-      "sourceUrl": "https://www.pbs.org/newshour/",
-      "topic": "Business",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-11-27T19:28:10Z"
-    },
-    {
-      "id": "98cdabbb53546aca",
-      "title": "Arsenic in the water: Thailand presses Myanmar over mining pollution",
-      "url": "https://www.dw.com/en/arsenic-in-the-water-thailand-presses-myanmar-over-mining-pollution/a-80074295",
-      "publishedAt": "2026-11-27T14:56:00Z",
-      "sourceId": "dw",
-      "source": "DW",
-      "sourceUrl": "https://www.dw.com/en/top-stories/s-9097",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-11-27T19:28:10Z"
-    },
-    {
-      "id": "302857b88ba031c0",
-      "title": "Georgia: Police clash with Besiktas fans at Israel club game",
-      "url": "https://www.dw.com/en/georgia-police-clash-with-besiktas-fans-at-israel-club-game/a-80076111",
-      "publishedAt": "2026-11-27T14:21:00Z",
-      "sourceId": "dw",
-      "source": "DW",
-      "sourceUrl": "https://www.dw.com/en/top-stories/s-9097",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-11-27T19:28:10Z"
+      "accessCheckedAt": "2026-11-28T18:15:08Z"
     },
     {
       "id": "deb84ffc187010ec",
@@ -377,64 +663,12 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-11-27T19:28:10Z"
+      "accessCheckedAt": "2026-11-28T18:15:08Z"
     },
     {
-      "id": "cca9f57cfa2833ef",
-      "title": "Eisenkot navigates tricky waters as he tests power-sharing with Netanyahu",
-      "url": "https://www.aljazeera.com/news/2026/11/27/eisenkot-navigates-tricky-waters-as-he-tests-power-sharing-with-netanyahu",
-      "publishedAt": "2026-11-27T13:28:55Z",
-      "sourceId": "aljazeera",
-      "source": "Al Jazeera",
-      "sourceUrl": "https://www.aljazeera.com/",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-11-27T19:28:10Z"
-    },
-    {
-      "id": "48455633872a8510",
-      "title": "Famine expect to rise due to global conflict, El Nino, warns UN",
-      "url": "https://www.aljazeera.com/news/2026/11/27/famine-expect-to-rise-due-to-global-conflict-el-nino-warns-un",
-      "publishedAt": "2026-11-27T13:16:28Z",
-      "sourceId": "aljazeera",
-      "source": "Al Jazeera",
-      "sourceUrl": "https://www.aljazeera.com/",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-11-27T19:28:10Z"
-    },
-    {
-      "id": "2a4ac067a1460655",
-      "title": "In Iran, child marriage risks complicated by war",
-      "url": "https://www.dw.com/en/in-iran-child-marriage-risks-complicated-by-war/a-80075473",
-      "publishedAt": "2026-11-27T13:06:00Z",
-      "sourceId": "dw",
-      "source": "DW",
-      "sourceUrl": "https://www.dw.com/en/top-stories/s-9097",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-11-27T19:28:10Z"
-    },
-    {
-      "id": "fe3a5d80492d5012",
-      "title": "Philippines: VP Duterte says father's ICC case 'not a fair trial'",
-      "url": "https://www.dw.com/en/philippines-vp-duterte-says-father-s-icc-case-not-a-fair-trial/a-80074359",
-      "publishedAt": "2026-11-27T12:51:00Z",
-      "sourceId": "dw",
-      "source": "DW",
-      "sourceUrl": "https://www.dw.com/en/top-stories/s-9097",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-11-27T19:28:10Z"
-    },
-    {
-      "id": "98b542aa0047df3b",
-      "title": "The tiny BSW is a party in crisis, as it is set to hand the far-right AfD power in eastern Germany",
-      "url": "https://www.dw.com/en/the-tiny-bsw-is-a-party-in-crisis-as-it-is-set-to-hand-the-far-right-afd-power-in-eastern-germany/a-80074417",
+      "id": "1325791c0011b5a9",
+      "title": "BSW set to play major role in German politics once more",
+      "url": "https://www.dw.com/en/bsw-set-to-play-major-role-in-german-politics-once-more/a-80074417",
       "publishedAt": "2026-11-27T12:45:00Z",
       "sourceId": "dw",
       "source": "DW",
@@ -442,12 +676,12 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-11-27T19:28:10Z"
+      "accessCheckedAt": "2026-11-28T18:15:08Z"
     },
     {
-      "id": "dc77282142e76639",
-      "title": "Ukraine's Heraskevych hails EU pushback against Russian athletes",
-      "url": "https://www.dw.com/en/ukraine-s-heraskevych-hails-eu-pushback-against-russian-athletes/a-80074375",
+      "id": "fdb750d9b0f298a8",
+      "title": "Russia sports ban: Ukraine's Heraskevych hails EU pushback",
+      "url": "https://www.dw.com/en/russia-sports-ban-ukraine-s-heraskevych-hails-eu-pushback/a-80074375",
       "publishedAt": "2026-11-27T12:37:00Z",
       "sourceId": "dw",
       "source": "DW",
@@ -455,7 +689,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-11-27T19:28:10Z"
+      "accessCheckedAt": "2026-11-28T18:15:08Z"
     },
     {
       "id": "4f080bc8669ee396",
@@ -468,7 +702,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-11-27T19:28:10Z"
+      "accessCheckedAt": "2026-11-28T18:15:08Z"
     },
     {
       "id": "18fe1169a454eda7",
@@ -481,7 +715,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-11-27T19:28:10Z"
+      "accessCheckedAt": "2026-11-28T18:15:08Z"
     },
     {
       "id": "695ff2a523789100",
@@ -494,7 +728,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-11-27T19:28:10Z"
+      "accessCheckedAt": "2026-11-28T18:15:08Z"
     },
     {
       "id": "cb0cc2b981f3f82d",
@@ -507,20 +741,7 @@
       "topic": "Science",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-11-27T19:28:10Z"
-    },
-    {
-      "id": "78ecce9504e7d2d0",
-      "title": "Indian workers fill Germany's labor gaps but face hurdles and risks",
-      "url": "https://www.dw.com/en/indian-workers-fill-germany-s-labor-gaps-but-face-hurdles-and-risks/a-80072882",
-      "publishedAt": "2026-11-27T11:06:00Z",
-      "sourceId": "dw",
-      "source": "DW",
-      "sourceUrl": "https://www.dw.com/en/top-stories/s-9097",
-      "topic": "Business",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-11-27T19:28:10Z"
+      "accessCheckedAt": "2026-11-28T18:15:08Z"
     },
     {
       "id": "669f7c0e37c566d3",
@@ -533,7 +754,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-11-27T19:28:10Z"
+      "accessCheckedAt": "2026-11-28T18:15:08Z"
     },
     {
       "id": "9cefa7338ff2db8d",
@@ -546,202 +767,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-11-27T19:28:10Z"
-    },
-    {
-      "id": "99f53c3de373c111",
-      "title": "Screen-free tweens try their hand at Dungeons & Dragons",
-      "url": "https://www.npr.org/2026/11/27/nx-s1-6042445/screen-free-tweens-try-their-hand-at-dungeons-dragons",
-      "publishedAt": "2026-11-27T10:00:00Z",
-      "sourceId": "npr",
-      "source": "NPR",
-      "sourceUrl": "https://www.npr.org/sections/news/",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-11-27T19:28:10Z"
-    },
-    {
-      "id": "f348230bb96943b8",
-      "title": "Trump effectively ended asylum. Advocates look to the Supreme Court to restore it",
-      "url": "https://www.npr.org/2026/11/27/nx-s1-6037854/trump-effectively-ended-asylum-supreme-court",
-      "publishedAt": "2026-11-27T10:00:00Z",
-      "sourceId": "npr",
-      "source": "NPR",
-      "sourceUrl": "https://www.npr.org/sections/news/",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-11-27T19:28:10Z"
-    },
-    {
-      "id": "14ac023c317d704d",
-      "title": "New balloons will fly in the postponed 100th Macy's Thanksgiving Day Parade",
-      "url": "https://www.npr.org/2026/11/27/nx-s1-6043796/new-balloons-will-fly-in-the-postponed-100th-macys-thanksgiving-day-parade",
-      "publishedAt": "2026-11-27T09:45:12Z",
-      "sourceId": "npr",
-      "source": "NPR",
-      "sourceUrl": "https://www.npr.org/sections/news/",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-11-27T19:28:10Z"
-    },
-    {
-      "id": "e86d8dfb44b51595",
-      "title": "Eagles rally to stun Cowboys coming back from 21 points behind",
-      "url": "https://www.npr.org/2026/11/27/nx-s1-6055519/eagles-stun-cowboys",
-      "publishedAt": "2026-11-27T08:23:12Z",
-      "sourceId": "npr",
-      "source": "NPR",
-      "sourceUrl": "https://www.npr.org/sections/news/",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-11-27T19:28:10Z"
-    },
-    {
-      "id": "068a038ee80b867c",
-      "title": "Stormy Thanksgiving weather causes delays and damages for many Americans",
-      "url": "https://www.pbs.org/newshour/show/stormy-thanksgiving-weather-causes-delays-and-damages-for-many-americans",
-      "publishedAt": "2026-11-26T23:55:26Z",
-      "sourceId": "pbs",
-      "source": "PBS News",
-      "sourceUrl": "https://www.pbs.org/newshour/",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-11-27T19:28:10Z"
-    },
-    {
-      "id": "d2f82cd6bc566c68",
-      "title": "News Wrap: EPA reports 'zero' airborne lead in Iowa",
-      "url": "https://www.pbs.org/newshour/show/news-wrap-epa-reports-zero-airborne-lead-in-iowa",
-      "publishedAt": "2026-11-26T23:50:47Z",
-      "sourceId": "pbs",
-      "source": "PBS News",
-      "sourceUrl": "https://www.pbs.org/newshour/",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-11-27T19:28:10Z"
-    },
-    {
-      "id": "55f539a0b3e3dac9",
-      "title": "Despite political divide, Americans often 'speak in one voice'",
-      "url": "https://www.pbs.org/newshour/show/despite-political-divide-americans-often-speak-in-one-voice",
-      "publishedAt": "2026-11-26T23:45:13Z",
-      "sourceId": "pbs",
-      "source": "PBS News",
-      "sourceUrl": "https://www.pbs.org/newshour/",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-11-27T19:28:10Z"
-    },
-    {
-      "id": "29137ef5f7a91a20",
-      "title": "How Democrats' election successes could lead to new climate change policies",
-      "url": "https://www.pbs.org/newshour/show/how-democrats-election-successes-could-lead-to-new-climate-change-policies",
-      "publishedAt": "2026-11-26T23:40:45Z",
-      "sourceId": "pbs",
-      "source": "PBS News",
-      "sourceUrl": "https://www.pbs.org/newshour/",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-11-27T19:28:10Z"
-    },
-    {
-      "id": "264e8f73068ba7a0",
-      "title": "How women in Israel are playing larger roles in the military",
-      "url": "https://www.pbs.org/newshour/show/how-women-in-israel-are-playing-larger-roles-in-the-military",
-      "publishedAt": "2026-11-26T23:35:58Z",
-      "sourceId": "pbs",
-      "source": "PBS News",
-      "sourceUrl": "https://www.pbs.org/newshour/",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-11-27T19:28:10Z"
-    },
-    {
-      "id": "6c2913dc063b6e25",
-      "title": "Journalist's experiences highlight challenges of being a family caregiver",
-      "url": "https://www.pbs.org/newshour/show/journalists-experiences-highlight-challenges-of-being-a-family-caregiver",
-      "publishedAt": "2026-11-26T23:30:16Z",
-      "sourceId": "pbs",
-      "source": "PBS News",
-      "sourceUrl": "https://www.pbs.org/newshour/",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-11-27T19:28:10Z"
-    },
-    {
-      "id": "a26c850f6b670944",
-      "title": "New book focuses on how to get through life's hardest days",
-      "url": "https://www.pbs.org/newshour/show/new-book-focuses-on-how-to-get-through-lifes-hardest-days",
-      "publishedAt": "2026-11-26T23:25:43Z",
-      "sourceId": "pbs",
-      "source": "PBS News",
-      "sourceUrl": "https://www.pbs.org/newshour/",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-11-27T19:28:10Z"
-    },
-    {
-      "id": "b70f30f35eb06bce",
-      "title": "The best strategies for holiday shopping in the age of AI",
-      "url": "https://www.pbs.org/newshour/show/the-best-strategies-for-holiday-shopping-in-the-age-of-ai",
-      "publishedAt": "2026-11-26T23:20:00Z",
-      "sourceId": "pbs",
-      "source": "PBS News",
-      "sourceUrl": "https://www.pbs.org/newshour/",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-11-27T19:28:10Z"
-    },
-    {
-      "id": "83a805525aa78695",
-      "title": "Judge declines to issue a long-term ban on taxpayer-funded, pro-Trump ads critics called propaganda",
-      "url": "https://www.pbs.org/newshour/politics/judge-declines-to-issue-a-long-term-ban-on-taxpayer-funded-pro-trump-ads-critics-called-propaganda",
-      "publishedAt": "2026-11-26T22:20:22Z",
-      "sourceId": "pbs",
-      "source": "PBS News",
-      "sourceUrl": "https://www.pbs.org/newshour/",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-11-27T19:28:10Z"
-    },
-    {
-      "id": "ec1a697321ab37f7",
-      "title": "North Korea's Kim vows to build more nuclear weapons after ignoring Trump's overture",
-      "url": "https://www.pbs.org/newshour/world/north-koreas-kim-vows-to-build-more-nuclear-weapons-after-ignoring-trumps-overture",
-      "publishedAt": "2026-11-26T21:48:41Z",
-      "sourceId": "pbs",
-      "source": "PBS News",
-      "sourceUrl": "https://www.pbs.org/newshour/",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-11-27T19:28:10Z"
-    },
-    {
-      "id": "992189939719fe39",
-      "title": "Mexico's most powerful cartels adapt as arrests and leadership battles reshape their ranks",
-      "url": "https://www.pbs.org/newshour/world/mexicos-most-powerful-cartels-adapt-as-arrests-and-leadership-battles-reshape-their-ranks",
-      "publishedAt": "2026-11-26T21:36:34Z",
-      "sourceId": "pbs",
-      "source": "PBS News",
-      "sourceUrl": "https://www.pbs.org/newshour/",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-11-27T19:28:10Z"
+      "accessCheckedAt": "2026-11-28T18:15:08Z"
     },
     {
       "id": "19bf6b73472f2116",
@@ -754,7 +780,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-11-27T19:28:10Z"
+      "accessCheckedAt": "2026-11-28T18:15:08Z"
     },
     {
       "id": "7432464312306661",
@@ -767,7 +793,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-11-27T19:28:10Z"
+      "accessCheckedAt": "2026-11-28T18:15:08Z"
     },
     {
       "id": "a2b49bd3f417d38d",
@@ -780,7 +806,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-11-27T19:28:10Z"
+      "accessCheckedAt": "2026-11-28T18:15:08Z"
     },
     {
       "id": "642807df4daffd30",
@@ -793,7 +819,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-11-27T19:28:10Z"
+      "accessCheckedAt": "2026-11-28T18:15:08Z"
     },
     {
       "id": "002158da7f559b34",
@@ -806,7 +832,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-11-27T19:28:10Z"
+      "accessCheckedAt": "2026-11-28T18:15:08Z"
     },
     {
       "id": "6d93bfcf9a924544",
@@ -819,7 +845,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-11-27T19:28:10Z"
+      "accessCheckedAt": "2026-11-28T18:15:08Z"
     },
     {
       "id": "f8755c2422c23805",
@@ -832,7 +858,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-11-27T19:28:10Z"
+      "accessCheckedAt": "2026-11-28T18:15:08Z"
     },
     {
       "id": "ee7eaa5aee4eaa29",
@@ -845,7 +871,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-11-27T19:28:10Z"
+      "accessCheckedAt": "2026-11-28T18:15:08Z"
     },
     {
       "id": "3c7a6577a7d2967f",
@@ -858,12 +884,12 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-11-27T19:28:10Z"
+      "accessCheckedAt": "2026-11-28T18:15:08Z"
     },
     {
-      "id": "5dcdff651badde4f",
-      "title": "Russia-Ukraine war extends to the Baltic and the Mediterranean",
-      "url": "https://www.dw.com/en/russia-ukraine-war-extends-to-the-baltic-and-the-mediterranean/a-80054604",
+      "id": "b6459954c1cdec66",
+      "title": "Russia-Ukraine war extends to Baltic, Mediterranean",
+      "url": "https://www.dw.com/en/russia-ukraine-war-extends-to-baltic-mediterranean/a-80054604",
       "publishedAt": "2026-11-26T09:27:00Z",
       "sourceId": "dw",
       "source": "DW",
@@ -871,7 +897,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-11-27T19:28:10Z"
+      "accessCheckedAt": "2026-11-28T18:15:08Z"
     },
     {
       "id": "ebcc18ee02d95aa3",
@@ -884,7 +910,7 @@
       "topic": "Business",
       "kind": "Agency release",
       "access": "free",
-      "accessCheckedAt": "2026-11-27T19:28:10Z"
+      "accessCheckedAt": "2026-11-28T18:15:08Z"
     },
     {
       "id": "657383e9620afc1b",
@@ -897,7 +923,7 @@
       "topic": "Business",
       "kind": "Agency release",
       "access": "free",
-      "accessCheckedAt": "2026-11-27T19:28:10Z"
+      "accessCheckedAt": "2026-11-28T18:15:08Z"
     },
     {
       "id": "5597adb6deec8d93",
@@ -910,7 +936,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-11-27T19:28:10Z"
+      "accessCheckedAt": "2026-11-28T18:15:08Z"
     },
     {
       "id": "b64160bb0ab97e2e",
@@ -923,7 +949,7 @@
       "topic": "Business",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-11-27T19:28:10Z"
+      "accessCheckedAt": "2026-11-28T18:15:08Z"
     },
     {
       "id": "4ca1ab8cf6e45471",
@@ -936,7 +962,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-11-27T19:28:10Z"
+      "accessCheckedAt": "2026-11-28T18:15:08Z"
     },
     {
       "id": "dbacc66829c5076b",
@@ -949,7 +975,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-11-27T19:28:10Z"
+      "accessCheckedAt": "2026-11-28T18:15:08Z"
     },
     {
       "id": "84aba926a54f3d83",
@@ -962,7 +988,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-11-27T19:28:10Z"
+      "accessCheckedAt": "2026-11-28T18:15:08Z"
     },
     {
       "id": "50a0a19d14b32893",
@@ -975,7 +1001,7 @@
       "topic": "Business",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-11-27T19:28:10Z"
+      "accessCheckedAt": "2026-11-28T18:15:08Z"
     },
     {
       "id": "cb6cf80357ec9f11",
@@ -988,7 +1014,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-11-27T19:28:10Z"
+      "accessCheckedAt": "2026-11-28T18:15:08Z"
     },
     {
       "id": "ee53adbaa022cb62",
@@ -1001,7 +1027,7 @@
       "topic": "Business",
       "kind": "Agency release",
       "access": "free",
-      "accessCheckedAt": "2026-11-27T19:28:10Z"
+      "accessCheckedAt": "2026-11-28T18:15:08Z"
     },
     {
       "id": "1abf02560b4b349b",
@@ -1014,7 +1040,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-11-27T19:28:10Z"
+      "accessCheckedAt": "2026-11-28T18:15:08Z"
     },
     {
       "id": "561a217770653ae8",
@@ -1027,7 +1053,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-11-27T19:28:10Z"
+      "accessCheckedAt": "2026-11-28T18:15:08Z"
     },
     {
       "id": "863307befc9b63c4",
@@ -1040,7 +1066,7 @@
       "topic": "Business",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-11-27T19:28:10Z"
+      "accessCheckedAt": "2026-11-28T18:15:08Z"
     },
     {
       "id": "80792ca0c99833de",
@@ -1053,7 +1079,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-11-27T19:28:10Z"
+      "accessCheckedAt": "2026-11-28T18:15:08Z"
     },
     {
       "id": "66b3f174435ce487",
@@ -1066,7 +1092,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-11-27T19:28:10Z"
+      "accessCheckedAt": "2026-11-28T18:15:08Z"
     },
     {
       "id": "81630f1516948c07",
@@ -1079,7 +1105,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-11-27T19:28:10Z"
+      "accessCheckedAt": "2026-11-28T18:15:08Z"
     },
     {
       "id": "07e5204aa07f6185",
@@ -1092,7 +1118,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-11-27T19:28:10Z"
+      "accessCheckedAt": "2026-11-28T18:15:08Z"
     },
     {
       "id": "88659c21678bcdb2",
@@ -1105,7 +1131,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-11-27T19:28:10Z"
+      "accessCheckedAt": "2026-11-28T18:15:08Z"
     },
     {
       "id": "291e539f1390dc95",
@@ -1118,7 +1144,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-11-27T19:28:10Z"
+      "accessCheckedAt": "2026-11-28T18:15:08Z"
     },
     {
       "id": "312e033bb073764d",
@@ -1131,7 +1157,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-11-27T19:28:10Z"
+      "accessCheckedAt": "2026-11-28T18:15:08Z"
     },
     {
       "id": "3b4f8cad49dc8ea1",
@@ -1144,7 +1170,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-11-27T19:28:10Z"
+      "accessCheckedAt": "2026-11-28T18:15:08Z"
     },
     {
       "id": "56ba1301d92a41de",
@@ -1157,7 +1183,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-11-27T19:28:10Z"
+      "accessCheckedAt": "2026-11-28T18:15:08Z"
     },
     {
       "id": "fcf379d5b1d288b3",
@@ -1170,7 +1196,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-11-27T19:28:10Z"
+      "accessCheckedAt": "2026-11-28T18:15:08Z"
     },
     {
       "id": "0d1ff511f0b95e36",
@@ -1183,7 +1209,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-11-27T19:28:10Z"
+      "accessCheckedAt": "2026-11-28T18:15:08Z"
     },
     {
       "id": "098488c374ac2eaa",
@@ -1196,7 +1222,7 @@
       "topic": "Science",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-11-27T19:28:10Z"
+      "accessCheckedAt": "2026-11-28T18:15:08Z"
     },
     {
       "id": "d912dc284aaa78d4",
@@ -1209,7 +1235,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-11-27T19:28:10Z"
+      "accessCheckedAt": "2026-11-28T18:15:08Z"
     },
     {
       "id": "f6cd4061ee7256af",
@@ -1222,111 +1248,7 @@
       "topic": "World",
       "kind": "Publisher report",
       "access": "free",
-      "accessCheckedAt": "2026-11-27T19:28:10Z"
-    },
-    {
-      "id": "74b233a91706b47b",
-      "title": "Russian helicopter suspected of violating Finnish airspace",
-      "url": "https://www.dw.com/en/russian-helicopter-suspected-of-violating-finnish-airspace/a-80010133",
-      "publishedAt": "2026-11-21T17:08:00Z",
-      "sourceId": "dw",
-      "source": "DW",
-      "sourceUrl": "https://www.dw.com/en/top-stories/s-9097",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-11-27T19:28:10Z"
-    },
-    {
-      "id": "bb068ad239d4abc0",
-      "title": "EU and Indonesia sign trade deal",
-      "url": "https://www.dw.com/en/eu-and-indonesia-sign-trade-deal/a-80010099",
-      "publishedAt": "2026-11-21T15:21:00Z",
-      "sourceId": "dw",
-      "source": "DW",
-      "sourceUrl": "https://www.dw.com/en/top-stories/s-9097",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-11-27T19:28:10Z"
-    },
-    {
-      "id": "1b2179c4750698a3",
-      "title": "EU takes aim at tech giants in tax proposal",
-      "url": "https://www.dw.com/en/eu-takes-aim-at-tech-giants-in-tax-proposal/a-80009255",
-      "publishedAt": "2026-11-21T14:58:00Z",
-      "sourceId": "dw",
-      "source": "DW",
-      "sourceUrl": "https://www.dw.com/en/top-stories/s-9097",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-11-27T19:28:10Z"
-    },
-    {
-      "id": "1c5b88d83c350cb9",
-      "title": "Russia strikes Zelenskyy's hometown, killing 2",
-      "url": "https://www.dw.com/en/russia-strikes-zelenskyy-s-hometown-killing-2/a-80009458",
-      "publishedAt": "2026-11-21T14:44:00Z",
-      "sourceId": "dw",
-      "source": "DW",
-      "sourceUrl": "https://www.dw.com/en/top-stories/s-9097",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-11-27T19:28:10Z"
-    },
-    {
-      "id": "a4dc5259a9cdd297",
-      "title": "Germany's religious freedom report: Authoritarian regimes, holy wars, and spies abroad",
-      "url": "https://www.dw.com/en/germany-s-religious-freedom-report-authoritarian-regimes-holy-wars-and-spies-abroad/a-79995216",
-      "publishedAt": "2026-11-21T12:31:00Z",
-      "sourceId": "dw",
-      "source": "DW",
-      "sourceUrl": "https://www.dw.com/en/top-stories/s-9097",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-11-27T19:28:10Z"
-    },
-    {
-      "id": "6ffb3b6c56d4e0fb",
-      "title": "Federal Reserve announces College Fed Challenge winners",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20261120b.htm",
-      "publishedAt": "2026-11-20T21:15:00Z",
-      "sourceId": "fed",
-      "source": "Federal Reserve",
-      "sourceUrl": "https://www.federalreserve.gov/newsevents/pressreleases.htm",
-      "topic": "Business",
-      "kind": "Agency release",
-      "access": "free",
-      "accessCheckedAt": "2026-11-27T19:28:10Z"
-    },
-    {
-      "id": "49dba4e1f94e88eb",
-      "title": "Russian ornithologist jailed over small donations to Navalny's foundation",
-      "url": "https://www.dw.com/en/russian-ornithologist-jailed-over-small-donations-to-navalny-s-foundation/a-80005505",
-      "publishedAt": "2026-11-20T20:45:00Z",
-      "sourceId": "dw",
-      "source": "DW",
-      "sourceUrl": "https://www.dw.com/en/top-stories/s-9097",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-11-27T19:28:10Z"
-    },
-    {
-      "id": "cd9d2374316080d8",
-      "title": "COP31: No agreement on climate science, disinformation spreading",
-      "url": "https://www.dw.com/en/cop31-no-agreement-on-climate-science-disinformation-spreading/a-80004894",
-      "publishedAt": "2026-11-20T20:34:00Z",
-      "sourceId": "dw",
-      "source": "DW",
-      "sourceUrl": "https://www.dw.com/en/top-stories/s-9097",
-      "topic": "World",
-      "kind": "Publisher report",
-      "access": "free",
-      "accessCheckedAt": "2026-11-27T19:28:10Z"
+      "accessCheckedAt": "2026-11-28T18:15:08Z"
     }
   ],
   "sources": [
@@ -1337,12 +1259,12 @@
       "kind": "Publisher report",
       "home": "https://www.npr.org/sections/news/",
       "feed": "https://feeds.npr.org/1001/rss.xml",
-      "checkedAt": "2026-11-27T19:28:10Z",
+      "checkedAt": "2026-11-28T18:15:08Z",
       "status": "ok",
-      "lastSuccessAt": "2026-11-27T19:28:10Z",
-      "count": 7,
+      "lastSuccessAt": "2026-11-28T18:15:08Z",
+      "count": 8,
       "eligibleCount": 8,
-      "omittedAccessCount": 1
+      "omittedAccessCount": 0
     },
     {
       "id": "dw",
@@ -1351,11 +1273,11 @@
       "kind": "Publisher report",
       "home": "https://www.dw.com/en/top-stories/s-9097",
       "feed": "https://rss.dw.com/rdf/rss-en-all",
-      "checkedAt": "2026-11-27T19:28:10Z",
+      "checkedAt": "2026-11-28T18:15:08Z",
       "status": "ok",
-      "lastSuccessAt": "2026-11-27T19:28:10Z",
-      "count": 58,
-      "eligibleCount": 59,
+      "lastSuccessAt": "2026-11-28T18:15:08Z",
+      "count": 57,
+      "eligibleCount": 58,
       "omittedAccessCount": 1
     },
     {
@@ -1365,9 +1287,9 @@
       "kind": "Publisher report",
       "home": "https://www.pbs.org/newshour/",
       "feed": "https://www.pbs.org/newshour/feeds/rss/headlines",
-      "checkedAt": "2026-11-27T19:28:10Z",
+      "checkedAt": "2026-11-28T18:15:08Z",
       "status": "ok",
-      "lastSuccessAt": "2026-11-27T19:28:10Z",
+      "lastSuccessAt": "2026-11-28T18:15:08Z",
       "count": 20,
       "eligibleCount": 20,
       "omittedAccessCount": 0
@@ -1379,11 +1301,11 @@
       "kind": "Publisher report",
       "home": "https://www.aljazeera.com/",
       "feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "checkedAt": "2026-11-27T19:28:10Z",
+      "checkedAt": "2026-11-28T18:15:08Z",
       "status": "ok",
-      "lastSuccessAt": "2026-11-27T19:28:10Z",
-      "count": 13,
-      "eligibleCount": 13,
+      "lastSuccessAt": "2026-11-28T18:15:08Z",
+      "count": 8,
+      "eligibleCount": 8,
       "omittedAccessCount": 0
     },
     {
@@ -1393,9 +1315,9 @@
       "kind": "Agency release",
       "home": "https://www.nasa.gov/news/",
       "feed": "https://www.nasa.gov/news-release/feed/",
-      "checkedAt": "2026-11-27T19:28:10Z",
+      "checkedAt": "2026-11-28T18:15:08Z",
       "status": "ok",
-      "lastSuccessAt": "2026-11-27T19:28:10Z",
+      "lastSuccessAt": "2026-11-28T18:15:08Z",
       "count": 0,
       "eligibleCount": 0,
       "omittedAccessCount": 0
@@ -1407,11 +1329,11 @@
       "kind": "Agency release",
       "home": "https://www.federalreserve.gov/newsevents/pressreleases.htm",
       "feed": "https://www.federalreserve.gov/feeds/press_all.xml",
-      "checkedAt": "2026-11-27T19:28:10Z",
+      "checkedAt": "2026-11-28T18:15:08Z",
       "status": "ok",
-      "lastSuccessAt": "2026-11-27T19:28:10Z",
-      "count": 4,
-      "eligibleCount": 4,
+      "lastSuccessAt": "2026-11-28T18:15:08Z",
+      "count": 3,
+      "eligibleCount": 3,
       "omittedAccessCount": 0
     }
   ]
